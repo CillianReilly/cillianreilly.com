@@ -1,0 +1,14 @@
+body {
+	font-family: Arial;
+	margin-left: 40px;
+	}
+
+pre,code {
+	background-color: #D4D4D4;
+	font-size: medium;
+	}
+
+pre {
+	word-wrap: break-word;
+	white-space: pre-wrap;
+	}
