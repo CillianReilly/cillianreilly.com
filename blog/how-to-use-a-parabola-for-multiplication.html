@@ -1,0 +1,64 @@
+<!DOCTYPE html><html lang="en">
+
+<head>
+	<title>blog | cillianreilly.com</title>
+	<link rel="shortcut icon" href="images/favicon.ico?v=1">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<h2>How to use a parabola for multiplication</h2>
+	
+	<p>It's possible to multiply any two real numbers using just a parabola and some straight lines.
+	<br>
+	Simply pick two numbers, <i>x<sub>1</sub></i> and <i>x<sub>2</sub></i> say, extend a line vertically until you hit the parabola, join both of these points and where this line intersects the y-axis, is the product <i>-ax<sub>1</sub>x<sub>2</sub></i>, where <i>a</i> is the coefficient of the <i>x<sup>2</sup></i> term in the parabola.</p>
+
+	<p>In the example below, I choose <i>x<sub>1</sub></i> = 7 and <i>x<sub>2</sub></i> = -3, and a parabola described by <i>y = x<sup>2</sup></i>.
+	<br>
+	As you can see, the line joining points (-3,9) and (7,49) intersects the y-axis at (0,21), which is equal to -(1)(7)(3).</p>
+	<img src="images/blog/parabola.png">
+	
+	<p>Unsurprisingly, this isn't a coincidence. The choice of parabola is irrelevant, as long as the constant term is 0. I will use the general from of a parabola with no constant term <i>y = ax<sup>2</sup>+bx</i> in the proof below to demonstrate this.</p>
+
+	<br>
+	<h4>Proof:</h4>
+	<p>Claim: The y-intersect of the line joining two points on a parabola described by <i>y = ax<sup>2</sup>+bx</i> is the negative of the product of the <i>x</i> components of the same two points on the parabola.</p>
+	
+	<p>Let <i>x<sub>1</sub></i> and <i>x<sub>2</sub></i> be two arbitrary points on the x-axis. Then, both</p>
+	
+	<p><i>y<sub>1</sub> = ax<sub>1</sub><sup>2</sup>+bx<sub>1</sub></i>
+	<br>
+	<i>y<sub>2</sub> = ax<sub>2</sub><sup>2</sup>+bx<sub>2</sub></i></p>
+	
+	<p>are points lying on the parabola, and the equation of the line joining them is given by <i>l = mx+c</i>, where <i>m</i> is the slope and is described by:</p>	
+	
+	<p><i>m = (1/x<sub>1</sub>-x<sub>2</sub>)(ax<sub>1</sub><sup>2</sup>+bx<sub>1</sub> - (ax<sub>2</sub><sup>2</sup>+bx<sub>2</sub>))
+	<br>
+	m = (1/x<sub>1</sub>-x<sub>2</sub>)(ax<sub>1</sub><sup>2</sup>+bx<sub>1</sub> - ax<sub>2</sub><sup>2</sup>-bx<sub>2</sub>)
+	<br>
+	m = (1/x<sub>1</sub>-x<sub>2</sub>)(a(x<sub>1</sub><sup>2</sup>-x<sub>2</sub><sup>2</sup>)+b(x<sub>1</sub>-x<sub>2</sub>))
+	<br>
+	m = (1/x<sub>1</sub>-x<sub>2</sub>)(a(x<sub>1</sub>-x<sub>2</sub>)(x<sub>1</sub>+x<sub>2</sub>)+b(x<sub>1</sub>-x<sub>2</sub>)) (Difference of squares)
+	<br>
+	m = a(x<sub>1</sub>+x<sub>2</sub>)+b</i></p>
+
+	<p>Therefore, the line <i>l</i> joining <i>y<sub>1</sub></i> and <i>y<sub>2</sub></i> on the parabola is given by <i>l = (a(x<sub>1</sub>+x<sub>2</sub>)+b)x+c</i>. It just remains to calculate the value of <i>c</i>, which is the y-intersect of <i>l</i>.<p>
+
+	<p>Since we already know that (<i>x<sub>1</sub>,ax<sub>1</sub><sup>2</sup>+bx<sub>1</sub></i>) is a point on the parabola, filling these values into the equation of <i>l</i>, we get:</p>
+
+	<p><i>ax<sub>1</sub><sup>2</sup>+bx<sub>1</sub> = (a(x<sub>1</sub>+x<sub>2</sub>)+b)x<sub>1</sub>+c
+	<br>
+	ax<sub>1</sub><sup>2</sup>+bx<sub>1</sub> = ax<sub>1</sub><sup>2</sup>+ax<sub>1</sub>x<sub>2</sub>+bx<sub>1</sub>+c
+	<br>
+	0 = ax<sub>1</sub>x<sub>2</sub>+c
+	<br>
+	c = -ax<sub>1</sub>x<sub>2</sub>
+	<br>
+	QED</i></p>
+	
+	<p>Note: The reason the parabola can't have a non-zero constant term is that this value would just shift the parabola up or down vertically, which would only affect the value of the y interesection.
+	<br>
+	For more on parabolas, Matt Parker has a video on his youtube channel: <a href="https://www.youtube.com/watch?v=hoh4TmPzu1w" target="_blank" rel="noopener noreferrer">There is only One True Parabola<a></p>
+</body>
