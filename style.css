@@ -1,6 +1,7 @@
 body {
-	font-family: Arial;
-	margin-left: 40px;
+	font-family: Courier;
+	margin: 0;
+        padding: 0;
 	}
 
 pre,code {
@@ -11,4 +12,45 @@ pre,code {
 pre {
 	word-wrap: break-word;
 	white-space: pre-wrap;
+	}
+
+.topnav {
+	background-color: #646464;
+	overflow: hidden;
+	}
+
+.topnav a {
+	float: left;
+	color: #f2f2f2;
+	padding: 14px 16px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	}
+
+.topnav a:hover {
+        background-color: #D0D0D0;
+        color: black;
+        }
+
+.topnav a.active {
+        background-color: #D0D0D0;
+        color: black;
+        }
+
+.panelContainer {
+	display: flex;
+	margin: auto;
+	}
+
+.leftPanel {
+	float: left;	
+	background-color: #646464;
+	}
+
+.rightPanel {
+	display: flex;
+	margin: auto;	
+	margin-right: 0px;
+	background-color: #646464;
 	}
