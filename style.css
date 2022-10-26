@@ -4,16 +4,6 @@ body {
         padding: 0;
 	}
 
-pre,code {
-	background-color: #D4D4D4;
-	font-size: medium;
-	}
-
-pre {
-	word-wrap: break-word;
-	white-space: pre-wrap;
-	}
-
 .topnav {
 	background-color: #646464;
 	overflow: hidden;
