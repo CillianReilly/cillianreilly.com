@@ -1,7 +1,8 @@
 body {
-	font-family: Courier;
+	font-family: Consolas;
 	margin: 0;
-        padding: 0;
+	padding: 0;
+	padding-top: 60px;
 	}
 
 .topnav {
@@ -23,12 +24,12 @@ body {
 
 .topnav a:hover {
         background-color: #D0D0D0;
-        color: black;
+        color: #646464;
         }
 
 .topnav a.active {
         background-color: #D0D0D0;
-        color: black;
+        color: #646464;
         }
 
 .panelContainer {
