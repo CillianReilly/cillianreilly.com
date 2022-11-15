@@ -1,0 +1,40 @@
+<!DOCTYPE html><html lang="en">
+
+<head>
+        <title>blog | cillianreilly.com</title>
+        <link rel="shortcut icon" href="../images/favicon.ico?v=1">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+        <script src="https://kit.fontawesome.com/d5b933f0ba.js" crossorigin="anonymous"></script>
+
+	<style>
+		pre {
+			white-space: pre-wrap;
+			word-wrap: break-word;
+			}
+	</style>
+
+</head>
+
+<body>
+	<pre>
+// Multi-line paste into the kdb+ console
+
+paste:{
+	value						// evaluate gathered input
+	({
+		$[(""~r:read0 0)and not x;		// read input, check current function count
+			(x;"");				// return initial state, halt convergence
+			(x+/124-7h$"{}"inter r;		// increment/decrement function count
+			y,` sv enlist r)		// append latest input, host line separator
+			]
+		}.)/					// apply to 2 item initial state and converge
+		[(0;"")]				// initial state
+	}
+
+// {value{x,read0 0}/[""]}				// no comments or blank lines in input
+// k){.{x,0::0}/[""]}
+	<pre>
+</body>
+</html>
