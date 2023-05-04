@@ -19,7 +19,7 @@
 0b sv 1b,(61#0b),10b		// smallest long
 -1+0b sv 1b,(61#0b),10b		// cant' describe smaller
 
-any each 1_(>':)0N -0W -9223372036854775806 -2 -1 0 1 2 9223372036854775806 0W		// increasing longs
+1_(>':)0N -0W -9223372036854775806 -2 -1 0 1 2 9223372036854775806 0W			// increasing longs
 any each 1_(>':)0b vs/:0N -0W -9223372036854775806 -2 -1 0 1 2 9223372036854775806 0W	// non-increasing bits
 any each 1_(>':)0b vs/:0 1 2 9223372036854775806 0W 0N -0W -9223372036854775806 -2 -1	// increasing bitwise
 0b vs/:0 1 2 9223372036854775806 0W 0N -0W -9223372036854775806 -2 -1
