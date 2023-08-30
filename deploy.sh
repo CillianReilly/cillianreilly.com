@@ -4,7 +4,13 @@ set -e
 cd ~/repos/cillianreilly.com
 git pull
 
-cp -r * ~/public_html
-rm ~/www/README.md
+cp -r * ~/www
+cd ~/www
+
+./generate.sh
+
+rm README.md
+rm *.sh
+rm -r templates
 
 exit 0

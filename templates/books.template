@@ -1,0 +1,344 @@
+    <div class="container" style="text-align:center">
+        <button class="collapsible activeC"><b>current</b></button>
+        <div class="content" style="max-height:170px">
+            <table>
+                <tr>
+                    <td><a href="https://www.goodreads.com/book/show/18615474-heart-of-darkness" target="_blank" rel="noopener noreferrer" title="Heart of Darkness - Joseph Conrad"><img src="images/books/heartofdarkness.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/44065062" target="_blank" rel="noopener noreferrer" title="Something Deeply Hidden - Sean Carroll"><img src="images/books/somethingdeeplyhidden.jpg"/></a></td>
+                </tr>
+            </table>
+        </div>
+
+        <button class="collapsible"><b>next</b></button>
+        <div class="content">
+            <table>
+                <tr>
+                    <td><a href="https://www.goodreads.com/book/show/29093292-the-daily-stoic" target="_blank" rel="noopener noreferrer" title="The Daily Stoic - Ryan Holiday"><img src="images/books/dailystoic.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/30659.Meditations" target="_blank" rel="noopener noreferrer" title="Mediatations - Marcus Aurelius"><img src="images/books/meditations.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/415.Gravity_s_Rainbow" target="_blank" rel="noopener noreferrer" title="Gravity's Rainbow - Thomas Pynchon"><img src="images/books/gravitysrainbow.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/15997.Paradise_Lost" target="_blank" rel="noopener noreferrer" title="Paradise Lost - John Milton"><img src="images/books/paradiselost.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg" target="_blank" rel="noopener noreferrer" title="The Cuckoo's Egg - Cliff Stoll"><img src="images/books/cuckoosegg.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/6759.Infinite_Jest" target="_blank" rel="noopener noreferrer" title="Infinite Jest - David Foster Wallace"><img src="images/books/infinitejest.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/en/book/show/66499.The_Creature_from_Jekyll_Island" target="_blank" rel="noopener noreferrer" title="The Creature from Jekyll Island - G. Edward Griffin"><img src="images/books/creaturefromjekyllisland.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/60625290-bitcoin-is-venice" target="_blank" rel="noopener noreferrer" title="Bitcoin is Venice - Allen Farrington, Sacha Meyers"><img src="images/books/bitcoinisvenice.jpg"/></a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West" target="_blank" rel="noopener noreferrer" title="Blood Meridian - Cormac McCarthy"><img src="images/books/bloodmeridian.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/797114.Unfinished_Tales_of_N_menor_and_Middle_Earth" target="_blank" rel="noopener noreferrer" title="Unfinished Tales of Númenor and Mddle-Earth - J.R.R. Tolkien"><img src="images/books/unfinishedtalesofnumenorandmiddleearth.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/6986632" target="_blank" rel="noopener noreferrer" title="The Greatest Trade Ever - Gregory Zuckerman"><img src="images/books/greatesttradeever.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/1713426.Predictably_Irrational" target="_blank" rel="noopener noreferrer" title="Predictably Irrational - Dan Ariely"><img src="images/books/predictablyirrational.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/42929.Gai_Jin" target="_blank" rel="noopener noreferrer" title="Gai-Jin - James Clavell"><img src="images/books/gaijin.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/27997547-nova" target="_blank" rel="noopener noreferrer" title="Nova - Samuel R. Delany"><img src="images/books/nova.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/6617037" target="_blank" rel="noopener noreferrer" title="Debt - David Graeber"><img src="images/books/debt.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/50542150-civilized-to-death" target="_blank" rel="noopener noreferrer" title="Civilized to Death - Christopher Ryan"><img src="images/books/civilizedtodeath.jpg"/></a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://www.goodreads.com/book/show/54546067" target="_blank" rel="noopener noreferrer" title="Consequences of Capitalism - Noam Chomsky, Marv Waterstone"><img src="images/books/consequencesofcapitalism.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/44171.The_Looking_Glass_War" target="_blank" rel="noopener noreferrer" title="The Looking Glass War - John Le Carre"><img src="images/books/lookingglasswar.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/3271263-pricing-money" target="_blank" rel="noopener noreferrer" title="Pricing Money - J.D.A. Wiseman"><img src="images/books/pricingmoney.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/34466963" target="_blank" rel="noopener noreferrer" title="Why We Sleep - Matthew Walker"><img src="images/books/whywesleep.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/57989070-ender-s-game" target="_blank" rel="noopener noreferrer" title="Ender's Game - Orson Scott Card"><img src="images/books/endersgame.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/156785" target="_blank" rel="noopener noreferrer" title="Diaspora - Greg Egan"><img src="images/books/diaspora.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/56897688" target="_blank" rel="noopener noreferrer" title="Why Calories Don't Count - Giles Yeo"><img src="images/books/whycaloriesdontcount.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war" target="_blank" rel="noopener noreferrer" title="This is How You Lose the Time War - Amal El-Mohtar, Max Gladstone"><img src="images/books/thisishowyoulosethetimewar.jpg"/></a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://www.goodreads.com/book/show/1001555.The_Hunt_for_Red_October" target="_blank" rel="noopener noreferrer" title="The Hunt for Red October - Tom Clancy"><img src="images/books/huntforredoctober.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/62675564" target="_blank" rel="noopener noreferrer" title="The Future of Geography - Tim Marshall"><img src="images/books/futureofgeography.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/25812847" target="_blank" rel="noopener noreferrer" title="Silk Roads - Peter Frankopan"><img src="images/books/silkroads.jpg"/></a></td>
+                </tr>
+            </table>
+        </div>
+
+        <button class="collapsible"><b>recent</b></button>
+        <div class="content">
+
+            <button class="collapsible"><b>2023</b></button>
+            <div class="content">
+                <table>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/30809689-norse-mythology" target="_blank" rel="noopener noreferrer" title="Norse Mythology - Neil Gaiman"><img src="images/books/norsemythology.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/61756940-ultra-processed-people" target="_blank" rel="noopener noreferrer" title="Ultra-Processed People - Chris van Tulleken"><img src="images/books/ultraprocessedpeople.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/58468421-the-power-of-geography" target="_blank" rel="noopener noreferrer" title="The Power of Geography - Tim Marshall"><img src="images/books/powerofgeography.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/10639" target="_blank" rel="noopener noreferrer" title="The Paradox of Choice - Barry Schwartz"><img src="images/books/paradoxofchoice.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/18062209" target="_blank" rel="noopener noreferrer" title="Entropia - Samuel Alexander"><img src="images/books/entropia.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/49230963-kleptopia" target="_blank" rel="noopener noreferrer" title="Kleptopia - Tom Burgis"><img src="images/books/kleptopia.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/890.Of_Mice_and_Men" target="_blank" rel="noopener noreferrer" title="Of Mice and Men - John Steinbeck"><img src="images/books/ofmiceandmen.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/19494" target="_blank" rel="noopener noreferrer" title="The Spy Who Came In From The Cold - John le Carre"><img src="images/books/spywhocameinfromthecold.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/9592.Mother_Night" target="_blank" rel="noopener noreferrer" title="Mother Night - Kurt Vonnegut"><img src="images/books/mothernight.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/8493780-babel-17" target="_blank" rel="noopener noreferrer" title="Babel-17 - Samuel R. Delany"><img src="images/books/babel17.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/622855" target="_blank" rel="noopener noreferrer" title="A Murder of Quality - John le Carre"><img src="images/books/murderofquality.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/18144124" target="_blank" rel="noopener noreferrer" title="I Am Pilgrim - Terry Hayes"><img src="images/books/iampilgrim.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/50358538" target="_blank" rel="noopener noreferrer" title="A Libertarian Walks Into a Bear - Matthew Hongoltz-Hetling"><img src="images/books/libertarianwalksintoabear.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/41385326-ball-lightning" target="_blank" rel="noopener noreferrer" title="Ball Lightning - Cixin Liu"><img src="images/books/balllightning.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/40651883-snow-crash" target="_blank" rel="noopener noreferrer" title="Snow Crash - Neal Stephenson"><img src="images/books/snowcrash.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/34644531-the-eudaemonic-pie" target="_blank" rel="noopener noreferrer" title="The Eudaemonic Pie - Thomas A. Bass"><img src="images/books/eudaemonicpie.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/14185" target="_blank" rel="noopener noreferrer" title="The Three Stigmata of Palmer Eldritch - Philip K. Dick"><img src="images/books/threestigmataofpalmereldritch.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/23731885" target="_blank" rel="noopener noreferrer" title="Wealth Secrets of the One Percent - Sam Wilkin"><img src="images/books/wealthsecretsoftheonepercent.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/42933" target="_blank" rel="noopener noreferrer" title="Tai-Pan - James Clavell"><img src="images/books/taipan.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/55825675" target="_blank" rel="noopener noreferrer" title="The Waste-Free World - Ron Gonen"><img src="images/books/wastefreeworld.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/35604796" target="_blank" rel="noopener noreferrer" title="What is Real? - Adam Becker"><img src="images/books/whatisreal.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/46460" target="_blank" rel="noopener noreferrer" title="Call for the Dead -  John le Carre"><img src="images/books/callforthedead.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/35133627-the-doomed-city" target="_blank" rel="noopener noreferrer" title="The Doomed City - Arkady & Boris Strugatsky"><img src="images/books/doomedcity.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/43889703" target="_blank" rel="noopener noreferrer" title="The Man Who Solved the Market - Gregory Zuckerman"><img src="images/books/manwhosolvedthemarket.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/59122401-fantastic-numbers-and-where-to-find-them" target="_blank" rel="noopener noreferrer" title="Fantastic Numbers and Where to Find Them"><img src="images/books/fantasticnumbersandwheretofindthem.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/36265578" target="_blank" rel="noopener noreferrer" title="Gate Crashers - Patrick S. Tomlinson"><img src="images/books/gatecrashers.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/31934612-deep-thinking" target="_blank" rel="noopener noreferrer" title="Deep Thinking - Garry Kasparov"><img src="images/books/deepthinking.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/12346742-ubik" target="_blank" rel="noopener noreferrer" title="Ubik - Philip K. Dick"><img src="images/books/ubik.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/30259572-the-art-of-frugal-hedonism" target="_blank" rel="noopener noreferrer" title="The Art of Frugal Hedonism - Annie Raser-Rowland, Adam Grubb"><img src="images/books/artoffrugalhedonism.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/23396040" target="_blank" rel="noopener noreferrer" title="Ada's Algorithm - James Essinger"><img src="images/books/adasalgorithm.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/30646587" target="_blank" rel="noopener noreferrer" title="The Simple Path to Wealth - J.L. Collins"><img src="images/books/simplepathtowealth.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/20696006-being-mortal" target="_blank" rel="noopener noreferrer" title="Being Mortal - Atul Gawande"><img src="images/books/beingmortal.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/41881472-the-psychology-of-money" target="_blank" rel="noopener noreferrer" title="The Psychology of Money - Morgan Housel"><img src="images/books/psychologyofmoney.jpg"/></a></td>
+                        <!-- Recommended by Fergus Taylor -->
+                        <td><a href="https://www.goodreads.com/book/show/12148120-lonesome-dove" target="_blank" rel="noopener noreferrer" title="Lonesome Dove - Larry McMurtry"><img src="images/books/lonesomedove.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/en/book/show/1052.The_Richest_Man_in_Babylon" target="_blank" rel="noopener noreferrer" title="The Richest Man in Babylon - George S. Clason"><img src="images/books/richestmaninbabylon.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/60860908-bitcoin" target="_blank" rel="noopener noreferrer" title="Bitcoin: Everything divided by 21 Million - Knut Svanholm"><img src="images/books/everythingdividedby21million.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/18007564-the-martian" target="_blank" rel="noopener noreferrer" title="The Martian - Andy Weir"><img src="images/books/martian.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/33313.Kitchen_Confidential" target="_blank" rel="noopener noreferrer" title="Kitchen Confidential - Anthony Bourdain"><img src="images/books/kitchenconfidential.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism" target="_blank" rel="noopener noreferrer" title="The Age of Surveillance Capitalism - Shoshana Zuboff"><img src="images/books/theageofsurveillancecapitalism.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/59519578-raspberry-pi-for-dummies" target="_blank" rel="noopener noreferrer" title="Raspberry Pi For Dummies - Sean McManus, Mike Cook"><img src="images/books/raspberrypifordummies.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/850062.The_Road" target="_blank" rel="noopener noreferrer" title="The Road - Cormac McCarthy"><img src="images/books/theroad.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/55723020-dopamine-nation" target="_blank" rel="noopener noreferrer" title="Dopamine Nation - Anna Lembke"><img src="images/books/dopaminenation.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/53239405-cloudmoney" target="_blank" rel="noopener noreferrer" title="Cloud Money - Brett Scott"><img src="images/books/cloudmoney.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/40226738-i-robot" target="_blank" rel="noopener noreferrer" title="I, Robot - Isaac Asimov"><img src="images/books/irobot.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/56430139-shape" target="_blank" rel="noopener noreferrer" title="Shape - Jordan Ellenberg"><img src="images/books/shape.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/18881237-universal-principles-of-design-revised-and-updated" target="_blank" rel="noopener noreferrer" title="Universal Principles of Design - William Lidwell, Kritina Holden, Jill Butler"><img src="images/books/universalprinciplesofdesign.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/381355.The_Bogleheads_Guide_to_Investing" target="_blank" rel="noopener noreferrer" title="The Bogleheads' Guide to Investing - Taylor Larimore, Michael LeBoeuf & Mel Lindauer"><img src="images/books/bogleheadsguidetoinvesting.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/6906016-the-martian-chronicles" target="_blank" rel="noopener noreferrer" title="The Martian Chronicles - Ray Bradbury"><img src="images/books/martianchronicles.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/43592998-recursion" target="_blank" rel="noopener noreferrer" title="Recursion - Blake Crouch"><img src="images/books/recursion.jpg"/></a></td>
+                        <!-- Recommended by Eanna Reilly -->
+                        <td><a href="https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep" target="_blank" rel="noopener noreferrer" title="Do Androids Dream of Electric Sheep? - Philip K. Dick"><img src="images/books/doandroidsdreamofelectricsheep.jpg"/></a></td>
+                    </tr>
+                </table>
+            </div>
+
+            <button class="collapsible"><b>2022</b></button>
+            <div class="content">
+                <table>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/12502369-slaughterhouse-five" target="_blank" rel="noopener noreferrer" title="Slaughterhouse-Five - Kurt Vonnegut"><img src="images/books/slaughterhousefive.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/10244169-lolita" target="_blank" rel="noopener noreferrer" title="Lolita - Vladimir Nabokov"><img src="images/books/lolita.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/11468377-thinking-fast-and-slow" target="_blank" rel="noopener noreferrer" title="Thinking, Fast and Slow - Daniel Kahneman"><img src="images/books/thinkingfastandslow.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/22514127-automate-the-boring-stuff-with-python" target="_blank" rel="noopener noreferrer" title="Automate the Boring Stuff with Python - Al Sweigart"><img src="images/books/automatetheboringstuff.jpg"/></a></td>
+                        <!-- Recommended by Isabella Kristensen -->
+                        <td><a href="https://www.goodreads.com/book/show/6794.Cloud_Atlas" target="_blank" rel="noopener noreferrer" title="Cloud Atlas - David Mitchell"><img src="images/books/cloudatlas.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/8165487-the-millionaire-next-door" target="_blank" rel="noopener noreferrer" title="The Millionaire Next Door - Thomas J. Stanley"><img src="images/books/millionairenextdoor.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/40242274-a-random-walk-down-wall-street" target="_blank" rel="noopener noreferrer" title="A Random Walk Down Wall Street - Burton G. Malkiel"><img src="images/books/randomwalkdownwallstreet.jpg"/></a></td>
+                        <!-- Recommended by Christy Dailly -->
+                        <td><a href="https://www.goodreads.com/en/book/show/50923402-life-in-the-fasting-lane" target="_blank" rel="noopener noreferrer" title="Life in the Fasting Lane - Jason Fung"><img src="images/books/lifeinthefastinglane.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/en/book/show/48984798-financial-freedom" target="_blank" rel="noopener noreferrer" title="Financial Freedom - Grant Sabatier"><img src="images/books/financialfreedom.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/56668328-the-bomber-mafia" target="_blank" rel="noopener noreferrer" title="The Bomber Mafia - Malcolm Gladwell"><img src="images/books/bombermafia.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/402093.Sh_gun" target="_blank" rel="noopener noreferrer" title="Shogun - James Clavell"><img src="images/books/shogun.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/52962238-principles-for-dealing-with-the-changing-world-order" target="_blank" rel="noopener noreferrer" title="The Changing World Order - Ray Dalio"><img src="images/books/changingworldorder.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/13607246-the-new-depression" target="_blank" rel="noopener noreferrer" title="The New Depression - Richard Duncan"><img src="images/books/newdepression.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/41745613-blockchain" target="_blank" rel="noopener noreferrer" title="Blockchain: The Next Everything - Stephen Williams"><img src="images/books/blockchainthenexteverything.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/43586628-the-power-of-passive-income" target="_blank" rel="noopener noreferrer" title="The Power of Passive Income - Entrepreneur Media"><img src="images/books/powerofpassiveincome.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/38643462-millennial-money-makeover" target="_blank" rel="noopener noreferrer" title="Millennial Money Makeover - Conor Richardson"><img src="images/books/millennialmoneymakeover.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/en/book/show/29343111-zero-waste-home" target="_blank" rel="noopener noreferrer" title="Zero Waste Home - Bea Johnson"><img src="images/books/zerowastehome.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/5634236-your-money-or-your-life" target="_blank" rel="noopener noreferrer" title="Your Money or Your Life - Joe Dominguez & Vicki Robin"><img src="images/books/yourmoneyoryourlife.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/15801967-contagious" target="_blank" rel="noopener noreferrer" title="Contagious - Jonah Berger"><img src="images/books/contagious.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/21557205-secrets-of-wealthy-people" target="_blank" rel="noopener noreferrer" title="Secrets of Wealthy People - David Stevenson"><img src="images/books/secretsofwealthypeople.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/38390751-the-infinite-game" target="_blank" rel="noopener noreferrer" title="The Infinite Game - Simon Sinek"><img src="images/books/infinitegame.jpg"/></a></td>
+                        <!-- Recommended by Isabella Kristensen -->
+                        <td><a href="https://www.goodreads.com/en/book/show/18460128-changing-gears" target="_blank" rel="noopener noreferrer" title="Changing Gears - Greg Foyster"><img src="images/books/changinggears.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/26271990-templar" target="_blank" rel="noopener noreferrer" title="The Rules of Wealth - Richard Templar"><img src="images/books/rulesofwealth.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/40102.Blink" target="_blank" rel="noopener noreferrer" title="Blink - Malcolm Gladwell"><img src="images/books/blink.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/17994.The_Code_Book" target="_blank" rel="noopener noreferrer" title="The Code Book - Simon Singh"><img src="images/books/codebook.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/17356911-the-great-mathematical-problems" target="_blank" rel="noopener noreferrer" title="The Great Mathematical Problems - Ian Stewart"><img src="images/books/greatmathematicalproblems.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/57429394-the-blocksize-war" target="_blank" rel="noopener noreferrer" title="The Blocksize War - Jonathan Bier"><img src="images/books/blocksizewar.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/2612.The_Tipping_Point" target="_blank" rel="noopener noreferrer" title="The Tipping Point - Malcolm Gladwell"><img src="images/books/tippingpoint.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/50157837-the-price-of-tomorrow" target="_blank" rel="noopener noreferrer" title="The Price of Tomorrow - Jeff Booth"><img src="images/books/priceoftomorrow.jpg"/></a></td>
+                        <!-- Recommended by Eanna Reilly -->
+                        <td><a href="https://www.goodreads.com/en/book/show/4982.The_Sirens_of_Titan" target="_blank" rel="noopener noreferrer" title="The Sirens of Titan - Kurt Vonnegut"><img src="images/books/sirensoftitan.jpg"/></a></td>
+                        <!-- Recommended by Darragh Frost -->
+                        <!-- Recommended by Eanna Reilly -->
+                        <td><a href="https://www.goodreads.com/book/show/14.The_Hitchhiker_s_Guide_to_the_Galaxy" target="_blank" rel="noopener noreferrer" title="The Hitchhiker's Guide to the Galaxy - Douglas Adams"><img src="images/books/hitchhikersguidetothegalaxy.jpg"/></a></td>
+                        <!-- Recommended by Eanna Reilly -->
+                        <td><a href="https://www.goodreads.com/en/book/show/9597.Player_Piano" target="_blank" rel="noopener noreferrer" title="Player Piano - Kurt Vonnegut"><img src="images/books/playerpiano.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <!-- Recommended by Eanna Reilly -->
+                        <td><a href="https://www.goodreads.com/en/book/show/38315.Fooled_by_Randomness" target="_blank" rel="noopener noreferrer" title="Fooled By Randomness - Nassim Nicholas Taleb"><img src="images/books/fooledbyrandomness.jpg"/></a></td>
+                        <!-- Recommended by Ciarán Brennan -->
+                        <!-- Recommended by Eanna Reilly -->
+                        <td><a href="https://www.goodreads.com/book/show/27833670-dark-matter" target="_blank" rel="noopener noreferrer" title="Dark Matter - Blake Crouch"><img src="images/books/darkmatter.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/6516450-what-the-dog-saw-and-other-adventures" target="_blank" rel="noopener noreferrer" title="What the Dog Saw - Malcolm Gladwell"><img src="images/books/whatthedogsaw.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/34466958-bullshit-jobs" target="_blank" rel="noopener noreferrer" title="Bullshit Jobs - David Graeber"><img src="images/books/bullshitjobs.jpg"/></a></td>
+                        <!-- Recommended by Fergus Taylor -->
+                        <td><a href="https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo" target="_blank" rel="noopener noreferrer" title="The Count of Monte Cristo - Alexandre Dumas"><img src="images/books/countofmontecristo.jpg"/></a></td>
+                        <!-- Recommended by Christy Dailly -->
+                        <td><a href="https://www.goodreads.com/book/show/57270040-intuitive-fasting" target="_blank" rel="noopener noreferrer" title="Intuitive Fasting - Will Cole"><img src="images/books/intuitivefasting.jpg"/></a></td>
+                        <!-- Recommended by Stephen Keane -->
+                        <td><a href="https://www.goodreads.com/en/book/show/54026608-fast-this-way" target="_blank" rel="noopener noreferrer" title="Fast This Way - Dave Asprey"><img src="images/books/fastthisway.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/28512671-everybody-lies" target="_blank" rel="noopener noreferrer" title="Everybody Lies - Seth Stephens-Davidowitz"><img src="images/books/everybodylies.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/33224757-building-wealth-and-being-happy" target="_blank" rel="noopener noreferrer" title="Building Wealth and Being Happy - Graeme Falco"><img src="images/books/buildingwealthandbeinghappy.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/21820378-mastering-bitcoin" target="_blank" rel="noopener noreferrer" title="Mastering Bitcoin - Andreas M. Antonopoulos"><img src="images/books/masteringbitcoin.jpg"/></a></td>
+                        <!-- Recommended by Darragh Frost -->
+                        <td><a href="https://www.goodreads.com/book/show/55030.Cosmos" target="_blank" rel="noopener noreferrer" title="Cosmos - Carl Sagan"><img src="images/books/cosmos.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/40672036-digital-minimalism" target="_blank" rel="noopener noreferrer" title="Digital Minimalism - Cal Newport"><img src="images/books/digitalminimalism.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/36197082-cryptoassets" target="_blank" rel="noopener noreferrer" title="Cryptoassets - Chris Burniske & Jack Tatar"><img src="images/books/cryptoassets.jpg"></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/55930141-weird-maths" target="_blank" rel="noopener noreferrer" title="Weird Maths - David Darling & Agnijo Banerjee"><img src="images/books/weirdmaths.jpg"></a></td>
+                        <td><a href="https://www.goodreads.com/en/book/show/42201843-blockchain-for-everyone" target="_blank" rel="noopener noreferrer" title="Blockchain for Everyone - John Hargrave"><img src="images/books/blockchainforeveryone.jpg"></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/37667098-einstein-s-greatest-mistake" target="_blank" rel="noopener noreferrer" title="Einstein's Greatest Mistake - David Bodanis"><img src="images/books/einsteinsgreatestmistake.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/44777039-six-impossible-things" target="_blank" rel="noopener noreferrer" title="Six Impossible Things - John Gribbin"><img src="images/books/siximpossiblethings.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/5129.Brave_New_World" target="_blank" rel="noopener noreferrer" title="Brave New World - Aldous Huxley"><img src="images/books/bravenewworld.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/53907906-the-ten-equations-that-rule-the-world" target="_blank" rel="noopener noreferrer" title="The Ten Equations that Rule the World - David Sumpter"><img src="images/books/tenequationsthatruletheworld.jpg"/></a></td>
+                        <!-- Recommended by Ciaran O'Rourke -->
+                        <td><a href="https://www.goodreads.com/book/show/25135194-prisoners-of-geography" target="_blank" rel="noopener noreferrer" title="Prisoners of Geography - Tim Marshall"><img src="images/books/prisonersofgeography.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/22609354-the-dorito-effect" target="_blank" rel="noopener noreferrer" title="The Dorito Effect - Mark Schatzker"><img src="images/books/doritoeffect.jpg"/></a></td>
+                        <!-- Recommended by Aaron Robinson -->
+                        <td><a href="https://www.goodreads.com/book/show/33600.Shantaram" target="_blank" rel="noopener noreferrer" title="Shantaram - Gregory David Roberts"><img src="images/books/shantaram.jpg"/></a></td>
+                        <!-- Recommended by Ciaran O'Rourke -->
+                        <td><a href="https://www.goodreads.com/book/show/3228917-outliers" target="_blank" rel="noopener noreferrer" title="Outliers - Malcom Gladwell"><img src="images/books/outliers.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/59539733-the-fiat-standard" target="_blank" rel="noopener noreferrer" title="The Fiat Standard - Saifedean Ammous"><img src="images/books/fiatstandard.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/36448501-the-bitcoin-standard" target="_blank" rel="noopener noreferrer" title="The Bitcoin Standard - Saifedean Ammous"><img src="images/books/bitcoinstandard.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/2715.Salt" target="_blank" rel="noopener noreferrer" title="Salt - Mark Kurlansky"><img src="images/books/salt.jpg"/></a></td>
+                        <!-- Recommended by Fergus Taylor -->
+                        <td><a href="https://www.goodreads.com/book/show/4406.East_of_Eden" target="_blank" rel="noopener noreferrer" title="East of Eden - John Steinbeck"><img src="images/books/eastofeden.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/44492285-dune-messiah" target="_blank" rel="noopener noreferrer" title="Dune Messiah - Frank Herbert"><img src="images/books/dunemessiah.jpg"/></a></td>
+                    </tr>
+                </table>
+            </div>
+
+            <button class="collapsible"><b>2021</b></button>
+            <div class="content">
+                <table>
+                    <tr>
+                        <!-- Recommended by Darragh Frost -->
+                        <td><a href="https://www.goodreads.com/book/show/36141600-life-3-0" target="_blank" rel="noopener noreferrer" title="Life 3.0 - Max Tegmark"><img src="images/books/life3.0.jpg"/></a></td>
+                        <!-- Recommended by Darragh Frost -->
+                        <td><a href="https://www.goodreads.com/book/show/27220736-shoe-dog" target="_blank" rel="noopener noreferrer" title="Shoe Dog - Phil Knight"><img src="images/books/shoedog.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/36340275-the-art-of-the-good-life" target="_blank" rel="noopener noreferrer" title="The Art Of The Good Life - Rolf Dobelli"><img src="images/books/artofthegoodlife.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/12765004-minimalism" target="_blank" rel="noopener noreferrer" title="Essential Essays - Joshua Fields Millburn & Ryan Nicodemus"><img src="images/books/essentialessays.jpg"/></a></td>
+                        <!-- Recommended by Darragh Frost -->
+                        <td><a href="https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything" target="_blank" rel="noopener noreferrer" title="A Short History of Nearly Everything - Bill Bryson"><img src="images/books/shorthistoryofnearlyeverything.jpg"/></a></td>
+                        <!-- Recommended by Darragh Frost -->
+                        <td><a href="https://www.goodreads.com/book/show/31138556-homo-deus" target="_blank" rel="noopener noreferrer" title="Homo Deus - Yuval Noah Harari"><img src="images/books/homodeus.jpg"/></a></td>
+                        <!-- Recommended by Darragh Frost -->
+                        <td><a href="https://www.goodreads.com/book/show/23692271-sapiens" target="_blank" rel="noopener noreferrer" title="Sapiens - Yuval Noah Harari"><img src="images/books/sapiens.jpg"/></a></td>
+                        <!-- Recommended by Darragh Frost -->
+                        <td><a href="https:://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest" target="_blank" rel="noopener noreferrer" title="One Flew Over the Cuckoo's Nest - Ken Kesey"><img src="images/books/oneflewoverthecuckoosnest.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/13185350-minimalism" target="_blank" rel="noopener noreferrer" title="Minimalism - Joshua Fields Millburn & Ryan Nicodemus"><img src="images/books/minimalism.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/32670670-the-complete-guide-to-fasting" target="_blank" rel="noopener noreferrer" title="The Complete Guide to Fasting - Jason Fung"><img src="images/books/completeguidetofasting.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/36357433-straight-to-hell" target="_blank" rel="noopener noreferrer" title="Straight To Hell - John LeFevre"><img src="images/books/straighttohell.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/25894041-blockchain-revolution" target="_blank" rel="noopener noreferrer" title="Blockchain Revolution - Don & Alex Tapscott"><img src="images/books/blockchainrevolution.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/40541157-the-basics-of-bitcoins-and-blockchains" target="_blank" rel="noopener noreferrer" title="The Basics of Bitcoins and Blockchains - Antony Lewis"><img src="images/books/basicofbitcoinsandblockchain.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/48830254-the-internet-of-money-volume-three" target="_blank" rel="noopener noreferrer" title="The Internet of Money Volume 3 - Andreas M. Antonopoulos"><img src="images/books/internetofmoneyvol3.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/36804136-the-internet-of-money-volume-two" target="_blank" rel="noopener noreferrer" title="The Internet of Money Volume 2 - Andreas M. Antonopoulos"><img src="images/books/internetofmoneyvol2.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/31869077-the-internet-of-money" target="_blank" rel="noopener noreferrer" title="The Internet of Money Volume 1 - Andreas M. Antonopoulos"><img src="images/books/internetofmoneyvol1.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/50484473-lives-of-the-stoics" target="_blank" rel="noopener noreferrer" title="Lives of the Stoics - Ryan Holiday"><img src="images/books/livesofthestoics.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/25451264-death-s-end" target="_blank" rel="noopener noreferrer" title="Death's End - Cixin Liu"><img src="images/books/deathsend.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/23168817-the-dark-forest" target="_blank" rel="noopener noreferrer" title="The Dark Forest - Cixin Liu"><img src="images/books/darkforest.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/20518872-the-three-body-problem" target="_blank" rel="noopener noreferrer" title="The Three-Body Problem - Cixin Liu"><img src="images/books/threebodyproblem.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/19046756-the-art-of-thinking-clearly" target="_blank" rel="noopener noreferrer" title="THe Art Of Thinking Clearly - Rolf Dobelli"><img src="images/books/artofthinkingclearly.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/41137973-breakfast-with-einstein" target="_blank" rel="noopener noreferrer" title="Breakfast with Einstein - Chad Orzel"><img src="images/books/breakfastwitheinstein.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/48581422-stop-reading-the-news" target="_blank" rel="noopener noreferrer" title="Stope Reading the News - Rolf Dobelli"><img src="images/books/stopreadingthenews.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/40121378-atomic-habits" target="_blank" rel="noopener noreferrer" title="Atomic Habits - James Clear"><img src="images/books/atomichabits.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/242472.The_Black_Swan" target="_blank" rel="noopener noreferrer" title="The Black Swan - Nassim Nicholas Taleb"><img src="images/books/blackswan.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/40552752-liar-s-poker" target="_blank" rel="noopener noreferrer" title="Liar's Poker - Michael Lewis"><img src="images/books/liarspoker.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/337132.Flashforward" target="_blank" rel="noopener noreferrer" title="Flash Forward  - Robert J. Sawyer"><img src="images/books/flashforward.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/26889576-the-big-short" target="_blank" rel="noopener noreferrer" title="The Big Short - Michael Lewis"><img src="images/books/bigshort.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/35657708-how-to-build-a-car" target="_blank" rel="noopener noreferrer" title="How to Build a Car - Adrian Newey"><img src="images/books/howtobuildacar.jpg"/></td>
+                        <td><a href="https://www.goodreads.com/book/show/44767458-dune" target="_blank" rel="noopener noreferrer" title="Dune - Frank Herbert"><img src="images/books/dune.jpg"/></a></td>
+                    </tr>
+                </table>
+            </div>
+
+            <button class="collapsible"><b>2020</b></button>
+            <div class="content">
+                <table>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/26023669-aussie-grit" target="_blank" rel="noopener noreferrer" title="Aussie Grit - Mark Webber"><img src="images/books/aussiegrit.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/20604826-flash-boys" target="_blank" rel="noopener noreferrer" title="Flash Boys - Michael Lewis"><img src="images/books/flashboys.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/52661266-flash-crash" target="_blank" rel="noopener noreferrer" title="Flash Crash - Liam Vaughan"><img src="images/books/flashcrash.jpg"/></a></td>
+                        <!-- Recommended by Ciaran O'Rourke -->
+                        <td><a href="https://www.goodreads.com/book/show/40134583-the-winning-formula" target="_blank" rel="noopener noreferrer" title="The Winning Formula - David Coulthard"><img src="images/books/winningformula.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/11437531-catch-22" target="_blank" rel="noopener noreferrer" title="Catch 22"><img src="images/books/catch22.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/26125444-the-war-of-the-worlds" target="_blank" rel="noopener noreferrer" title="The War of the Worlds - H.G. Wells"><img src="images/books/waroftheworlds.jpg"/></a></td>
+                        <!-- Recommended by Ciaran O'Rourke -->
+                        <td><a href="https://www.goodreads.com/book/show/37502596-the-5-am-club" target="_blank" rel="noopener noreferrer" title="The 5am Club - Robin Sharma"><img src="images/books/5amclub.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/50203251-survive-drive-win" target="_blank" rel="noopener noreferrer" title="Survive. Drive. Win. - Nick Fry"><img src="images/books/survivedrivewin.jpg"/></a></td>
+                    <tr>
+                    </tr>
+                        <td><a href="https://www.goodreads.com/book/show/53022164-how-to-be-an-f1-driver" target="_blank" rel="noopener noreferrer" title="How to be an F1 Driver - Jenson Button"><img src="images/books/howtobeanF1Driver.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/41213475-the-unknown-kimi-raikkonen" target="_blank" rel="noopener noreferrer" title="The Unknown Kimi Raikkonen - Kari Hotakainen"><img src="images/books/kimi.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/33797974-the-mechanic" target="_blank" rel="noopener noreferrer" title="The Mechanic - Elvis Priestley"><img src="images/books/mechanic.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/1202.Freakonomics" target="_blank" rel="noopener noreferrer" title="Freakonomics - Steven D. Levitt & Stephen J. Dubner"><img src="images/books/freakonomics.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/170448.Animal_Farm" target="_blank" rel="noopener noreferrer" title="Animal Farm - George Orwell"><img src="images/books/animalfarm.jpg"/></a></td>
+                        <!-- Recommended by Tadhg Lowe -->
+                        <td><a href="https://www.goodreads.com/book/show/1526336.Rogue_Trader" target="_blank" rel="noopener noreferrer" title="Rogue Trader - Nick Leeson"><img src="images/books/roguetrader.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/69435.The_Devil_in_the_Kitchen" target="_blank" rel="noopener noreferrer" title="Devil in the Kitchen - Marco Pierre White"><img src="images/books/devilinthekitchen.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/432075.Humble_Pie" target="_blank" rel="noopener noreferrer" title="Humble Pie - Gordon Ramsay"><img src="images/books/humblepie.jpg"/></a></td>
+                    <tr>
+                    </tr>
+                        <td><a href="https://www.goodreads.com/book/show/45692858-a-brief-history-of-time" target="_blank" rel="noopener noreferrer" title="A Brief History of Time - Stephen Hawking"><img src="images/books/briefhistoryoftime.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/39074550-humble-pi" target="_blank" rel="noopener noreferrer" title="Humble Pi - Matt Parker"><img src="images/books/humblepi.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/18693884-how-not-to-be-wrong" target="_blank" rel="noopener noreferrer" title="How Not To Be Wrong - Jordan Ellenberg"><img src="images/books/hownottobewrong.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/19034943-the-secret-commonwealth" target="_blank" rel="noopener noreferrer" title="The Secret Commonwealth - Philip Pullman"><img src="images/books/secretcommonwealth.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/9307699-la-belle-sauvage" target="_blank" rel="noopener noreferrer" title="La Belle Sauvage - Philip Pullman"><img src="images/books/bellesauvage.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/70949.The_Amber_Spyglass" target="_blank" rel="noopener noreferrer" title="The Amber Spyglass - Philip Pullman"><img src="images/books/amberspyglass.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/70948.The_Subtle_Knife" target="_blank" rel="noopener noreferrer" title="The Subtle Knife - Philip Pullman"><img src="images/books/subtleknife.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/70947.Northern_Lights" target="_blank" rel="noopener noreferrer" title="Northern Lights - Philip Pullman"><img src="images/books/northernlights.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/13079982-fahrenheit-451" target="_blank" rel="noopener noreferrer" title="Fahrenheit 451 - Ray Bradbury"><img src="images/books/fahrenheit451.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/3744438-1984" target="_blank" rel="noopener noreferrer" title="1984 - George Orwell"><img src="images/books/1984.jpg"/></a></td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </br>
+        </br>
+        </div>
+
+        <script>
+            var coll = document.getElementsByClassName("collapsible");
+            var i;
+
+            for (i = 0; i < coll.length; i++) {
+                coll[i].addEventListener("click", function() {
+                    this.classList.toggle("activeC");
+                    var content = this.nextElementSibling;
+                    if (content.style.maxHeight){
+                        content.style.maxHeight = null;
+                    } else {
+                        content.style.maxHeight = content.scrollHeight + "px";
+                        content.parentNode.style.maxHeight = (parseInt(content.parentNode.style.maxHeight) + content.scrollHeight) + "px";
+                    }
+                });
+                coll[i].nextElementSibling.addEventListener("transitionend", function()  {
+                    this.parentNode.style.maxHeight = this.parentNode.scrollHeight + "px";
+                });
+            }
+        </script>

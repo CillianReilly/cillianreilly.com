@@ -1,0 +1,13 @@
+    <div style="text-align:center;color: #646464;transform: translateY(16vh)">
+        <h3 style="color: #646464">profession</h3>
+        <p>i write <a href="https://code.kx.com/q" target="_blank" rel="noopener noreferrer">kdb+/q</a> programs at an american investment bank</p>
+
+        <h3 style="color: #646464">hobbies</h3>
+        <p>programming, reading, gaelic football, running, chess, cooking</p>
+
+        <h3 style="color: #646464">interests</h3>
+        <p>maths, bitcoin, formula 1, minimalism, stoicism, retirement</p>
+
+        <h3 style="color: #646464">website</h3>
+        <p>all code written by me</p>
+    </div>
