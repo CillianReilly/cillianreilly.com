@@ -15,7 +15,7 @@
     <div class="topnav">
         <div class="panelContainer">
             <div class="leftPanel">
-                <a href="" style="min-height: 100%">home</a>
+                <a href="/" style="min-height: 100%">home</a>
                 <a href="/about" style="min-height: 100%">about</a>
                 <a href="/blog" style="min-height: 100%">blog</a>
                 <a href="/books" style="min-height: 100%">books</a>
