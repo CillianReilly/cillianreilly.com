@@ -4,7 +4,7 @@
 #<link rel="stylesheet" href="books-style.css">
 
 echo "Generating index.html..."
-sed -e "/BODY_TEMPLATE/r templates/index.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/home/g -e 's/href=""/class="active" href=""/g' templates/page.template > index.html
+sed -e "/BODY_TEMPLATE/r templates/index.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/home/g -e 's/href="\/"/class="active" href="\/"/g' templates/page.template > index.html
 
 echo "Generating about.html..."
 sed -e "/BODY_TEMPLATE/r templates/about.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/about/g -e 's/href="\/about"/class="active" href="\/about"/g' > templates/about.template about.html
