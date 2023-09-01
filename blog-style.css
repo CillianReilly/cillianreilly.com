@@ -1,0 +1,19 @@
+a {
+	color: #646464;
+	text-decoration: none;
+        }
+
+p {
+	color: #646464;
+	}
+
+button {
+        background-color: white;
+        font-size: 16px;
+        border: none;
+        cursor:pointer;
+        }
+
+.topnav {
+        z-index:100;
+        }
