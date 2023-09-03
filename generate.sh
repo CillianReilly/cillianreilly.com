@@ -17,10 +17,11 @@ echo "Generating blog.html..."
 sed -e "/BODY_TEMPLATE/r templates/blog.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/blog/g -e 's/href="\/blog"/class="active" href="\/blog"/g' templates/page.template > blog.html
 sed -i '/\/style.css/a\    <link rel="stylesheet" href="\/blog-style.css">' blog.html
 
-echo "Generating blog/chess.html..."
-sed -e "/BODY_TEMPLATE/r templates/blog/chess.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/chess/g -e 's/href="\/blog"/class="active" href="\/blog"/g' templates/page.template > blog/chess.html
-sed -i '/\/style.css/a\    <link rel="stylesheet" href="\/blog-style.css">' blog/chess.html
+for file in templates/blog/*;do
+	PAGE_NAME=$(basename $file .template)
+	echo "Generating blog/$PAGE_NAME.html..."
+	sed -e "/BODY_TEMPLATE/r templates/blog/$PAGE_NAME.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/$PAGE_NAME/g -e 's/href="\/blog"/class="active" href="\/blog"/g' templates/page.template > blog/$PAGE_NAME.html
+	sed -i '/\/style.css/a\    <link rel="stylesheet" href="\/blog-style.css">' blog/$PAGE_NAME.html
+done
 
-echo "Generating blog/maths.html..."
-sed -e "/BODY_TEMPLATE/r templates/blog/maths.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/maths/g -e 's/href="\/blog"/class="active" href="\/blog"/g' templates/page.template > blog/maths.html
-sed -i '/\/style.css/a\    <link rel="stylesheet" href="\/blog-style.css">' blog/maths.html
+exit 0
