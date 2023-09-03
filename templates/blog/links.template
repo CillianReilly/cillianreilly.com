@@ -1,0 +1,49 @@
+    <div style="width:33%;margin:auto;transform:translateY(6vh)">
+        <a href="/blog" style="font-size:12px;background-color:#E0E0E0"><b>&nbspall&nbsp</b></a>    
+        <a href="/blog/chess" style="font-size:12px;background-color:#E0E0E0"><b>&nbspchess&nbsp</b></a>
+        <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
+        <a href="/blog/maths" style="font-size:12px;background-color:#E0E0E0"><b>&nbspmaths&nbsp</b></a>
+        <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
+        <a href="/blog/sport" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsport&nbsp</b></a>
+        </br></br>
+
+        <!--<p>
+            <a href="https://www.ssh.com/academy/ssh/putty" target="_blank" rel="noopener noreferrer"><b>????.??.??: ssh.com</b></a></br>
+            putty manual</br>
+            <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
+        </p>-->
+        <!--<p>
+            <a href="https://www.outcoldman.com/cheatsheets/vim" target="_blank" rel="noopener noreferrer"><b>????.??.??: outcoldman.com</b></a></br>
+            vim cheatsheet</br>
+            <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
+        </p>-->
+        <!--<p>
+            <a href="https://dillinger.io" target="_blank" rel="noopener noreferrer"><b>????.??.??: dillinger.io</b></a></br>
+            markdown editor</br>
+            <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
+        </p>-->
+        <!--<p>
+            <a href="https://crontab.guru" target="_blank" rel="noopener noreferrer"><b>????.??.??: crontab.guru</b></a></br>
+            cron schedule expression editor</br>
+            <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
+        </p>-->
+        <!--<p>
+            <a href="https://c-faq.com" target="_blank" rel="noopener noreferrer"><b>????.??.??: c-faq.com</b></a></br>
+            c frequently asked questions</br>
+            <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
+        </p>-->
+        <p>
+            <a href="/blog/maps"><b>2023.08.21: maps</b></a></br>
+            <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
+        </p>
+        <p>
+            <a href="https://tldp.org/LDP/abs/html" target="_blank" rel="noopener noreferrer"><b>2023.04.06: tldp.org</b></a></br>
+            advanced bash scripting guide</br>
+            <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
+        </p>
+        <p>
+            <a href="http://www.pythontutor.com" target="_blank" rel="noopener noreferrer"><b>2023.04.06: pythontutor.com</b></a></br>
+            interactive python/java/c editor and visualiser</br>
+            <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
+        </p>
+    </div>
