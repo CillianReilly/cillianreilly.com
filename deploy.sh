@@ -1,11 +1,8 @@
 #!/bin/bash
 set -e
 
-cd ~/repos/cillianreilly.com
-git pull
-
-cp -r * ~/www
-cd ~/www
+cd ~/repos/cillianreilly.com && git pull
+cp -r * ~/www && cd ~/www
 
 ./generate.sh
 
