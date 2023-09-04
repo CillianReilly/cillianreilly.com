@@ -17,8 +17,8 @@ echo "Generating blog.html..."
 sed -e "/BODY_TEMPLATE/r templates/blog.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/blog/g -e 's/href="\/blog"/class="active" href="\/blog"/g' templates/page.template > blog.html
 sed -i '/\/style.css/a\    <link rel="stylesheet" href="\/blog-style.css">' blog.html
 
-for tag in chess kdb links maths software sport;do
-	PAGE_NAME=$(basename templates/blog/$tag.template .template)
+for tag in templates/blog/{chess,kdb,links,maths,software,sport}.template;do
+	PAGE_NAME=$(basename $tag .template)
 	echo "Generating blog/$PAGE_NAME.html..."
 	sed -e "/BODY_TEMPLATE/r templates/blog/$PAGE_NAME.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/$PAGE_NAME/g -e 's/href="\/blog"/class="active" href="\/blog"/g' templates/page.template > blog/$PAGE_NAME.html
 	sed -i '/\/style.css/a\    <link rel="stylesheet" href="\/blog-style.css">' blog/$PAGE_NAME.html
