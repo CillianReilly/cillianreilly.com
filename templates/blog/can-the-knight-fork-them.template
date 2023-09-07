@@ -1,0 +1,111 @@
+<style>
+table {
+        border-collapse: collapse;
+        }
+td, th {
+        border: 1px solid #E0E0E0;
+        text-align: left;
+        padding: 8px;
+        }
+
+tr:nth-child(1) {
+        background-color: #E0E0E0;
+        }
+
+</style>
+
+    <div style="width:95%;margin:auto">
+        <h3 style="color:#646464">can the knight fork them?<br>
+        <a href="/blog/chess" style="font-size:12px;color: #646464;background-color: #E0E0E0;text-decoration: none">&nbspchess&nbsp</a></h3>
+
+        <p>
+        I like playing chess, but I'm not very <a href="https://www.chess.com/stats/overview/cillianreilly/0" target="_blank" rel="noopener noreferrer">good</a> at it. I particularly find the middle game hard, trying to improve my position without blundering the game in the process.
+        </p>
+
+        <p>
+        The knight is particularly useful in the middle-game, when there are still a lot of pieces on the board. The movement of the knight is the most difficult to visualise, (for myself at least) and so it's often overlooked in terms of it's attacking capabilities. It's very good at <a href="https://en.wikipedia.org/wiki/Fork_(chess)" target="_blank" rel="noopener noreferrer">forking</a> pieces and is the only piece that can fork the king and queen without being threatened itself. But these knight forks can be hard to see. One tactic I use is to calculate the area of the rectangle drawn out by two pieces.
+        </p>
+
+        <p>
+        In this example, the area of the square drawn out by the king and queen is 9, and the knight can't fork them:
+        </p>
+        <img src="images/kingqueensquare.png">
+
+        <p>
+        The area of the rectangle drawn out by 2 pieces can range between 2 and 64. (Our units here are chess board squares (cbs) and are not SI units. Use at your own peril.) But note that the maximum range in 1 dimension is 5 cbs and that the maximum area is 16 cbs squared. This allows us to exclude the following:
+        </br>1. Areas with at least 1 dimension greater than 5 cbs
+        </br>2. Areas greater than 16 cbs squared
+        </p>
+        <p>
+        The table below gives the remaining areas:
+        </p>
+
+        <table>
+            <tr>
+                <th>area</th>
+                <th>width x height</th>
+                <th>can the knight fork them?</th>
+            </tr>
+            </tr>
+                <td>2</td>
+                <td>1 x 2</td>
+                <td>No</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>1 x 3</td>
+            <td>Yes</td>
+            </tr>
+                <tr>
+                <td>4</td>
+                <td>1 x 4</td>
+                <td>No</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>2 x 2</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>1 x 5</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>2 x 3</td>
+                <td>No</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>2 x 4</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>3 x 3</td>
+                <td>No</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>2 x 5</td>
+                <td>No</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>3 x 4</td>
+                <td>No</td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td>3 x 5</td>
+            <td>Yes</td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td>4 x 4</td>
+                <td>Yes</td>
+            </tr>
+        </table>
+        </br>
+    </div>
