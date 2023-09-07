@@ -4,7 +4,7 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/18615474-heart-of-darkness" target="_blank" rel="noopener noreferrer" title="Heart of Darkness - Joseph Conrad"><img src="images/books/heartofdarkness.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/50542150-civilized-to-death" target="_blank" rel="noopener noreferrer" title="Civilized to Death - Christopher Ryan"><img src="images/books/civilizedtodeath.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/56155133-the-man-from-the-future" target="_blank" rel="noopener noreferrer" title="The Man from the Future - Ananyo Bhattacharya"><img src="images/books/manfromthefuture.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -45,7 +45,6 @@
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/62675564" target="_blank" rel="noopener noreferrer" title="The Future of Geography - Tim Marshall"><img src="images/books/futureofgeography.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/25812847" target="_blank" rel="noopener noreferrer" title="Silk Roads - Peter Frankopan"><img src="images/books/silkroads.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/56155133-the-man-from-the-future" target="_blank" rel="noopener noreferrer" title="The Man from the Future - Ananyo Bhattacharya"><img src="images/books/manfromthefuture.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -57,6 +56,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/50542150-civilized-to-death" target="_blank" rel="noopener noreferrer" title="Civilized to Death - Christopher Ryan"><img src="images/books/civilizedtodeath.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/44065062" target="_blank" rel="noopener noreferrer" title="Something Deeply Hidden - Sean Carroll"><img src="images/books/somethingdeeplyhidden.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/30809689-norse-mythology" target="_blank" rel="noopener noreferrer" title="Norse Mythology - Neil Gaiman"><img src="images/books/norsemythology.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/61756940-ultra-processed-people" target="_blank" rel="noopener noreferrer" title="Ultra-Processed People - Chris van Tulleken"><img src="images/books/ultraprocessedpeople.jpg"/></a></td>
