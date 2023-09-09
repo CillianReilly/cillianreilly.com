@@ -8,18 +8,18 @@ sed -e "/BODY_TEMPLATE/r templates/about.template" -e /BODY_TEMPLATE/d -e s/TITL
 
 echo "Generating books.html..."
 sed -e "/BODY_TEMPLATE/r templates/books.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/books/g -e 's/href="\/books"/class="active" href="\/books"/g' templates/page.template > books.html
-sed -i '/\/style.css/a\    <link rel="stylesheet" href="\/books-style.css">' books.html
+sed -i '/\/css\/style.css/a\    <link rel="stylesheet" href="\/css\/books.css">' books.html
 
 echo "Generating blog.html..."
 sed -e "/BODY_TEMPLATE/r templates/blog.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/blog/g -e 's/href="\/blog"/class="active" href="\/blog"/g' templates/page.template > blog.html
-sed -i '/\/style.css/a\    <link rel="stylesheet" href="\/blog-style.css">' blog.html
+sed -i '/\/css\/style.css/a\    <link rel="stylesheet" href="\/css\/blog.css">' blog.html
 
 # Generate blog tag pages
 for tag in templates/blog/{chess,kdb,links,maths,software,sport}.template;do
         PAGE_NAME=$(basename $tag .template)
         echo "Generating blog/$PAGE_NAME.html..."
         sed -e "/BODY_TEMPLATE/r templates/blog/$PAGE_NAME.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/$PAGE_NAME/g -e 's/href="\/blog"/class="active" href="\/blog"/g' templates/page.template > blog/$PAGE_NAME.html
-        sed -i '/\/style.css/a\    <link rel="stylesheet" href="\/blog-style.css">' blog/$PAGE_NAME.html
+        sed -i '/\/css\/style.css/a\    <link rel="stylesheet" href="\/css\/blog.css">' blog/$PAGE_NAME.html
 done
 
 # Generate blog posts 
@@ -27,7 +27,7 @@ for page in $(ls templates/blog --ignore={chess,kdb,links,maths,software,sport}.
         PAGE_NAME=$(basename templates/blog/$page .template)
         echo "Generating blog/$PAGE_NAME.html..."
         sed -e "/BODY_TEMPLATE/r templates/blog/$PAGE_NAME.template" -e /BODY_TEMPLATE/d -e "s/TITLE_TEMPLATE/$(echo $PAGE_NAME | tr - ' ')/g" -e 's/href="\/blog"/class="active" href="\/blog"/g' templates/page.template > blog/$PAGE_NAME.html
-	sed -i '/\/style.css/a\    <link rel="stylesheet" href="\/blog-post-style.css">' blog/$PAGE_NAME.html
+	sed -i '/\/css\/style.css/a\    <link rel="stylesheet" href="\/css\/blog-post.css">' blog/$PAGE_NAME.html
 done
 
 # Generate code pages
