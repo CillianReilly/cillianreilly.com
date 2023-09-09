@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#Books add to head section 
-#<link rel="stylesheet" href="books-style.css">
-
 echo "Generating index.html..."
 sed -e "/BODY_TEMPLATE/r templates/index.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/home/g -e 's/href="\/"/class="active" href="\/"/g' templates/page.template > index.html
 
@@ -25,12 +22,19 @@ for tag in templates/blog/{chess,kdb,links,maths,software,sport}.template;do
         sed -i '/\/style.css/a\    <link rel="stylesheet" href="\/blog-style.css">' blog/$PAGE_NAME.html
 done
 
-# Generate posts 
-for page in $(ls templates/blog --ignore={chess,kdb,links,maths,software,sport}.template);do
+# Generate blog posts 
+for page in $(ls templates/blog --ignore={chess,kdb,links,maths,software,sport,code});do
         PAGE_NAME=$(basename templates/blog/$page .template)
         echo "Generating blog/$PAGE_NAME.html..."
         sed -e "/BODY_TEMPLATE/r templates/blog/$PAGE_NAME.template" -e /BODY_TEMPLATE/d -e "s/TITLE_TEMPLATE/$(echo $PAGE_NAME | tr - ' ')/g" -e 's/href="\/blog"/class="active" href="\/blog"/g' templates/page.template > blog/$PAGE_NAME.html
 	sed -i '/\/style.css/a\    <link rel="stylesheet" href="\/blog-post-style.css">' blog/$PAGE_NAME.html
+done
+
+# Generate code pages
+for page in templates/blog/code/*.q;do
+	PAGE_NAME=$(basename $page);
+	echo "Generating blog/$PAGE_NAME.html..."
+	sed -e "/BODY_TEMPLATE/r templates/blog/code/$PAGE_NAME" -e /BODY_TEMPLATE/d -e "s/TITLE_TEMPLATE/$(echo $PAGE_NAME | tr - ' ')/g" templates/blog/code/code.template > blog/$PAGE_NAME.html
 done
 
 exit 0
