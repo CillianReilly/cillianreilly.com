@@ -31,10 +31,10 @@ for page in $(ls templates/blog --ignore={chess,kdb,links,maths,software,sport,c
 done
 
 # Generate code pages
-for page in templates/blog/code/*.q;do
+for page in blog/code/*.q;do
 	PAGE_NAME=$(basename $page);
 	echo "Generating blog/$PAGE_NAME.html..."
-	sed -e "/BODY_TEMPLATE/r templates/blog/code/$PAGE_NAME" -e /BODY_TEMPLATE/d -e "s/TITLE_TEMPLATE/$(echo $PAGE_NAME | tr - ' ')/g" templates/blog/code/code.template > blog/$PAGE_NAME.html
+	sed -e "/BODY_TEMPLATE/r blog/code/$PAGE_NAME" -e /BODY_TEMPLATE/d -e "s/TITLE_TEMPLATE/$(echo $PAGE_NAME | tr - ' ')/g" templates/code.template > blog/$PAGE_NAME.html
 done
 
 exit 0
