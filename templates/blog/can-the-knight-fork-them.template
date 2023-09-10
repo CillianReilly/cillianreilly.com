@@ -15,8 +15,8 @@ tr:nth-child(1) {
 </style>
 
     <div style="width:95%;margin:auto">
-        <h3 style="color:#646464">can the knight fork them?<br>
-        <a href="/blog/chess" style="font-size:12px;color: #646464;background-color: #E0E0E0;text-decoration: none">&nbspchess&nbsp</a></h3>
+        <h3>can the knight fork them?<br>
+        <a href="/blog/chess" style="font-size:12px;background-color: #E0E0E0;text-decoration: none">&nbspchess&nbsp</a></h3>
 
         <p>
         I like playing chess, but I'm not very <a href="https://www.chess.com/stats/overview/cillianreilly/0" target="_blank" rel="noopener noreferrer">good</a> at it. I particularly find the middle game hard, trying to improve my position without blundering the game in the process.
