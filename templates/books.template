@@ -3,7 +3,6 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/56155133-the-man-from-the-future" target="_blank" rel="noopener noreferrer" title="The Man from the Future - Ananyo Bhattacharya"><img src="images/books/manfromthefuture.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/280435.L_A_Confidential" target="_blank" rel="noopener noreferrer" title="L.A. Confidential - James Ellroy"><img src="images/books/laconfidential.jpg"/></a></td>
                 </tr>
             </table>
@@ -61,6 +60,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/56155133-the-man-from-the-future" target="_blank" rel="noopener noreferrer" title="The Man from the Future - Ananyo Bhattacharya"><img src="images/books/manfromthefuture.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/54493401-project-hail-mary" target="_blank" rel="noopener noreferrer" title="Project Hail Mary - Andu Weir"><img src="images/books/projecthailmary.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/18615474-heart-of-darkness" target="_blank" rel="noopener noreferrer" title="Heart of Darkness - Joseph Conrad"><img src="images/books/heartofdarkness.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/50542150-civilized-to-death" target="_blank" rel="noopener noreferrer" title="Civilized to Death - Christopher Ryan"><img src="images/books/civilizedtodeath.jpg"/></a></td>
