@@ -3,7 +3,6 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/24945308-winter-is-coming" target="_blank" rel="noopener noreferrer" title="Winter is Coming - Garry Kasparov"><img src="images/books/winteriscoming.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/13130873-atlas-shrugged" target="_blank" rel="noopener noreferrer" title="Atlas Shrugged - Ayn Rand"><img src="images/books/atlasshrugged.jpg"/></a></td>
                 </tr>
             </table>
@@ -59,6 +58,9 @@
             <button class="collapsible"><b>2023</b></button>
             <div class="content">
                 <table>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/24945308-winter-is-coming" target="_blank" rel="noopener noreferrer" title="Winter is Coming - Garry Kasparov"><img src="images/books/winteriscoming.jpg"/></a></td>
+                    </tr>
                     <tr>
                         <td><a href="https://www.goodreads.com/book/show/280435.L_A_Confidential" target="_blank" rel="noopener noreferrer" title="L.A. Confidential - James Ellroy"><img src="images/books/laconfidential.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/56155133-the-man-from-the-future" target="_blank" rel="noopener noreferrer" title="The Man from the Future - Ananyo Bhattacharya"><img src="images/books/manfromthefuture.jpg"/></a></td>
