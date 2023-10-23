@@ -19,6 +19,7 @@
                 <a href="/about" style="min-height: 100%">about</a>
                 <a href="/blog" style="min-height: 100%">blog</a>
                 <a href="/books" style="min-height: 100%">books</a>
+                <a href="/travel" style="min-height: 100%">travel</a>
             </div>
             <div class ="rightPanel">
                 <a href="mailto:cillianreilly@cillianreilly.com">

@@ -6,6 +6,9 @@ sed -e "/BODY_TEMPLATE/r templates/index.template" -e /BODY_TEMPLATE/d -e s/TITL
 echo "Generating about.html..."
 sed -e "/BODY_TEMPLATE/r templates/about.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/about/g -e 's/href="\/about"/class="active" href="\/about"/g' templates/page.template > about.html
 
+echo "Generating travel.html..."
+sed -e "/BODY_TEMPLATE/r templates/travel.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/travel/g -e 's/href="\/travel"/class="active" href="\/travel"/g' templates/page.template > travel.html
+
 echo "Generating books.html..."
 sed -e "/BODY_TEMPLATE/r templates/books.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/books/g -e 's/href="\/books"/class="active" href="\/books"/g' templates/page.template > books.html
 sed -i '/\/css\/style.css/a\    <link rel="stylesheet" href="\/css\/books.css">' books.html
