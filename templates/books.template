@@ -3,8 +3,8 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/23257776-birth-of-a-theorem" target="_blank" rel="noopener noreferrer" title="Birth of a Theorem - Cedric Villani"><img src="images/books/birthofatheorem.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/797114.Unfinished_Tales_of_N_menor_and_Middle_Earth" target="_blank" rel="noopener noreferrer" title="Unfinished Tales of Númenor and Mddle-Earth - J.R.R. Tolkien"><img src="images/books/unfinishedtalesofnumenorandmiddleearth.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/797114.Unfinished_Tales_of_N_menor_and_Middle_Earth" target="_blank" rel="noopener noreferrer" title="Unfinished Tales of Numenor and Middle-Earth - J.R.R. Tolkien"><img src="images/books/unfinishedtalesofnumenorandmiddleearth.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/https://www.goodreads.com/book/show/32933752-the-bbc" target="_blank" rel="noopener noreferrer" title="The BBC - Tom Mills"><img src="images/books/bbc.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -59,6 +59,8 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/118333773" target="_blank" rel="noopener noreferrer" title="Taxtopia - The Rebel Accountant"><img src="images/books/taxtopia.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/23257776-birth-of-a-theorem" target="_blank" rel="noopener noreferrer" title="Birth of a Theorem - Cedric Villani"><img src="images/books/birthofatheorem.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/13130873-atlas-shrugged" target="_blank" rel="noopener noreferrer" title="Atlas Shrugged - Ayn Rand"><img src="images/books/atlasshrugged.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/24945308-winter-is-coming" target="_blank" rel="noopener noreferrer" title="Winter is Coming - Garry Kasparov"><img src="images/books/winteriscoming.jpg"/></a></td>
                     </tr>
