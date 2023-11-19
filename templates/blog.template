@@ -43,7 +43,7 @@
             <a href="/blog/sport" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsport&nbsp</b></a>
         </p>
         <p>
-            <b><a href="/blog/host-line-separator.q">2023.06.08: host line separator</a></b>
+            <a href="/blog/host-line-separator.q"><b>2023.06.08: host line separator</b></a>
             <button type="submit" onclick="window.open('/blog/code/host-line-separator.q')">
                 <i class="fa-solid fa-download"></i>
             </button></br>
@@ -59,21 +59,21 @@
             <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
-            <b><a href="/blog/can-the-knight-fork-them">2023.04.29: can the knight fork them?</a></b></br>
+            <a href="/blog/can-the-knight-fork-them"><b>2023.04.29: can the knight fork them?</b></a></br>
             <a href="/blog/chess" style="font-size:12px;background-color:#E0E0E0"><b>&nbspchess&nbsp</b></a>
         </p>
         <p>
-            <b><a href="https://tldp.org/LDP/abs/html" target="_blank" rel="noopener noreferrer">2023.04.06: tldp.org</a></b></br>
+            <a href="https://tldp.org/LDP/abs/html" target="_blank" rel="noopener noreferrer"><b>2023.04.06: tldp.org</b></a></br>
             advanced bash scripting guide</br>
             <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
         </p>
         <p>
-            <b><a href="http://www.pythontutor.com" target="_blank" rel="noopener noreferrer">2023.04.06: pythontutor.com</a></b></br>
+            <a href="http://www.pythontutor.com" target="_blank" rel="noopener noreferrer"><b>2023.04.06: pythontutor.com</b></a></br>
             interactive python/java/c editor and visualiser</br>
             <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
         </p>
         <p>
-            <b><a href="/blog/substrings.q">2023.03.28: substrings</a></b>
+            <a href="/blog/substrings.q"><b>2023.03.28: substrings</b></a>
             <button type="submit" onclick="window.open('/blog/code/substrings.q')">
                 <i class="fa-solid fa-download"></i>
             </button></br>
@@ -81,11 +81,11 @@
             <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
-            <b><a href="/blog/2023">2023.01.01: 2023</a></b><br>
+            <a href="/blog/2023"><b>2023.01.01: 2023</b></a><br>
             targets for the new year
         </p>
         <p>
-            <b><a href="/blog/digit-representation.q">2022.12.26: digit representation</a></b>
+            <a href="/blog/digit-representation.q"><b>2022.12.26: digit representation</b></a>
             <button type="submit" onclick="window.open('/blog/code/digit-representation.q')">
                 <i class="fa-solid fa-download"></i>
             </button></br>
@@ -93,7 +93,7 @@
             <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
-            <b><a href="/blog/bit-representation.q">2022.12.07: bit representation</a></b>
+            <a href="/blog/bit-representation.q"><b>2022.12.07: bit representation</b></a>
             <button type="submit" onclick="window.open('/blog/code/bit-representation.q')">
                 <i class="fa-solid fa-download"></i>
             </button></br>
@@ -101,7 +101,7 @@
             <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
-            <b><a href="/blog/upsert-vs-insert.q">2022.11.24: upsert vs insert</a></b>
+            <a href="/blog/upsert-vs-insert.q"><b>2022.11.24: upsert vs insert</b></a>
             <button type="submit" onclick="window.open('/blog/code/upsert-vs-insert.q')">
                 <i class="fa-solid fa-download"></i>
             </button></br>
@@ -109,7 +109,7 @@
             <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
-            <b><a href="/blog/step-dictionary.q">2022.11.19: step dictionary</a></b>
+            <a href="/blog/step-dictionary.q"><b>2022.11.19: step dictionary</b></a>
             <button type="submit" onclick="window.open('/blog/code/step-dictionary.q')">
                 <i class="fa-solid fa-download"></i>
             </button></br>
@@ -117,7 +117,7 @@
             <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
-            <b><a href="/blog/paste.q">2022.11.15: kdb+ paster</a></b>
+            <a href="/blog/paste.q"><b>2022.11.15: kdb+ paster</b></a>
             <button type="submit" onclick="window.open('/blog/code/paste.q')">
                 <i class="fa-solid fa-download"></i>
             </button></br>
@@ -126,7 +126,7 @@
             <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
-            <b><a href="/blog/how-to-use-a-parabola-for-multiplication">2022.11.10: how to use a parabola for multiplication</a></b></br>
+            <a href="/blog/how-to-use-a-parabola-for-multiplication"><b>2022.11.10: how to use a parabola for multiplication</b></a></br>
             if you don't have your pocket calculator to hand</br>
             <a href="/blog/maths" style="font-size:12px;background-color:#E0E0E0"><b>&nbspmaths&nbsp</b></a>
         </p>
