@@ -32,7 +32,7 @@
             <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
-            <a href="/blog/digit-representation.q"><b>2022.12.26 digit representation</b></a>
+            <a href="/blog/digit-representation.q"><b>2022.12.26: digit representation</b></a>
             <button type="submit" onclick="window.open('/blog/code/digit-representation.q')">
                 <i class="fa-solid fa-download"></i>
             </button></br>
@@ -40,7 +40,7 @@
             <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
-            <a href="/blog/bit-representation.q"><b>2022.12.07 bit representation</b></a>
+            <a href="/blog/bit-representation.q"><b>2022.12.07: bit representation</b></a>
             <button type="submit" onclick="window.open('/blog/code/bit-representation.q')">
                 <i class="fa-solid fa-download"></i>
             </button></br>
