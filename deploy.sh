@@ -9,5 +9,6 @@ cp -r * ~/www && cd ~/www
 rm README.md
 rm *.sh
 rm -r templates
+rm rss.tmp
 
 exit 0

@@ -40,4 +40,31 @@ for page in blog/code/*.q;do
 	sed -e "/BODY_TEMPLATE/r blog/code/$PAGE_NAME" -e /BODY_TEMPLATE/d -e "s/TITLE_TEMPLATE/$(echo $PAGE_NAME | tr - ' ')/g" templates/code.template > blog/$PAGE_NAME.html
 done
 
+# Generate RSS for kdb+ blog ppsts
+echo "Generating rss.xml..."
+
+RSS=rss.tmp
+for page in $(grep "[0-9]\{4\}.[0-9]\{2\}.[0-9]\{2\}" templates/blog.template | cut -d \" -f 2);do
+	data=$(grep $page templates/blog.template)
+	if [[ $data == *"/blog/"* ]];then
+		#xargs trims leading and trailing spaces
+		title=$(echo $data | cut -d : -f 2 | cut -d "<" -f 1 | xargs)
+		link=$(echo "https://cillianreilly.com"$page)
+		pubDate=$(echo $data | cut -d ">" -f3 | cut -d : -f 1 | xargs)
+	else
+		title=$(echo $data | cut -d : -f 3 | cut -d "<" -f 1 | xargs)
+		link=$(echo $data | cut -d = -f 2 | cut -d " " -f 1 | xargs)
+		pubDate=$(echo $data | cut -d ">" -f3 | cut -d : -f 1 | xargs)
+	fi
+	
+	echo "        <item>" >> $RSS
+	echo "                <title>$title</title>" >> $RSS
+	echo "                <link>$link</link>" >> $RSS
+	echo "                <pubDate>$pubDate</pubDate>" >> $RSS
+	echo "        </item>" >> $RSS
+
+done
+
+sed -e "/BODY_TEMPLATE/r $RSS" -e /BODY_TEMPLATE/d templates/rss.template > rss.xml
+
 exit 0
