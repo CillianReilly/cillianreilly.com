@@ -3,6 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
+                    <td><a href="https://www.goodreads.com/book/show/44171.The_Looking_Glass_War" target="_blank" rel="noopener noreferrer" title="The Looking Glass War - John Le Carre"><img src="images/books/lookingglasswar.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -28,10 +29,9 @@
                     <td><a href="https://www.goodreads.com/book/show/27997547-nova" target="_blank" rel="noopener noreferrer" title="Nova - Samuel R. Delany"><img src="images/books/nova.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/6617037" target="_blank" rel="noopener noreferrer" title="Debt - David Graeber"><img src="images/books/debt.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/54546067" target="_blank" rel="noopener noreferrer" title="Consequences of Capitalism - Noam Chomsky, Marv Waterstone"><img src="images/books/consequencesofcapitalism.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/44171.The_Looking_Glass_War" target="_blank" rel="noopener noreferrer" title="The Looking Glass War - John Le Carre"><img src="images/books/lookingglasswar.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/3271263-pricing-money" target="_blank" rel="noopener noreferrer" title="Pricing Money - J.D.A. Wiseman"><img src="images/books/pricingmoney.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/3271263-pricing-money" target="_blank" rel="noopener noreferrer" title="Pricing Money - J.D.A. Wiseman"><img src="images/books/pricingmoney.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/34466963" target="_blank" rel="noopener noreferrer" title="Why We Sleep - Matthew Walker"><img src="images/books/whywesleep.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/57989070-ender-s-game" target="_blank" rel="noopener noreferrer" title="Ender's Game - Orson Scott Card"><img src="images/books/endersgame.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/156785" target="_blank" rel="noopener noreferrer" title="Diaspora - Greg Egan"><img src="images/books/diaspora.jpg"/></a></td>
@@ -39,9 +39,9 @@
                     <td><a href="https://www.goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war" target="_blank" rel="noopener noreferrer" title="This is How You Lose the Time War - Amal El-Mohtar, Max Gladstone"><img src="images/books/thisishowyoulosethetimewar.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/1001555.The_Hunt_for_Red_October" target="_blank" rel="noopener noreferrer" title="The Hunt for Red October - Tom Clancy"><img src="images/books/huntforredoctober.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/62675564" target="_blank" rel="noopener noreferrer" title="The Future of Geography - Tim Marshall"><img src="images/books/futureofgeography.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/25812847" target="_blank" rel="noopener noreferrer" title="Silk Roads - Peter Frankopan"><img src="images/books/silkroads.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/25812847" target="_blank" rel="noopener noreferrer" title="Silk Roads - Peter Frankopan"><img src="images/books/silkroads.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/17362.Black_Holes_Time_Warps" target="_blank" rel="noopener noreferrer" title="Black Holes and Time Warps - Kip Thorne"><img src="images/books/blackholesandtimewarps.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/54033555" target="_blank" rel="noopener noreferrer" title="Extreme Privacy - Michael Bazzell"><img src="images/books/extremeprivacy.jpg"/></a></td>
 	            <td><a href="https://www.goodreads.com/book/show/28954858" target="_blank" rel="noopener noreferrer" title="Nomad - James Swallow"><img src="images/books/nomad.jpg"/></a></td>
