@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/28954858" target="_blank" rel="noopener noreferrer" title="Nomad - James Swallow"><img src="images/books/nomad.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/158875813" target="_blank" rel="noopener noreferrer" title="Prophet Song - Paul Lynch"><img src="images/books/prophetsong.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -56,6 +56,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/28954858" target="_blank" rel="noopener noreferrer" title="Nomad - James Swallow"><img src="images/books/nomad.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/15997.Paradise_Lost" target="_blank" rel="noopener noreferrer" title="Paradise Lost - John Milton"><img src="images/books/paradiselost.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/44171.The_Looking_Glass_War" target="_blank" rel="noopener noreferrer" title="The Looking Glass War - John Le Carre"><img src="images/books/lookingglasswar.jpg"/></a></td>
                     </tr>
