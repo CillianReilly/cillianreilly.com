@@ -1,0 +1,18 @@
+    <div style="width:95%;margin:auto">
+        <h3>advent of code 2023</br>
+        <a href="/blog/kdb" style="font-size:12px;background-color: #E0E0E0;text-decoration: none">&nbspkdb+&nbsp</a>
+        <a href="/blog/software" style="font-size:12px;background-color: #E0E0E0;text-decoration: none">&nbspsoftware&nbsp</a></h3>
+
+        <p>The lower end of the difficulty scale was definitely increased this year - usually the first couple of days are simple one-liners in kdb+. A rough heursitic on days 1-5 of this year vs last year gives a 100% increase in lines of code needed to solve both parts. At the same time, I felt that that the upper end of the difficulty scale was decreased, most of the problems (at least the first parts) seemed to be quite doable to me - other years, I have drawn a blank on higher numbered dates.</p>
+
+        <p>By the end of December, I had collected 36/50 stars, which is a personal best for me for a given year. I do have intentions to try my hand at the remaining problems throughout the year. As I mentioned, I think I can manage the first part of each day.</p>
+
+        <p>What did I learn?
+            <ul>
+                <li><a href="https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm" target="_blank" rel="noopener noreferrer">Dijkstra's Algorithm</a>, for <a href="https://adventofcode.com/2023/day/17" target="_blank" rel="noopener noreferrer">Day 17</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Shoelace_formula" target="_blank" rel="noopener noreferrer">The Shoelace Formula</a> and <a href="https://en.wikipedia.org/wiki/Pick%27s_theorem" target="_blank" rel="noopener noreferrer">Pick's Theorem</a>, for <a href="https://adventofcode.com/2023/day/10" target="_blank" rel="noopener noreferrer">Day 10</a> and <a href="https://adventofcode.com/2023/day/18" target="_blank" rel="noopener noreferrer">Day 18</a></li>
+            </ul>
+       Day 17 was my favourite problem this year, as I had never implemeted Dijkstra's algorithm in kdb+ before. It took me until the 28th of December to produce a solution that eventually returned an answer, previous implementations were far too slow. My current solution still leaves a lot to be desired though, running in ~30 mins for each part. I also quite enjoyed <a href="https://adventofcode.com/2023/day/7" target="_blank" rel="noopener noreferrer">Day 7</a>, <a href="https://adventofcode.com/2023/day/8" target="_blank" rel="noopener noreferrer">Day 8</a> and <a href="https://adventofcode.com/2023/day/13" target="_blank" rel="noopener noreferrer">Day 13</a>.</p>
+
+       <p>My solutions to this year's problems are available on my <a href="https://github.com/CillianReilly/AOC/tree/master/2023" target="_blank" rel="noopener noreferrer">Github</a> profile.</p>
+    </div>

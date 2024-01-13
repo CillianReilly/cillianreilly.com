@@ -8,6 +8,11 @@
         </br></br>
 
         <p>
+            <a href="/blog/advent-of-code-2023"><b>2024.01.13: advent of code 2023</b></a></br>
+            <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
+            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
+        </p>
+        <p>
             <a href="/blog/host-line-separator.q"><b>2023.06.08: host line separator</b></a>
             <button type="submit" onclick="window.open('/blog/code/host-line-separator.q')">
                 <i class="fa-solid fa-download"></i>
