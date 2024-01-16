@@ -1,5 +1,4 @@
     <div style="width:33%;margin:auto;transform:translateY(6vh)">
-        <a href="/blog/chess" style="font-size:12px;background-color:#E0E0E0"><b>&nbspchess&nbsp</b></a>
         <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
         <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
         <a href="/blog/maths" style="font-size:12px;background-color:#E0E0E0"><b>&nbspmaths&nbsp</b></a>
@@ -69,7 +68,6 @@
         </p>
         <p>
             <a href="/blog/can-the-knight-fork-them"><b>2023.04.29: can the knight fork them?</b></a></br>
-            <a href="/blog/chess" style="font-size:12px;background-color:#E0E0E0"><b>&nbspchess&nbsp</b></a>
         </p>
         <p>
             <a href="https://tldp.org/LDP/abs/html" target="_blank" rel="noopener noreferrer"><b>2023.04.06: tldp.org</b></a></br>

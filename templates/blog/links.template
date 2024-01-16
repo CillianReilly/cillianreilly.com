@@ -1,6 +1,5 @@
     <div style="width:33%;margin:auto;transform:translateY(6vh)">
         <a href="/blog" style="font-size:12px;background-color:#E0E0E0"><b>&nbspall&nbsp</b></a>    
-        <a href="/blog/chess" style="font-size:12px;background-color:#E0E0E0"><b>&nbspchess&nbsp</b></a>
         <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
         <a href="/blog/maths" style="font-size:12px;background-color:#E0E0E0"><b>&nbspmaths&nbsp</b></a>
         <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
@@ -30,6 +29,11 @@
         <!--<p>
             <a href="https://c-faq.com" target="_blank" rel="noopener noreferrer"><b>????.??.??: c-faq.com</b></a></br>
             c frequently asked questions</br>
+            <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
+        </p>-->
+        <!--<p>
+            <a href="https://www.tree.fm/" target="_blank" rel="noopener noreferrer"><b>????.??.??: tree.fm</b></a></br>
+            listen to forests around the world</br>
             <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
         </p>-->
         <p>
