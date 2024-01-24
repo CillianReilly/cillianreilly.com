@@ -40,3 +40,7 @@ table {
 td {
 	width: 125px;
 	}
+
+img {
+	box-shadow:5px 5px 5px;
+	}
