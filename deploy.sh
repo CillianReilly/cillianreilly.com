@@ -10,5 +10,6 @@ rm README.md
 rm *.sh
 rm -r templates
 rm rss.tmp
+rm rss.kdb.tmp
 
 exit 0

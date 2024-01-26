@@ -67,4 +67,31 @@ done
 
 sed -e "/BODY_TEMPLATE/r $RSS" -e /BODY_TEMPLATE/d templates/rss.template > rss.xml
 
+
+echo "Generating rss.kdb.xml..."
+
+RSS_KDB=rss.kdb.tmp
+for page in $(grep "[0-9]\{4\}.[0-9]\{2\}.[0-9]\{2\}" templates/blog/kdb.template | cut -d \" -f 2);do
+        data=$(grep $page templates/blog/kdb.template)
+        if [[ $data == *"/blog/"* ]];then
+                #xargs trims leading and trailing spaces
+                title=$(echo $data | cut -d : -f 2 | cut -d "<" -f 1 | xargs)
+                link=$(echo "https://cillianreilly.com"$page)
+                pubDate=$(echo $data | cut -d ">" -f3 | cut -d : -f 1 | xargs)
+        else
+                title=$(echo $data | cut -d : -f 3 | cut -d "<" -f 1 | xargs)
+                link=$(echo $data | cut -d = -f 2 | cut -d " " -f 1 | xargs)
+                pubDate=$(echo $data | cut -d ">" -f3 | cut -d : -f 1 | xargs)
+        fi
+
+        echo "        <item>" >> $RSS_KDB
+        echo "                <title>$title</title>" >> $RSS_KDB
+        echo "                <link>$link</link>" >> $RSS_KDB
+        echo "                <pubDate>$pubDate</pubDate>" >> $RSS_KDB
+        echo "        </item>" >> $RSS_KDB
+
+done
+
+sed -e "/BODY_TEMPLATE/r $RSS_KDB" -e /BODY_TEMPLATE/d templates/rss.kdb.template > rss.kdb.xml
+
 exit 0
