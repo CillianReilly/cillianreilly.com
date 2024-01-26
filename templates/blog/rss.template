@@ -1,0 +1,13 @@
+    <div style="width:95%;margin:auto">
+        <h3>rss</h3>
+
+        <p>This site offers two RSS feeds:
+            <ul>
+                <li><a href="https://cillianreilly.com/rss.xml" target="_blank" rel="noopener noreferrer">rss.xml</a></li>
+                <li><a href="https://cillianreilly.com/rss.kdb.xml" target="_blank" rel="noopener noreferrer">rss.kdb.xml</a></li>
+            </ul>
+
+        The kdb+ feed is new and only contains content from <a href="https://cillianreilly.com/blog/kdb" target="_blank" rel="noopener noreferrer">cillianreilly.com/blog/kdb</a>.</br>
+        The original feed will continue to contain all of my other ramblings.
+        </p>
+    </div>
