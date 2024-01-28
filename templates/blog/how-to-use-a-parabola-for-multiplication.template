@@ -1,6 +1,5 @@
     <div style="width:95%;margin:auto">
         <h3>how to use a parabola for multiplication<br>
-        <a href="/blog/maths" style="font-size:12px;background-color: #E0E0E0;text-decoration: none">&nbspmaths&nbsp</a></h3>
 
         <p>It's possible to multiply any two real numbers using just a parabola and some straight lines. Pick two numbers, <i>x<sub>1</sub></i> and <i>x<sub>2</sub></i> say, extend a line vertically until you hit the parabola, join both of these points and where this line intersects the y-axis, is the product <i>-ax<sub>1</sub>x<sub>2</sub></i>, where <i>a</i> is the coefficient of the <i>x<sup>2</sup></i> term in the parabola.</p>
 
