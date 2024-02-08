@@ -17,6 +17,10 @@ echo "Generating blog.html..."
 sed -e "/BODY_TEMPLATE/r templates/blog.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/blog/g -e 's/href="\/blog"/class="active" href="\/blog"/g' templates/page.template > blog.html
 sed -i '/\/css\/style.css/a\    <link rel="stylesheet" href="\/css\/blog.css">' blog.html
 
+echo "Generating projects.html..."
+sed -e "/BODY_TEMPLATE/r templates/projects.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/projects/g -e 's/href="\/projects"/class="active" href="\/projects"/g' templates/page.template > projects.html
+sed -i '/\/css\/style.css/a\    <link rel="stylesheet" href="\/css\/projects.css">' projects.html
+
 # Generate blog tag pages
 for tag in templates/blog/{kdb,links,software,sport}.template;do
         PAGE_NAME=$(basename $tag .template)

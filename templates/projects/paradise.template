@@ -1,0 +1,7 @@
+    <div style="width:95%;margin:auto">
+        <h3>paradise</h3>
+
+        <p>paraidse is my automated personal assisstant (the name comes from a Phil Collins's song). This was originally started in 2019, while I was living in Toronto. I had recently discovered the <a href="https://developer.spotify.com/documentation/web-api" target="_blank" rel="noopener noreferrer">Spotify API</a> and wrapped some of the endpoints in kdb+ (play/pause/current song etc). At that time, I was using a Linix virtual machine installed on my Windows PC for development (kdb+ is a lot simpler to use on Linux). Once I had the endpoints, I wrapped those in a very basic command paser to accept some text input and run an appropriate command. It didn't take too long to wish that I could speak my commands to the machine.</p>
+
+        <p>After some research, I decided the easiest method was to use Python's <a href="https://pypi.org/project/SpeechRecognition" target="_blank" rel="noopener noreferrer">Speech Recogntion</a> library and wrap this using Kx's <a href="https://code.kx.com/q/ml/#embedpy">embedPy</a> library. The virtual machine could access the host's microphone for input.
+    </div>
