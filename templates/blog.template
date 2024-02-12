@@ -4,6 +4,7 @@
         <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         <a href="/blog/sport" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsport&nbsp</b></a>
         </br></br>
+        
         <!--<p>
             <b><a href="https://www.ssh.com/academy/ssh/putty" target="_blank" rel="noopener noreferrer">????.??.??: ssh.com</a></b></br>
             putty manual</br>
@@ -24,6 +25,11 @@
             cron schedule expression editor</br>
             <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
         </p>-->
+
+        <p>
+            <b><a href="/blog/kintsugi">2024.02.09: kintsugi</a></b></br>
+            enjoyable repair work
+        </p>
         <p>
             <b><a href="/blog/rss">2024.01.26: rss</a></b></br>
             rss feeds for this site
