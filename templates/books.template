@@ -3,7 +3,6 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/17362.Black_Holes_Time_Warps" target="_blank" rel="noopener noreferrer" title="Black Holes and Time Warps - Kip Thorne"><img src="images/books/blackholesandtimewarps.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/415.Gravity_s_Rainbow" target="_blank" rel="noopener noreferrer" title="Gravity's Rainbow - Thomas Pynchon"><img src="images/books/gravitysrainbow.jpg"/></a></td>
                 </tr>
             </table>
@@ -58,6 +57,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/17362.Black_Holes_Time_Warps" target="_blank" rel="noopener noreferrer" title="Black Holes and Time Warps - Kip Thorne"><img src="images/books/blackholesandtimewarps.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/31380440-foundation" target="_blank" rel="noopener noreferrer" title="Foundation - Isaac Asimov"><img src="images/books/foundation.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/1713426.Predictably_Irrational" target="_blank" rel="noopener noreferrer" title="Predictably Irrational - Dan Ariely"><img src="images/books/predictablyirrational.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/63891445" target="_blank" rel="noopener noreferrer" title="Surviving To Drive - Guenther Steiner"><img src="images/books/survivingtodrive.jpg"/></a></td>
