@@ -4,7 +4,7 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/415.Gravity_s_Rainbow" target="_blank" rel="noopener noreferrer" title="Gravity's Rainbow - Thomas Pynchon"><img src="images/books/gravitysrainbow.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/56897688" target="_blank" rel="noopener noreferrer" title="Why Calories Don't Count - Giles Yeo"><img src="images/books/whycaloriesdontcount.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/34020368-a-man-for-all-markets" target="_blank" rel="noopener noreferrer" title="A Man for All Markets - Edward O. Thorp"><img src="images/books/manforallmarkets.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -43,7 +43,6 @@
                     <td><a href="https://www.goodreads.com/book/show/63329951" target="_blank" rel="noopener noreferrer" title="Paved Paradise - Henry Grabar"><img src="images/books/pavedparadise.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/34020368-a-man-for-all-markets" target="_blank" rel="noopener noreferrer" title="A Man for All Markets - Edward O. Thorp"><img src="images/books/manforallmarkets.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/840233.For_Whom_the_Bell_Tolls" target="_blank" rel="noopener noreferrer" title="For Whom the Bell Tolls - Ernest Hemingway"><img src="images/books/forwhomthebelltolls.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/31380461-foundation-and-empire" target="_blank" rel="noopener noreferrer" title="Foundation and Empire - Isaac Asimov"><img src="images/books/foundationandempire.jpg"/></a></td>
                 </tr>
@@ -57,6 +56,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/56897688" target="_blank" rel="noopener noreferrer" title="Why Calories Don't Count - Giles Yeo"><img src="images/books/whycaloriesdontcount.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/17362.Black_Holes_Time_Warps" target="_blank" rel="noopener noreferrer" title="Black Holes and Time Warps - Kip Thorne"><img src="images/books/blackholesandtimewarps.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/31380440-foundation" target="_blank" rel="noopener noreferrer" title="Foundation - Isaac Asimov"><img src="images/books/foundation.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/1713426.Predictably_Irrational" target="_blank" rel="noopener noreferrer" title="Predictably Irrational - Dan Ariely"><img src="images/books/predictablyirrational.jpg"/></a></td>
