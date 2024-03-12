@@ -3,7 +3,6 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/415.Gravity_s_Rainbow" target="_blank" rel="noopener noreferrer" title="Gravity's Rainbow - Thomas Pynchon"><img src="images/books/gravitysrainbow.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -44,6 +43,9 @@
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/840233.For_Whom_the_Bell_Tolls" target="_blank" rel="noopener noreferrer" title="For Whom the Bell Tolls - Ernest Hemingway"><img src="images/books/forwhomthebelltolls.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/31380461-foundation-and-empire" target="_blank" rel="noopener noreferrer" title="Foundation and Empire - Isaac Asimov"><img src="images/books/foundationandempire.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/18883652-permutation-city" target="_blank" rel="noopener noreferrer" title="Permutation City - Greg Egan"><img src="images/books/permutationcity.jpg"/></a></td>                    <td><a href="https://www.goodreads.com/book/show/36691904-chaos" target="_blank" rel="noopener noreferrer" title="Chaos - James Gleick"><img src="images/books/chaos.jpg"/></a></td>
+               <td><a href="https://www.goodreads.com/book/show/74034" target="_blank" rel="noopener noreferrer" title="Amusing Ourselves to Death - Neil Postman"><img src="images/books/amusingourselvestodeath.jpg"/></a></td>
+               <td><a href="https://www.goodreads.com/book/show/34890015" target="_blank" rel="noopener noreferrer" title="Factfulness - Hans Rosling"><img src="images/books/factfulness.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -55,6 +57,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/415.Gravity_s_Rainbow" target="_blank" rel="noopener noreferrer" title="Gravity's Rainbow - Thomas Pynchon"><img src="images/books/gravitysrainbow.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/34020368-a-man-for-all-markets" target="_blank" rel="noopener noreferrer" title="A Man for All Markets - Edward O. Thorp"><img src="images/books/manforallmarkets.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/56897688" target="_blank" rel="noopener noreferrer" title="Why Calories Don't Count - Giles Yeo"><img src="images/books/whycaloriesdontcount.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/17362.Black_Holes_Time_Warps" target="_blank" rel="noopener noreferrer" title="Black Holes and Time Warps - Kip Thorne"><img src="images/books/blackholesandtimewarps.jpg"/></a></td>
