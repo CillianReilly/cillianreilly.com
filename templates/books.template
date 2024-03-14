@@ -3,7 +3,6 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/19188125-dry" target="_blank" rel="noopener noreferrer" title="Dry - Augusten Burroughs"><img src="images/books/dry.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -58,6 +57,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/19188125-dry" target="_blank" rel="noopener noreferrer" title="Dry - Augusten Burroughs"><img src="images/books/dry.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/415.Gravity_s_Rainbow" target="_blank" rel="noopener noreferrer" title="Gravity's Rainbow - Thomas Pynchon"><img src="images/books/gravitysrainbow.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/34020368-a-man-for-all-markets" target="_blank" rel="noopener noreferrer" title="A Man for All Markets - Edward O. Thorp"><img src="images/books/manforallmarkets.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/56897688" target="_blank" rel="noopener noreferrer" title="Why Calories Don't Count - Giles Yeo"><img src="images/books/whycaloriesdontcount.jpg"/></a></td>
