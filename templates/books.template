@@ -4,7 +4,6 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/31707038-the-adventures-of-tom-sawyer" target="_blank" rel="noopener noreferrer" title="The Adventures of Tom Sawyer - Mark Twain"><img src="images/books/adventuresoftomsawyer.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/6986632" target="_blank" rel="noopener noreferrer" title="The Greatest Trade Ever - Gregory Zuckerman"><img src="images/books/greatesttradeever.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -58,6 +57,9 @@
             <button class="collapsible"><b>2024</b></button>
             <div class="content">
                 <table>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/6986632" target="_blank" rel="noopener noreferrer" title="The Greatest Trade Ever - Gregory Zuckerman"><img src="images/books/greatesttradeever.jpg"/></a></td>
+                    </tr>
                     <tr>
                         <td><a href="https://www.goodreads.com/book/show/19188125-dry" target="_blank" rel="noopener noreferrer" title="Dry - Augusten Burroughs"><img src="images/books/dry.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/415.Gravity_s_Rainbow" target="_blank" rel="noopener noreferrer" title="Gravity's Rainbow - Thomas Pynchon"><img src="images/books/gravitysrainbow.jpg"/></a></td>
