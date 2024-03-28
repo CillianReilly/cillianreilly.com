@@ -1,8 +1,7 @@
 #!/bin/bash
 set -e
 
-#cd ~/repos/cillianreilly.com && git pull
-cd ~/repos/cillianreilly.com
+cd ~/repos/cillianreilly.com && git pull
 cp -r * ~/www && cd ~/www
 
 ./generate.sh
