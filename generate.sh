@@ -17,6 +17,10 @@ echo "Generating blog.html..."
 sed -e "/BODY_TEMPLATE/r templates/blog.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/blog/g -e 's/href="\/blog"/class="active" href="\/blog"/g' templates/page.template > blog.html
 sed -i '/\/css\/style.css/a\    <link rel="stylesheet" href="\/css\/blog.css">' blog.html
 
+echo "Generating projects.html..."
+sed -e "/BODY_TEMPLATE/r templates/projects.template" -e /BODY_TEMPLATE/d -e s/TITLE_TEMPLATE/projects/g -e 's/href="\/projects"/class="active" href="\/projects"/g' templates/page.template > projects.html
+sed -i '/\/css\/style.css/a\    <link rel="stylesheet" href="\/css\/projects.css">' projects.html
+
 # Generate blog tag pages
 for tag in templates/blog/{kdb,links,software,sport}.template;do
         PAGE_NAME=$(basename $tag .template)
@@ -39,6 +43,14 @@ for page in blog/code/*.q;do
 	echo "Generating blog/$PAGE_NAME.html..."
 	sed -e "/BODY_TEMPLATE/r blog/code/$PAGE_NAME" -e /BODY_TEMPLATE/d -e "s/TITLE_TEMPLATE/$(echo $PAGE_NAME | tr - ' ')/g" templates/code.template > blog/$PAGE_NAME.html
 done
+
+for page in templates/projects/*;do
+	PAGE_NAME=$(basename $page .template)
+	echo "Generating projects/$PAGE_NAME.html..."
+	sed -e "/BODY_TEMPLATE/r templates/projects/$PAGE_NAME.template" -e /BODY_TEMPLATE/d -e "s/TITLE_TEMPLATE/$(echo $PAGE_NAME | tr - ' ')/g" -e 's/href="\/projects"/class="active" href="\/projects"/g' templates/page.template > projects/$PAGE_NAME.html
+	sed -i '/\/css\/style.css/a\    <link rel="stylesheet" href="\/css\/projects.css">' projects/$PAGE_NAME.html
+done
+
 
 # Generate RSS for kdb+ blog ppsts
 echo "Generating rss.xml..."

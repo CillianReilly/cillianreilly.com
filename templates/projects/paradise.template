@@ -1,0 +1,12 @@
+    <div style="width:95%;margin:auto">
+        <h3>paradise</h3>
+
+        <h4>history</h4>
+        <p>paradise is my automated personal assisstant (the name comes from a Phil Collins's song). I originally started work on what would become paradise in 2019, but at the time I had no plans to turn it into what it is today.</p>
+
+        <p>I had recently discovered the <a href="https://developer.spotify.com/documentation/web-api" target="_blank" rel="noopener noreferrer">Spotify API</a>, and was experimenting with wrapping these in kdb+. From there, I jumped to accepting free text input, and parsing the appropriate command to run, before naturally, accepting voice input. At that time I was running a Linux virtual machine installed on my Windows PC for development, and using Python's <a href="https://pypi.org/project/SpeechRecognition" target="_blank" rel="noopener noreferrer">Speech Recogntion</a> library, Kx's <a href="https://code.kx.com/q/ml/#embedpy">embedPy</a> library and the built-in microphone on the host machine, I could provide voice commands.</p>
+
+       <p>After moving to Singapore in mid 2019, I didn't spend too much time working on paradise for the next couple of months. But during the Covid pandemic, I had a lot more free time and returned to paradise. I relocated paradise onto a new Raspberry Pi 4, and added a USB microphone in order to supply voice commands. 
+
+
+    </div>
