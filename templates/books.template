@@ -3,8 +3,8 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/17362.Black_Holes_Time_Warps" target="_blank" rel="noopener noreferrer" title="Black Holes and Time Warps - Kip Thorne"><img src="images/books/blackholesandtimewarps.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/415.Gravity_s_Rainbow" target="_blank" rel="noopener noreferrer" title="Gravity's Rainbow - Thomas Pynchon"><img src="images/books/gravitysrainbow.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/54546067" target="_blank" rel="noopener noreferrer" title="Consequences of Capitalism - Noam Chomsky, Marv Waterstone"><img src="images/books/consequencesofcapitalism.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war" target="_blank" rel="noopener noreferrer" title="This is How You Lose the Time War - Amal El-Mohtar, Max Gladstone"><img src="images/books/thisishowyoulosethetimewar.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -19,34 +19,34 @@
                     <td><a href="https://www.goodreads.com/en/book/show/66499.The_Creature_from_Jekyll_Island" target="_blank" rel="noopener noreferrer" title="The Creature from Jekyll Island - G. Edward Griffin"><img src="images/books/creaturefromjekyllisland.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/60625290-bitcoin-is-venice" target="_blank" rel="noopener noreferrer" title="Bitcoin is Venice - Allen Farrington, Sacha Meyers"><img src="images/books/bitcoinisvenice.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West" target="_blank" rel="noopener noreferrer" title="Blood Meridian - Cormac McCarthy"><img src="images/books/bloodmeridian.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/6986632" target="_blank" rel="noopener noreferrer" title="The Greatest Trade Ever - Gregory Zuckerman"><img src="images/books/greatesttradeever.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/42929.Gai_Jin" target="_blank" rel="noopener noreferrer" title="Gai-Jin - James Clavell"><img src="images/books/gaijin.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/27997547-nova" target="_blank" rel="noopener noreferrer" title="Nova - Samuel R. Delany"><img src="images/books/nova.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/27997547-nova" target="_blank" rel="noopener noreferrer" title="Nova - Samuel R. Delany"><img src="images/books/nova.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/6617037" target="_blank" rel="noopener noreferrer" title="Debt - David Graeber"><img src="images/books/debt.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/54546067" target="_blank" rel="noopener noreferrer" title="Consequences of Capitalism - Noam Chomsky, Marv Waterstone"><img src="images/books/consequencesofcapitalism.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/3271263-pricing-money" target="_blank" rel="noopener noreferrer" title="Pricing Money - J.D.A. Wiseman"><img src="images/books/pricingmoney.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/34466963" target="_blank" rel="noopener noreferrer" title="Why We Sleep - Matthew Walker"><img src="images/books/whywesleep.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/57989070-ender-s-game" target="_blank" rel="noopener noreferrer" title="Ender's Game - Orson Scott Card"><img src="images/books/endersgame.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/56897688" target="_blank" rel="noopener noreferrer" title="Why Calories Don't Count - Giles Yeo"><img src="images/books/whycaloriesdontcount.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war" target="_blank" rel="noopener noreferrer" title="This is How You Lose the Time War - Amal El-Mohtar, Max Gladstone"><img src="images/books/thisishowyoulosethetimewar.jpg"/></a></td>
-                </tr>
-                <tr>
                     <td><a href="https://www.goodreads.com/book/show/1001555.The_Hunt_for_Red_October" target="_blank" rel="noopener noreferrer" title="The Hunt for Red October - Tom Clancy"><img src="images/books/huntforredoctober.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/25812847" target="_blank" rel="noopener noreferrer" title="Silk Roads - Peter Frankopan"><img src="images/books/silkroads.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/54033555" target="_blank" rel="noopener noreferrer" title="Extreme Privacy - Michael Bazzell"><img src="images/books/extremeprivacy.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy" target="_blank" rel="noopener noreferrer" title="Tinker, Tailor, Soldier, Spy - John Le Carre"><img src="images/books/tinkertailorsoldierspy.jpg"/></a></td>
+                </tr>
+                <tr>
                     <td><a href="https://www.goodreads.com/book/show/197566578" target="_blank" rel="noopener noreferrer" title="Broken Money - Lyn Alden"><img src="images/books/brokenmoney.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/24310258-american-psycho" target="_blank" rel="noopener noreferrer" title="American Psycho - Bret Easton Ellis"><img src="images/books/americanpsycho.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/22080119-proxima" target="_blank" rel="noopener noreferrer" title="Proxima - Stephen Baxter"><img src="images/books/proxima.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/53011383" target="_blank" rel="noopener noreferrer" title="Unix - Brian Kernighan"><img src="images/books/unix.jpg"/></a></td>
-                </tr>
-                <tr>
                     <td><a href="https://www.goodreads.com/book/show/63329951" target="_blank" rel="noopener noreferrer" title="Paved Paradise - Henry Grabar"><img src="images/books/pavedparadise.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/34020368-a-man-for-all-markets" target="_blank" rel="noopener noreferrer" title="A Man for All Markets - Edward O. Thorp"><img src="images/books/manforallmarkets.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/840233.For_Whom_the_Bell_Tolls" target="_blank" rel="noopener noreferrer" title="For Whom the Bell Tolls - Ernest Hemingway"><img src="images/books/forwhomthebelltolls.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/31380461-foundation-and-empire" target="_blank" rel="noopener noreferrer" title="Foundation and Empire - Isaac Asimov"><img src="images/books/foundationandempire.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/18883652-permutation-city" target="_blank" rel="noopener noreferrer" title="Permutation City - Greg Egan"><img src="images/books/permutationcity.jpg"/></a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://www.goodreads.com/book/show/36691904-chaos" target="_blank" rel="noopener noreferrer" title="Chaos - James Gleick"><img src="images/books/chaos.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/74034" target="_blank" rel="noopener noreferrer" title="Amusing Ourselves to Death - Neil Postman"><img src="images/books/amusingourselvestodeath.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/34890015" target="_blank" rel="noopener noreferrer" title="Factfulness - Hans Rosling"><img src="images/books/factfulness.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/44492286" target="_blank" rel="noopener noreferrer" title="Children of Dune - Frank Herbert"><img src="images/books/childrenofdune.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -58,6 +58,16 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/31707038-the-adventures-of-tom-sawyer" target="_blank" rel="noopener noreferrer" title="The Adventures of Tom Sawyer - Mark Twain"><img src="images/books/adventuresoftomsawyer.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/13031859-money-culture" target="_blank" rel="noopener noreferrer" title="The Money Culture - Michael Lewis"><img src="images/books/moneyculture.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/6986632" target="_blank" rel="noopener noreferrer" title="The Greatest Trade Ever - Gregory Zuckerman"><img src="images/books/greatesttradeever.jpg"/></a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/19188125-dry" target="_blank" rel="noopener noreferrer" title="Dry - Augusten Burroughs"><img src="images/books/dry.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/415.Gravity_s_Rainbow" target="_blank" rel="noopener noreferrer" title="Gravity's Rainbow - Thomas Pynchon"><img src="images/books/gravitysrainbow.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/34020368-a-man-for-all-markets" target="_blank" rel="noopener noreferrer" title="A Man for All Markets - Edward O. Thorp"><img src="images/books/manforallmarkets.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/56897688" target="_blank" rel="noopener noreferrer" title="Why Calories Don't Count - Giles Yeo"><img src="images/books/whycaloriesdontcount.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/17362.Black_Holes_Time_Warps" target="_blank" rel="noopener noreferrer" title="Black Holes and Time Warps - Kip Thorne"><img src="images/books/blackholesandtimewarps.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/31380440-foundation" target="_blank" rel="noopener noreferrer" title="Foundation - Isaac Asimov"><img src="images/books/foundation.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/1713426.Predictably_Irrational" target="_blank" rel="noopener noreferrer" title="Predictably Irrational - Dan Ariely"><img src="images/books/predictablyirrational.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/63891445" target="_blank" rel="noopener noreferrer" title="Surviving To Drive - Guenther Steiner"><img src="images/books/survivingtodrive.jpg"/></a></td>
