@@ -30,6 +30,14 @@
             <a href="/blog/"><b>????.??/??: hp-pavilion-ssd-upgrade.template</b></a>
         </p>-->
         <p>
+            <a href="/blog/variable-rank.q"><b>2024.04.04: variable rank</b></a>
+            <button type="submit" onclick="window.open('/blog/code/variable-rank.q')">
+                <i class="fa-solid fa-download" style="color: #646464"></i>
+            </button></br>
+            <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
+            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
+        </p>
+        <p>
             <a href="/blog/asus-vivobook-x1404za"><b>2024.03.22: asus-vivobook-x1404za</b></a></br>
             new hardware
         </p>
