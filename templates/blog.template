@@ -26,9 +26,10 @@
             <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
         </p>-->
 
-        <!--<p>
-            <a href="/blog/"><b>????.??/??: hp-pavilion-ssd-upgrade.template</b></a>
-        </p>-->
+        <p>
+            <a href="/blog/hp-pavilion-ssd-upgrade"><b>2024.04.20: hp pavilion ssd upgrade</b></a></br>
+            upgrading old hardware
+        </p>
         <p>
             <a href="/blog/variable-rank.q"><b>2024.04.04: variable rank</b></a>
             <button type="submit" onclick="window.open('/blog/code/variable-rank.q')">
@@ -38,7 +39,7 @@
             <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
-            <a href="/blog/asus-vivobook-x1404za"><b>2024.03.22: asus-vivobook-x1404za</b></a></br>
+            <a href="/blog/asus-vivobook-x1404za"><b>2024.03.22: asus vivobook x1404za</b></a></br>
             new hardware
         </p>
         <p>
