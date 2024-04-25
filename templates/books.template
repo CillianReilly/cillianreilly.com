@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/22080119-proxima" target="_blank" rel="noopener noreferrer" title="Proxima - Stephen Baxter"><img src="images/books/proxima.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/53000876-contact" target="_blank" rel="noopener noreferrer" title="Contact - Carl Sagan"><img src="images/books/contact.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -41,9 +41,6 @@
                     <td><a href="https://www.goodreads.com/book/show/74034" target="_blank" rel="noopener noreferrer" title="Amusing Ourselves to Death - Neil Postman"><img src="images/books/amusingourselvestodeath.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/44492286" target="_blank" rel="noopener noreferrer" title="Children of Dune - Frank Herbert"><img src="images/books/childrenofdune.jpg"/></a></td>
                 </tr>
-                <tr>
-                    <td><a href="https://www.goodreads.com/book/show/53000876-contact" target="_blank" rel="noopener noreferrer" title="Contact - Carl Sagan"><img src="images/books/contact.jpg"/></a></td>
-                </tr>
             </table>
         </div>
 
@@ -53,7 +50,8 @@
             <button class="collapsible"><b>2024</b></button>
             <div class="content">
                 <table>
-                    <tr>  
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/22080119-proxima" target="_blank" rel="noopener noreferrer" title="Proxima - Stephen Baxter"><img src="images/books/proxima.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/60577102-blood-meridian" target="_blank" rel="noopener noreferrer" title="Blood Meridian - Cormac McCarthy"><img src="images/books/bloodmeridian.jpg"/></a></td>
                     </tr>
                     <tr>
