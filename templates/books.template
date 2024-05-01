@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/20632979-ultima" target="_blank" rel="noopener noreferrer" title="Ultima - Stephen Baxter"><img src="images/books/ultima.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/61331094-the-fall-of-n-menor" target="_blank" rel="noopener noreferrer" title="The Fall of Numenor - J.R.R. Tolkien"><img src="images/books/fallofnumenor.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -52,6 +52,7 @@
                 <table>
                     <tr>
                         <td><a href="https://www.goodreads.com/book/show/53000876-contact" target="_blank" rel="noopener noreferrer" title="Contact - Carl Sagan"><img src="images/books/contact.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/20632979-ultima" target="_blank" rel="noopener noreferrer" title="Ultima - Stephen Baxter"><img src="images/books/ultima.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/22080119-proxima" target="_blank" rel="noopener noreferrer" title="Proxima - Stephen Baxter"><img src="images/books/proxima.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/60577102-blood-meridian" target="_blank" rel="noopener noreferrer" title="Blood Meridian - Cormac McCarthy"><img src="images/books/bloodmeridian.jpg"/></a></td>
                     </tr>
