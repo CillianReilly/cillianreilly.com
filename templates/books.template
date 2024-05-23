@@ -4,7 +4,6 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/53343" target="_blank" rel="noopener noreferrer" title="On Writing Well - William Zinsser"><img src="images/books/onwritingwell.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/31380461-foundation-and-empire" target="_blank" rel="noopener noreferrer" title="Foundation and Empire - Isaac Asimov"><img src="images/books/foundationandempire.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -50,6 +49,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/31380461-foundation-and-empire" target="_blank" rel="noopener noreferrer" title="Foundation and Empire - Isaac Asimov"><img src="images/books/foundationandempire.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg" target="_blank" rel="noopener noreferrer" title="The Cuckoo's Egg - Cliff Stoll"><img src="images/books/cuckoosegg.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/61331094-the-fall-of-n-menor" target="_blank" rel="noopener noreferrer" title="The Fall of Numenor - J.R.R. Tolkien"><img src="images/books/fallofnumenor.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/53000876-contact" target="_blank" rel="noopener noreferrer" title="Contact - Carl Sagan"><img src="images/books/contact.jpg"/></a></td>
