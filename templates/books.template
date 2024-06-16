@@ -3,7 +3,6 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/53343" target="_blank" rel="noopener noreferrer" title="On Writing Well - William Zinsser"><img src="images/books/onwritingwell.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/6759.Infinite_Jest" target="_blank" rel="noopener noreferrer" title="Infinite Jest - David Foster Wallace"><img src="images/books/infinitejest.jpg"/></a></td>
                 </tr>
             </table>
@@ -42,6 +41,10 @@
                     <td><a href="https://www.goodreads.com/book/show/52950915-die-with-zero" target="_blank" rel="noopener noreferrer" title="Die With Zero - Bill Perkins"><img src="images/books/diewithzero.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/11398264-born-to-run" target="_blank" rel="noopener noreferrer" title="Born to Run - Christopher McDougall"><img src="images/books/borntorun.jpg"/></a></td>
                 </tr>
+                <tr>
+                    <td><a href="https://www.goodreads.com/book/show/28503870-stories-of-your-life-and-others" target="_blank" rel="noopener noreferrer" title="Stories of Your Life and Others - Ted Chiang"><img src="images/books/storiesofyourlifeandothers.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/5116296-poorly-made-in-china" target="_blank" rel="noopener noreferrer" title="Poorly Made in China - Paul Midler"><img src="images/books/poorlymadeinchina.jpg"/></a></td>
+                </tr>
             </table>
         </div>
 
@@ -52,6 +55,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/53343" target="_blank" rel="noopener noreferrer" title="On Writing Well - William Zinsser"><img src="images/books/onwritingwell.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/31380461-foundation-and-empire" target="_blank" rel="noopener noreferrer" title="Foundation and Empire - Isaac Asimov"><img src="images/books/foundationandempire.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg" target="_blank" rel="noopener noreferrer" title="The Cuckoo's Egg - Cliff Stoll"><img src="images/books/cuckoosegg.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/61331094-the-fall-of-n-menor" target="_blank" rel="noopener noreferrer" title="The Fall of Numenor - J.R.R. Tolkien"><img src="images/books/fallofnumenor.jpg"/></a></td>
