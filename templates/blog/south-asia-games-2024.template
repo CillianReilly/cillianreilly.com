@@ -1,0 +1,19 @@
+    <div style="width:95%;margin:auto">
+        <h3>south asia games 2024</br>
+        <a href="/blog/sport" style="font-size:12px;background-color: #E0E0E0;text-decoration: none">&nbspsport&nbsp</a></h3>
+
+        <p>The South Asia Games 2024 took place in Kuala Lumpur, Malaysia on the 11th of May. Singapore Gaelic Lions sent 2 senior teams; as the club vice-captain for the year, I was captaining a team on the day. My team were the eventual cup winners, beating Saigon Gaels in the final. The final  went to extra time and golden score, a sideline free kick from Petesy O'Brien won the game for us.</p>
+
+        <p>The day in full is covered in more detail on the Singapore Gaelic Lions website: <a href="https://gaeliclions.org/south-asia-games-2024" target="_blank" rel="noopener noreferrer">South Asia Games 2024</a></p>
+
+        <div>
+            <div style="float:left;width:40%">
+                <a href="/blog/images/southAsiaGamesPresentation2024.jpg" target="_blank" rel="noopener noreferrer"><img src="/blog/images/southAsiaGamesPresentation2024.jpg" height=440 width=660 /></a>
+            </div>
+            <div style="float:left;width:40%">
+                <a href="/blog/images/southAsiaGamesTeam2024.jpg" target="_blank" rel="noopener noreferrer"><img src="/blog/images/southAsiaGamesTeam2024.jpg" height=440 width=660 /></a>
+            </div>
+        </div><br style="clear:left">
+        <!-- style="clear:left" is needed to remove the float properties set above" -->
+
+    </div>
