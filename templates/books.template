@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/840233.For_Whom_the_Bell_Tolls" target="_blank" rel="noopener noreferrer" title="For Whom the Bell Tolls - Ernest Hemingway"><img src="images/books/forwhomthebelltolls.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy" target="_blank" rel="noopener noreferrer" title="Tinker, Tailor, Soldier, Spy - John Le Carre"><img src="images/books/tinkertailorsoldierspy.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -23,16 +23,15 @@
                 </tr>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/54033555" target="_blank" rel="noopener noreferrer" title="Extreme Privacy - Michael Bazzell"><img src="images/books/extremeprivacy.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy" target="_blank" rel="noopener noreferrer" title="Tinker, Tailor, Soldier, Spy - John Le Carre"><img src="images/books/tinkertailorsoldierspy.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/197566578" target="_blank" rel="noopener noreferrer" title="Broken Money - Lyn Alden"><img src="images/books/brokenmoney.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/24310258-american-psycho" target="_blank" rel="noopener noreferrer" title="American Psycho - Bret Easton Ellis"><img src="images/books/americanpsycho.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/53011383" target="_blank" rel="noopener noreferrer" title="Unix - Brian Kernighan"><img src="images/books/unix.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/18883652-permutation-city" target="_blank" rel="noopener noreferrer" title="Permutation City - Greg Egan"><img src="images/books/permutationcity.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/36691904-chaos" target="_blank" rel="noopener noreferrer" title="Chaos - James Gleick"><img src="images/books/chaos.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/44492286" target="_blank" rel="noopener noreferrer" title="Children of Dune - Frank Herbert"><img src="images/books/childrenofdune.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/39077690-second-foundation" target="_blank" rel="noopener noreferrer" title="Second Foundation - Isaac Asimov"><img src="images/books/secondfoundation.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/39077690-second-foundation" target="_blank" rel="noopener noreferrer" title="Second Foundation - Isaac Asimov"><img src="images/books/secondfoundation.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/52950915-die-with-zero" target="_blank" rel="noopener noreferrer" title="Die With Zero - Bill Perkins"><img src="images/books/diewithzero.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/28503870-stories-of-your-life-and-others" target="_blank" rel="noopener noreferrer" title="Stories of Your Life and Others - Ted Chiang"><img src="images/books/storiesofyourlifeandothers.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/5116296-poorly-made-in-china" target="_blank" rel="noopener noreferrer" title="Poorly Made in China - Paul Midler"><img src="images/books/poorlymadeinchina.jpg"/></a></td>
@@ -50,6 +49,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/840233.For_Whom_the_Bell_Tolls" target="_blank" rel="noopener noreferrer" title="For Whom the Bell Tolls - Ernest Hemingway"><img src="images/books/forwhomthebelltolls.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/11398264-born-to-run" target="_blank" rel="noopener noreferrer" title="Born to Run - Christopher McDougall"><img src="images/books/borntorun.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/27997547-nova" target="_blank" rel="noopener noreferrer" title="Nova - Samuel R. Delany"><img src="images/books/nova.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/6759.Infinite_Jest" target="_blank" rel="noopener noreferrer" title="Infinite Jest - David Foster Wallace"><img src="images/books/infinitejest.jpg"/></a></td>
