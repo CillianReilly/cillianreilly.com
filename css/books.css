@@ -12,14 +12,16 @@
 	}
 
 .collapsible:after {
-	content: "\2795";
+	content: "+";
 	color: #646464;
 	float:right;
-	font-size: 10px;
+	font-size: 18px;
+	font-weight: bold;
 	}
 
 .activeC:after {
-	content: "\2796";
+	content: "-";
+	font-weight: bold;
 	}
 
 .content {
