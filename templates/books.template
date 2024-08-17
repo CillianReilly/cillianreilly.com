@@ -4,7 +4,6 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/34466963" target="_blank" rel="noopener noreferrer" title="Why We Sleep - Matthew Walker"><img src="images/books/whywesleep.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/56578056-the-midnight-library" target="_blank" rel="noopener noreferrer" title="The Midnight Library - Matt Haig"><img src="images/books/midnightlibrary.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -51,6 +50,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/56578056-the-midnight-library" target="_blank" rel="noopener noreferrer" title="The Midnight Library - Matt Haig"><img src="images/books/midnightlibrary.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy" target="_blank" rel="noopener noreferrer" title="Tinker, Tailor, Soldier, Spy - John Le Carre"><img src="images/books/tinkertailorsoldierspy.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/840233.For_Whom_the_Bell_Tolls" target="_blank" rel="noopener noreferrer" title="For Whom the Bell Tolls - Ernest Hemingway"><img src="images/books/forwhomthebelltolls.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/11398264-born-to-run" target="_blank" rel="noopener noreferrer" title="Born to Run - Christopher McDougall"><img src="images/books/borntorun.jpg"/></a></td>
