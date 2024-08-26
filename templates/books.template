@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/34466963" target="_blank" rel="noopener noreferrer" title="Why We Sleep - Matthew Walker"><img src="images/books/whywesleep.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/41795733-range" target="_blank" rel="noopener noreferrer" title="Range - David Epstein"><img src="images/books/range.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -48,6 +48,9 @@
             <button class="collapsible"><b>2024</b></button>
             <div class="content">
                 <table>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/34466963" target="_blank" rel="noopener noreferrer" title="Why We Sleep - Matthew Walker"><img src="images/books/whywesleep.jpg"/></a></td>
+                    </tr>
                     <tr>
                         <td><a href="https://www.goodreads.com/book/show/39077690-second-foundation" target="_blank" rel="noopener noreferrer" title="Second Foundation - Isaac Asimov"><img src="images/books/secondfoundation.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/56578056-the-midnight-library" target="_blank" rel="noopener noreferrer" title="The Midnight Library - Matt Haig"><img src="images/books/midnightlibrary.jpg"/></a></td>
