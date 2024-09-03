@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/41795733-range" target="_blank" rel="noopener noreferrer" title="Range - David Epstein"><img src="images/books/range.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/10025702-six-easy-pieces" target="_blank" rel="noopener noreferrer" title="Six Easy Pieces - Richard P. Feynman"><img src="images/books/sixeasypieces.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -49,6 +49,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/41795733-range" target="_blank" rel="noopener noreferrer" title="Range - David Epstein"><img src="images/books/range.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/34466963" target="_blank" rel="noopener noreferrer" title="Why We Sleep - Matthew Walker"><img src="images/books/whywesleep.jpg"/></a></td>
                     </tr>
                     <tr>
