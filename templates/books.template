@@ -4,7 +4,6 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/10025702-six-easy-pieces" target="_blank" rel="noopener noreferrer" title="Six Easy Pieces - Richard P. Feynman"><img src="images/books/sixeasypieces.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/74541839-the-supernova-era" target="_blank" rel="noopener noreferrer" title="The Supernova Era - Cixin Liu"><img src="images/books/supernovaera.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -34,11 +33,12 @@
                 </tr>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/5116296-poorly-made-in-china" target="_blank" rel="noopener noreferrer" title="Poorly Made in China - Paul Midler"><img src="images/books/poorlymadeinchina.jpg"/></a></td>
-                   <td><a href="https://www.goodreads.com/book/show/127380244-dhalgren-s-f-masterworks-by-samuel-r-delany" target="_blank" rel="noopener noreferrer" title="Dhalgren - Samuel R. Delany"><img src="images/books/dhalgren.jpg"/></a></td>
-                   <td><a href="https://www.goodreads.com/book/show/13202092-eat-run" target="_blank" rel="noopener noreferrer" title="Eat & Run - Scott Jurek"><img src="images/books/eatandrun.jpg"/></a></td>
-                   <td><a href="https://www.goodreads.com/book/show/4896787-animal-liberation" target="_blank" rel="noopener noreferrer" title="Animal Liberation - Peter Singer"><img src="images/books/animalliberation.jpg"/></a></td>
-                   <td><a href="https://www.goodreads.com/book/show/18990.The_Honourable_Schoolboy" target="_blank" rel="noopener noreferrer" title="The Honourable Schoolboy - John Le Carre"><img src="images/books/honourableschoolboy.jpg"/></a></td>
-                   <td><a href="https://www.goodreads.com/book/show/16171221-the-sports-gene" target="_blank" rel="noopener noreferrer" title="The Sports Gene - David Epstein"><img src="images/books/sportsgene.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/127380244-dhalgren-s-f-masterworks-by-samuel-r-delany" target="_blank" rel="noopener noreferrer" title="Dhalgren - Samuel R. Delany"><img src="images/books/dhalgren.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/13202092-eat-run" target="_blank" rel="noopener noreferrer" title="Eat & Run - Scott Jurek"><img src="images/books/eatandrun.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/4896787-animal-liberation" target="_blank" rel="noopener noreferrer" title="Animal Liberation - Peter Singer"><img src="images/books/animalliberation.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/18990.The_Honourable_Schoolboy" target="_blank" rel="noopener noreferrer" title="The Honourable Schoolboy - John Le Carre"><img src="images/books/honourableschoolboy.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/16171221-the-sports-gene" target="_blank" rel="noopener noreferrer" title="The Sports Gene - David Epstein"><img src="images/books/sportsgene.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/33830160-the-left-hand-of-darkness" target="_blank" rel="noopener noreferrer" title="The Left Hand of Darkness - Ursula K. Le Guin"><img src="images/books/lefthandofdarkness.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -50,6 +50,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/74541839-the-supernova-era" target="_blank" rel="noopener noreferrer" title="The Supernova Era - Cixin Liu"><img src="images/books/supernovaera.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/41795733-range" target="_blank" rel="noopener noreferrer" title="Range - David Epstein"><img src="images/books/range.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/34466963" target="_blank" rel="noopener noreferrer" title="Why We Sleep - Matthew Walker"><img src="images/books/whywesleep.jpg"/></a></td>
                     </tr>
