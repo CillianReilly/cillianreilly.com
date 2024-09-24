@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/33830160-the-left-hand-of-darkness" target="_blank" rel="noopener noreferrer" title="The Left Hand of Darkness - Ursula K. Le Guin"><img src="images/books/lefthandofdarkness.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/44492285-dune-messiah" target="_blank" rel="noopener noreferrer" title="Dune Messiah - Frank Herbert"><img src="images/books/dunemessiah.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -28,11 +28,10 @@
                     <td><a href="https://www.goodreads.com/book/show/53011383" target="_blank" rel="noopener noreferrer" title="Unix - Brian Kernighan"><img src="images/books/unix.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/18883652-permutation-city" target="_blank" rel="noopener noreferrer" title="Permutation City - Greg Egan"><img src="images/books/permutationcity.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/44492286" target="_blank" rel="noopener noreferrer" title="Children of Dune - Frank Herbert"><img src="images/books/childrenofdune.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/52950915-die-with-zero" target="_blank" rel="noopener noreferrer" title="Die With Zero - Bill Perkins"><img src="images/books/diewithzero.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/28503870-stories-of-your-life-and-others" target="_blank" rel="noopener noreferrer" title="Stories of Your Life and Others - Ted Chiang"><img src="images/books/storiesofyourlifeandothers.jpg"/></a></td>
-                </tr>
-                <tr>
                     <td><a href="https://www.goodreads.com/book/show/5116296-poorly-made-in-china" target="_blank" rel="noopener noreferrer" title="Poorly Made in China - Paul Midler"><img src="images/books/poorlymadeinchina.jpg"/></a></td>
+                </tr>
+                <tr>                    
                     <td><a href="https://www.goodreads.com/book/show/127380244-dhalgren-s-f-masterworks-by-samuel-r-delany" target="_blank" rel="noopener noreferrer" title="Dhalgren - Samuel R. Delany"><img src="images/books/dhalgren.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/13202092-eat-run" target="_blank" rel="noopener noreferrer" title="Eat & Run - Scott Jurek"><img src="images/books/eatandrun.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/4896787-animal-liberation" target="_blank" rel="noopener noreferrer" title="Animal Liberation - Peter Singer"><img src="images/books/animalliberation.jpg"/></a></td>
@@ -50,6 +49,8 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/33830160-the-left-hand-of-darkness" target="_blank" rel="noopener noreferrer" title="The Left Hand of Darkness - Ursula K. Le Guin"><img src="images/books/lefthandofdarkness.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/52950915-die-with-zero" target="_blank" rel="noopener noreferrer" title="Die With Zero - Bill Perkins"><img src="images/books/diewithzero.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/10025702-six-easy-pieces" target="_blank" rel="noopener noreferrer" title="Six Easy Pieces - Richard P. Feynman"><img src="images/books/sixeasypieces.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/74541839-the-supernova-era" target="_blank" rel="noopener noreferrer" title="The Supernova Era - Cixin Liu"><img src="images/books/supernovaera.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/41795733-range" target="_blank" rel="noopener noreferrer" title="Range - David Epstein"><img src="images/books/range.jpg"/></a></td>
