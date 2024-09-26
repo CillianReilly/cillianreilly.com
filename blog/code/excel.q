@@ -27,7 +27,7 @@ quote:([]time:.z.p+til 5;sym:5?`TSLA`IBM`NVDA;ask:5?100f;bid:5?100f;askSize:5?10
 // .h.tx.xls{x!value each x}tables[] // type error as data is not a table
 
 \d .h
-tx.xls:{$[98h=type x;ed;edsn]x}
+tx.xls:{$[99h=type x;edsn;ed]x}
 \d .
 
 .h.tx.xls trade
