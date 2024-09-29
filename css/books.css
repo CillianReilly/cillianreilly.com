@@ -46,3 +46,7 @@ td {
 img {
 	box-shadow:5px 5px 5px;
 	}
+
+.favourites {
+	box-shadow:7.5px 7.5px 7.5px #daa520;
+	}
