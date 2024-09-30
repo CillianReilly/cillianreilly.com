@@ -4,6 +4,7 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/44492285-dune-messiah" target="_blank" rel="noopener noreferrer" title="Dune Messiah - Frank Herbert"><img src="images/books/dunemessiah.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/5116296-poorly-made-in-china" target="_blank" rel="noopener noreferrer" title="Poorly Made in China - Paul Midler"><img src="images/books/poorlymadeinchina.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -29,10 +30,9 @@
                     <td><a href="https://www.goodreads.com/book/show/18883652-permutation-city" target="_blank" rel="noopener noreferrer" title="Permutation City - Greg Egan"><img src="images/books/permutationcity.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/44492286" target="_blank" rel="noopener noreferrer" title="Children of Dune - Frank Herbert"><img src="images/books/childrenofdune.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/28503870-stories-of-your-life-and-others" target="_blank" rel="noopener noreferrer" title="Stories of Your Life and Others - Ted Chiang"><img src="images/books/storiesofyourlifeandothers.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/5116296-poorly-made-in-china" target="_blank" rel="noopener noreferrer" title="Poorly Made in China - Paul Midler"><img src="images/books/poorlymadeinchina.jpg"/></a></td>
-                </tr>
-                <tr>                    
                     <td><a href="https://www.goodreads.com/book/show/127380244-dhalgren-s-f-masterworks-by-samuel-r-delany" target="_blank" rel="noopener noreferrer" title="Dhalgren - Samuel R. Delany"><img src="images/books/dhalgren.jpg"/></a></td>
+                </tr>
+                <tr>
                     <td><a href="https://www.goodreads.com/book/show/13202092-eat-run" target="_blank" rel="noopener noreferrer" title="Eat & Run - Scott Jurek"><img src="images/books/eatandrun.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/4896787-animal-liberation" target="_blank" rel="noopener noreferrer" title="Animal Liberation - Peter Singer"><img src="images/books/animalliberation.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/18990.The_Honourable_Schoolboy" target="_blank" rel="noopener noreferrer" title="The Honourable Schoolboy - John Le Carre"><img src="images/books/honourableschoolboy.jpg"/></a></td>
