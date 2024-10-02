@@ -3,7 +3,6 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/44492285-dune-messiah" target="_blank" rel="noopener noreferrer" title="Dune Messiah - Frank Herbert"><img src="images/books/dunemessiah.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/5116296-poorly-made-in-china" target="_blank" rel="noopener noreferrer" title="Poorly Made in China - Paul Midler"><img src="images/books/poorlymadeinchina.jpg"/></a></td>
                 </tr>
             </table>
@@ -50,6 +49,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/44492285-dune-messiah" target="_blank" rel="noopener noreferrer" title="Dune Messiah - Frank Herbert"><img src="images/books/dunemessiah.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/33830160-the-left-hand-of-darkness" target="_blank" rel="noopener noreferrer" title="The Left Hand of Darkness - Ursula K. Le Guin"><img src="images/books/lefthandofdarkness.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/52950915-die-with-zero" target="_blank" rel="noopener noreferrer" title="Die With Zero - Bill Perkins"><img src="images/books/diewithzero.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/10025702-six-easy-pieces" target="_blank" rel="noopener noreferrer" title="Six Easy Pieces - Richard P. Feynman"><img src="images/books/sixeasypieces.jpg"/></a></td>
