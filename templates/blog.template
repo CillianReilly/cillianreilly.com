@@ -17,6 +17,10 @@
         </p>-->
 
         <p>
+            <a href="/blog/cross-country-30-for-30.html"><b>2024.10.08: cross country running (30 for 30)</b></a></br>
+            <a href="/blog/sport" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsport&nbsp</b></a>
+        </p>
+        <p>
             <a href="/blog/excel.q"><b>2024.09.27: excel</b></a>
             <button type="submit" onclick="window.open('/blog/code/excel.q')">
                 <i class="fa-solid fa-download" style="color: #646464"></i>
