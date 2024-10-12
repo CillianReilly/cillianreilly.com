@@ -65,7 +65,7 @@ for page in $(grep "[0-9]\{4\}.[0-9]\{2\}.[0-9]\{2\}" templates/blog.template | 
 		pubDate=$(echo $data | cut -d ">" -f3 | cut -d : -f 1 | xargs)
 	else
 		title=$(echo $data | cut -d : -f 3 | cut -d "<" -f 1 | xargs)
-		link=$(echo $data | cut -d = -f 2 | cut -d " " -f 1 | xargs)
+		link=$(echo $data | cut -d " " -f2 | cut -d = -f 2- | xargs)
 		pubDate=$(echo $data | cut -d ">" -f3 | cut -d : -f 1 | xargs)
 	fi
 	
