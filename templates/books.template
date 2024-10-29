@@ -3,7 +3,8 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/18990.The_Honourable_Schoolboy" target="_blank" rel="noopener noreferrer" title="The Honourable Schoolboy - John Le Carre"><img src="images/books/honourableschoolboy.jpg"/></a></td>
+                    <!-- Recommended by Emer Reilly -->
+                    <td><a href="https://www.goodreads.com/book/show/52674648-the-passengers" target="_blank" rel="noopener noreferrer" title="The Passengers - John Marrs"><img src="images/books/passengers.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -47,6 +48,9 @@
             <button class="collapsible"><b>2024</b></button>
             <div class="content">
                 <table>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/18990.The_Honourable_Schoolboy" target="_blank" rel="noopener noreferrer" title="The Honourable Schoolboy - John Le Carre"><img src="images/books/honourableschoolboy.jpg"/></a></td>
+                    </tr
                     <tr>
                         <td><a href="https://www.goodreads.com/book/show/5116296-poorly-made-in-china" target="_blank" rel="noopener noreferrer" title="Poorly Made in China - Paul Midler"><img src="images/books/poorlymadeinchina.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/44492285-dune-messiah" target="_blank" rel="noopener noreferrer" title="Dune Messiah - Frank Herbert"><img src="images/books/dunemessiah.jpg"/></a></td>
