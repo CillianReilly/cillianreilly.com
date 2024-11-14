@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/36691904-chaos" target="_blank" rel="noopener noreferrer" title="Chaos - James Gleick"><img src="images/books/chaos.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/315233.On_the_Road" target="_blank" rel="noopener noreferrer" title="On the Road - Jack Kerouac"><img src="images/books/ontheroad.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -50,6 +50,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/36691904-chaos" target="_blank" rel="noopener noreferrer" title="Chaos - James Gleick"><img src="images/books/chaos.jpg"/></a></td>
                         <!-- Recommended by Emer Reilly -->
                         <td><a href="https://www.goodreads.com/book/show/52674648-the-passengers" target="_blank" rel="noopener noreferrer" title="The Passengers - John Marrs"><img src="images/books/passengers.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/18990.The_Honourable_Schoolboy" target="_blank" rel="noopener noreferrer" title="The Honourable Schoolboy - John Le Carre"><img src="images/books/honourableschoolboy.jpg"/></a></td>
