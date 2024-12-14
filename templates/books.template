@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/49982302-the-handmaid-s-tale" target="_blank" rel="noopener noreferrer" title="The Handmaid's Tale - Margaret Atwood"><img src="images/books/handmaidstale.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/16118280-roadside-picnic" target="_blank" rel="noopener noreferrer" title="Roadside Picnic - Arkady & Boris Strugatsky"><img src="images/books/roadsidepicnic.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -49,6 +49,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/49982302-the-handmaid-s-tale" target="_blank" rel="noopener noreferrer" title="The Handmaid's Tale - Margaret Atwood"><img class="favourites" src="images/books/handmaidstale.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/36691904-chaos" target="_blank" rel="noopener noreferrer" title="Chaos - James Gleick"><img src="images/books/chaos.jpg"/></a></td>
                         <!-- Recommended by Emer Reilly -->
                         <td><a href="https://www.goodreads.com/book/show/52674648-the-passengers" target="_blank" rel="noopener noreferrer" title="The Passengers - John Marrs"><img src="images/books/passengers.jpg"/></a></td>
