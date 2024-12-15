@@ -1,0 +1,13 @@
+    <div style="width:95%;margin:auto">
+        <h3><a href="https://gaeliclions.org" target="_blank" rel="noopener noreferrer">gaeliclions.org</a></h3>
+
+        <p>Towards the beginning of 2023, the Gaelic Football club that I play for here in Singapore (Singapore Gaelic Lions) were looking for volunteers to take over the running of the club website. The original set up was with Clubzap, and the expectation was that they would keep the club site running and up-to-date. During Covid this arrangement was not kept up and the club decided to move back to a self-hosted solution.</p>
+
+        <p>I volunteered to help out with running the site. The first step was to transfer the hosting of the domain name away from Clubzap and back to Hostmonster. Once that was done, it turned out that prior to the Clubzap arrangement, the club had already self-hosted the site and that the basics of a Wordpress site were still there. There were pros and cons to this, the pros being that a Wordpress installation was already in place, the cons being Wordpress.</p>
+
+        <p>Once the cruft had been cleaned up from the old installation, I set about to try and minimalize the site as much as I could, and organising the posts into a few basic categories. I ended up stripping as much as possible from the home page, leaving only a featured posts widget and a very basic introduction to the club. Navigation is controlled by a custom HTML widget I wrote for the top right header, which lists the major pages and the option to view more. Categories were limited to 5: Archives (any posts from prior to the revamp), General, Social (non GAA events), Tours (SEAs, AGGs etc) and Training.</p>
+
+        <p>From start to finish, it took roughly 3 months to rejuvenate the old site to a point that I was happy with. Most of that time was spent trying to figure out why Wordpress was behaving the way it was, and trying to work around it. Switching over was just a matter of asking Clubzap to unlock the domain name with their provider, and having hostmonster point it to the new IP address of their machine.</p>
+
+        <p>I still maintain the site and regularly post updates. You can check us out at <a href="https://gaeliclions.org" target="_blank" rel="noopener noreferrer">gaeliclions.org</a>, and we also offer an RSS feed so you can keep up-to-date with us!</p>
+    </div>
