@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/16118280-roadside-picnic" target="_blank" rel="noopener noreferrer" title="Roadside Picnic - Arkady & Boris Strugatsky"><img src="images/books/roadsidepicnic.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/42929.Gai_Jin" target="_blank" rel="noopener noreferrer" title="Gai-Jin - James Clavell"><img src="images/books/gaijin.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -15,14 +15,13 @@
                     <td><a href="https://www.goodreads.com/book/show/30659.Meditations" target="_blank" rel="noopener noreferrer" title="Mediatations - Marcus Aurelius"><img src="images/books/meditations.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/en/book/show/66499.The_Creature_from_Jekyll_Island" target="_blank" rel="noopener noreferrer" title="The Creature from Jekyll Island - G. Edward Griffin"><img src="images/books/creaturefromjekyllisland.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/60625290-bitcoin-is-venice" target="_blank" rel="noopener noreferrer" title="Bitcoin is Venice - Allen Farrington, Sacha Meyers"><img src="images/books/bitcoinisvenice.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/42929.Gai_Jin" target="_blank" rel="noopener noreferrer" title="Gai-Jin - James Clavell"><img src="images/books/gaijin.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/6617037" target="_blank" rel="noopener noreferrer" title="Debt - David Graeber"><img src="images/books/debt.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/1001555.The_Hunt_for_Red_October" target="_blank" rel="noopener noreferrer" title="The Hunt for Red October - Tom Clancy"><img src="images/books/huntforredoctober.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/25812847" target="_blank" rel="noopener noreferrer" title="Silk Roads - Peter Frankopan"><img src="images/books/silkroads.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/54033555" target="_blank" rel="noopener noreferrer" title="Extreme Privacy - Michael Bazzell"><img src="images/books/extremeprivacy.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/197566578" target="_blank" rel="noopener noreferrer" title="Broken Money - Lyn Alden"><img src="images/books/brokenmoney.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/197566578" target="_blank" rel="noopener noreferrer" title="Broken Money - Lyn Alden"><img src="images/books/brokenmoney.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/24310258-american-psycho" target="_blank" rel="noopener noreferrer" title="American Psycho - Bret Easton Ellis"><img src="images/books/americanpsycho.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/53011383" target="_blank" rel="noopener noreferrer" title="Unix - Brian Kernighan"><img src="images/books/unix.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/18883652-permutation-city" target="_blank" rel="noopener noreferrer" title="Permutation City - Greg Egan"><img src="images/books/permutationcity.jpg"/></a></td>
@@ -30,9 +29,9 @@
                     <td><a href="https://www.goodreads.com/book/show/28503870-stories-of-your-life-and-others" target="_blank" rel="noopener noreferrer" title="Stories of Your Life and Others - Ted Chiang"><img src="images/books/storiesofyourlifeandothers.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/127380244-dhalgren-s-f-masterworks-by-samuel-r-delany" target="_blank" rel="noopener noreferrer" title="Dhalgren - Samuel R. Delany"><img src="images/books/dhalgren.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/13202092-eat-run" target="_blank" rel="noopener noreferrer" title="Eat & Run - Scott Jurek"><img src="images/books/eatandrun.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/4896787-animal-liberation" target="_blank" rel="noopener noreferrer" title="Animal Liberation - Peter Singer"><img src="images/books/animalliberation.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/4896787-animal-liberation" target="_blank" rel="noopener noreferrer" title="Animal Liberation - Peter Singer"><img src="images/books/animalliberation.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/16171221-the-sports-gene" target="_blank" rel="noopener noreferrer" title="The Sports Gene - David Epstein"><img src="images/books/sportsgene.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/17364.Surely_You_re_Joking_Mr_Feynman_" target="_blank" rel="noopener noreferrer" title="Surely You're Joking, Mr. Feynman! - Richard P. Feynman"><img src="images/books/surelyyourejokingmrfeynman.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/18999.Smiley_s_People" target="_blank" rel="noopener noreferrer" title="Smiley's People - John Le Carre"><img src="images/books/smileyspeople.jpg"/></a></td>
@@ -49,6 +48,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/16118280-roadside-picnic" target="_blank" rel="noopener noreferrer" title="Roadside Picnic - Arkady & Boris Strugatsky"><img src="images/books/roadsidepicnic.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/49982302-the-handmaid-s-tale" target="_blank" rel="noopener noreferrer" title="The Handmaid's Tale - Margaret Atwood"><img class="favourites" src="images/books/handmaidstale.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/36691904-chaos" target="_blank" rel="noopener noreferrer" title="Chaos - James Gleick"><img src="images/books/chaos.jpg"/></a></td>
                         <!-- Recommended by Emer Reilly -->
