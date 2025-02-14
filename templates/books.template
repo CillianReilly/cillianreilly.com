@@ -3,7 +3,6 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/16171221-the-sports-gene" target="_blank" rel="noopener noreferrer" title="The Sports Gene - David Epstein"><img src="images/books/sportsgene.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/968712.Inverted_World" target="_blank" rel="noopener noreferrer" title="Inverted World - Christopher Priest"><img src="images/books/invertedworld.jpg"/></a>
                 </tr>
             </table>
@@ -53,6 +52,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/16171221-the-sports-gene" target="_blank" rel="noopener noreferrer" title="The Sports Gene - David Epstein"><img src="images/books/sportsgene.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/42929.Gai_Jin" target="_blank" rel="noopener noreferrer" title="Gai-Jin - James Clavell"><img src="images/books/gaijin.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/40409969-medium-raw" target="_blank" rel="noopener noreferrer" title="Medium Raw - Anthony Bourdain"><img src="images/books/mediumraw.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/25899336-when-breath-becomes-air" target="_blank" rel="noopener noreferrer" title="When Breath Becomes Air - Paul Kalanithi"><img src="images/books/whenbreathbecomesair.jpg"/></a></td>
