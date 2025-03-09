@@ -1,7 +1,6 @@
     <div style="width:33%;margin:auto;transform:translateY(6vh)">
         <a href="/blog" style="font-size:12px;background-color:#E0E0E0"><b>&nbspall&nbsp</b></a>    
         <a href="/blog/links" style="font-size:12px;background-color:#E0E0E0"><b>&nbsplinks&nbsp</b></a>
-        <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         <a href="/blog/sport" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsport&nbsp</b></a>
         </br></br>
 
@@ -11,7 +10,6 @@
                 <i class="fa-solid fa-download" style="color: #646464"></i>
             </button></br>
             <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
-            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
 
         <p>
@@ -20,7 +18,6 @@
                 <i class="fa-solid fa-download" style="color: #646464"></i>
             </button></br>
             <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
-            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
             <a href="/blog/complementary-colours.q"><b>2024.08.18: complementary colours</b></a>
@@ -28,7 +25,6 @@
                 <i class="fa-solid fa-download" style="color: #646464"></i>
             </button></br>
             <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
-            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
             <a href="/blog/variable-rank.q"><b>2024.04.04: variable rank</b></a>
@@ -36,12 +32,10 @@
                 <i class="fa-solid fa-download" style="color: #646464"></i>
             </button></br>
             <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
-            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
             <a href="/blog/advent-of-code-2023"><b>2024.01.13: advent of code 2023</b></a></br>
             <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
-            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
             <a href="/blog/host-line-separator.q"><b>2023.06.08: host line separator</b></a>
@@ -49,7 +43,6 @@
                 <i class="fa-solid fa-download" style="color: #646464"></i>
             </button></br>
             <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
-            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
             <a href="/blog/parity-of-infinity.q"><b>2023.05.25: is infinity even or odd?</b></a>
@@ -57,7 +50,6 @@
                 <i class="fa-solid fa-download" style="color: #646464"></i>
             </button></br>
             <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
-            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
             <a href="/blog/substrings.q"><b>2023.03.28: substrings</b></a>
@@ -65,7 +57,6 @@
                 <i class="fa-solid fa-download" style="color: #646464"></i>
             </button></br>
             <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
-            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
             <a href="/blog/digit-representation.q"><b>2022.12.26: digit representation</b></a>
@@ -73,7 +64,6 @@
                 <i class="fa-solid fa-download" style="color: #646464"></i>
             </button></br>
             <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
-            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
             <a href="/blog/bit-representation.q"><b>2022.12.07: bit representation</b></a>
@@ -81,7 +71,6 @@
                 <i class="fa-solid fa-download" style="color: #646464"></i>
             </button></br>
             <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
-            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
             <a href="/blog/upsert-vs-insert.q"><b>2022.11.24: upsert vs insert</b></a>
@@ -89,7 +78,6 @@
                 <i class="fa-solid fa-download" style="color: #646464"></i>
             </button></br>
             <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
-            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
             <a href="/blog/step-dictionary.q"><b>2022.11.19: step dictionary</b></a>
@@ -97,7 +85,6 @@
                 <i class="fa-solid fa-download" style="color: #646464"></i>
             </button></br>
             <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
-            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
         </p>
         <p>
             <a href="/blog/paste.q"><b>2022.11.15: kdb+ paster</b></a>
@@ -106,6 +93,5 @@
             </button></br>
             mutli-line paste into the kdb+ console</br>
             <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
-            <a href="/blog/software" style="font-size:12px;background-color:#E0E0E0"><b>&nbspsoftware&nbsp</b></a>
-        </p>
+        </p>>
     </div>

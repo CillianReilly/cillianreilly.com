@@ -1,7 +1,6 @@
     <div style="width:95%;margin:auto">
         <h3>advent of code 2023</br>
         <a href="/blog/kdb" style="font-size:12px;background-color: #E0E0E0;text-decoration: none">&nbspkdb+&nbsp</a>
-        <a href="/blog/software" style="font-size:12px;background-color: #E0E0E0;text-decoration: none">&nbspsoftware&nbsp</a></h3>
 
         <p>The lower end of the difficulty scale was definitely increased this year - usually the first couple of days are simple one-liners in kdb+. A rough heursitic on days 1-5 of this year vs last year gives a 100% increase in lines of code needed to solve both parts. At the same time, I felt that that the upper end of the difficulty scale was decreased, most of the problems (at least the first parts) seemed to be quite doable to me - other years, I have drawn a blank on higher numbered dates.</p>
 
