@@ -21,6 +21,7 @@
                 <a href="/blog" style="min-height: 100%">blog</a>
                 <a href="/books" style="min-height: 100%">books</a>
                 <a href="/projects" style="min-height: 100%">projects</a>
+                <a href="/publications" style="min-height: 100%">publications</a>
                 <a href="/travel" style="min-height: 100%">travel</a>
             </div>
             <div class ="rightPanel">
