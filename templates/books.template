@@ -4,6 +4,7 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/56269264-the-dawn-of-everything" target="_blank" rel="noopener noreferrer" title="The Dawn Of Everything - David Graeber & David Wengrow"><img src="images/books/dawnofeverything.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/18999.Smiley_s_People" target="_blank" rel="noopener noreferrer" title="Smiley's People - John Le Carre"><img src="images/books/smileyspeople.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -32,7 +33,6 @@
                     <td><a href="https://www.goodreads.com/book/show/4896787-animal-liberation" target="_blank" rel="noopener noreferrer" title="Animal Liberation - Peter Singer"><img src="images/books/animalliberation.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/18999.Smiley_s_People" target="_blank" rel="noopener noreferrer" title="Smiley's People - John Le Carre"><img src="images/books/smileyspeople.jpg"/></a></td>
                     <!-- Recommended by Ruairi Conlon -->
                     <td><a href="https://www.goodreads.com/book/show/54589752-out-of-thin-air" target="_blank" rel="noopener noreferrer" title="Out of Thin Air - Michael Crawley"><img src="images/books/outofthinair.jpg"/></a></td>
                     <!-- Recommended by Emer Reilly -->
@@ -44,9 +44,9 @@
                     <td><a href="https://www.goodreads.com/book/show/18634812-the-making-of-the-atomic-bomb" target="_blank" rel="noopener noreferrer" title="The Making of the Atomic Bomb - Richard Rhodes"><img src="images/books/makingoftheatomicbomb.jpg"/></a></td>
                     <!-- Recommended by Martin Deane -->
                     <td><a href="https://www.goodreads.com/book/show/2051433.The_Shock_Doctrine" target="_blank" rel="noopener noreferrer" title="The Shock Doctrine - Naomi Klein"><img src="images/books/shockdoctrine.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/263466.Dragon_s_Egg" target="_blank" rel="noopener noreferrer" title="Dragon's Egg - Robert L. Forward"><img src="images/books/dragonsegg.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/263466.Dragon_s_Egg" target="_blank" rel="noopener noreferrer" title="Dragon's Egg - Robert L. Forward"><img src="images/books/dragonsegg.jpg"/></a></td>
                     <!-- Recommended by Martin Deane -->
                     <!-- Recommended by Lorcan Conlon -->
                     <td><a href="https://www.goodreads.com/book/show/188543465-the-trading-game" target="_blank" rel="noopener noreferrer" title="The Trading Game - Gary Stevenson"><img src="images/books/tradinggame.jpg"/></a></td>
