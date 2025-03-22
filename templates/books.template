@@ -3,7 +3,6 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/56269264-the-dawn-of-everything" target="_blank" rel="noopener noreferrer" title="The Dawn Of Everything - David Graeber & David Wengrow"><img src="images/books/dawnofeverything.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/18999.Smiley_s_People" target="_blank" rel="noopener noreferrer" title="Smiley's People - John Le Carre"><img src="images/books/smileyspeople.jpg"/></a></td>
                 </tr>
             </table>
@@ -91,6 +90,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/56269264-the-dawn-of-everything" target="_blank" rel="noopener noreferrer" title="The Dawn Of Everything - David Graeber & David Wengrow"><img src="images/books/dawnofeverything.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/58175765-the-paradox-hotel" target="_blank" rel="noopener noreferrer" title="The Paradoz Hotel - Rob Hart"><img src="images/books/paradoxhotel.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/17364.Surely_You_re_Joking_Mr_Feynman_" target="_blank" rel="noopener noreferrer" title="Surely You're Joking, Mr. Feynman! - Richard P. Feynman"><img src="images/books/surelyyourejokingmrfeynman.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/968712.Inverted_World" target="_blank" rel="noopener noreferrer" title="Inverted World - Christopher Priest"><img src="images/books/invertedworld.jpg"/></a>
