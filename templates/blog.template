@@ -16,6 +16,10 @@
         </p>-->
 
         <p>
+            <a href="/blog/kintsugi-part-two"><b>2025.03.31: kintsugi part two</b></a></br>
+            repair work part two
+        </p>
+        <p>
             <a href="/blog/repeated-application.q"><b>2025.03.09: repeated application</b></a>
             <button type="submit" onclick="window.open('/blog/code/repeated-application.q')">
                 <i class="fa-solid fa-download" style="color: #646464"></i>
