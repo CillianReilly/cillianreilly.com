@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/18883652-permutation-city" target="_blank" rel="noopener noreferrer" title="Permutation City - Greg Egan"><img src="images/books/permutationcity.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/18144590-the-alchemist" target="_blank" rel="noopener noreferrer" title="The Alchemist - Paulo Coelho"><img src="images/books/alchemist.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -94,6 +94,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/18883652-permutation-city" target="_blank" rel="noopener noreferrer" title="Permutation City - Greg Egan"><img src="images/books/permutationcity.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/18999.Smiley_s_People" target="_blank" rel="noopener noreferrer" title="Smiley's People - John Le Carre"><img src="images/books/smileyspeople.jpg"/></a></td>
                     </tr>
                     <tr>
