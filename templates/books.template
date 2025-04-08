@@ -4,6 +4,8 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/18144590-the-alchemist" target="_blank" rel="noopener noreferrer" title="The Alchemist - Paulo Coelho"><img src="images/books/alchemist.jpg"/></a></td>
+                    <!-- Recommended by Martin Deane -->
+                    <td><a href="https://www.goodreads.com/book/show/43848929-talking-to-strangers" target="_blank" rel="noopener noreferrer" title="Talking to Strangers - Malcolm Gladwell"><img src="images/books/talkingtostrangers.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -52,8 +54,6 @@
                     <!-- Recommended by Martin Deane -->
                     <td><a href="https://www.goodreads.com/book/show/48890486-breath" target="_blank" rel="noopener noreferrer" title="Breath - James Nestor"><img src="images/books/breath.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/17736403-the-gods-themselves" target="_blank" rel="noopener noreferrer" title="The Gods Themselves"><img src="images/books/godsthemselves.jpg"/></a></td>
-                    <!-- Recommended by Martin Deane -->
-                    <td><a href="https://www.goodreads.com/book/show/43848929-talking-to-strangers" target="_blank" rel="noopener noreferrer" title="Talking to Strangers - Malcolm Gladwell"><img src="images/books/talkingtostrangers.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/816.Cryptonomicon" target="_blank" rel="noopener noreferrer" title="Cryptonomicon - Neal Stephenson"><img src="images/books/cryptonomicon.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/25499718-children-of-time" target="_blank" rel="noopener noreferrer" title="Children of Time - Adrian Tchaikovsky"><img src="images/books/childrenoftime.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/8854502-when-money-dies" target="_blank" rel="noopener noreferrer" title="When Money Dies - Adam Fergusson"><img src="images/books/whenmoneydies.jpg"/></a></td>
