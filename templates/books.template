@@ -3,8 +3,9 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <!-- Recommended by Martin Deane -->
-                    <td><a href="https://www.goodreads.com/book/show/43848929-talking-to-strangers" target="_blank" rel="noopener noreferrer" title="Talking to Strangers - Malcolm Gladwell"><img src="images/books/talkingtostrangers.jpg"/></a></td>
+                    <!-- Recommended by Emer Reilly -->
+                    <!-- Recommended by Eanna Reilly -->
+                    <td><a href="https://www.goodreads.com/book/show/27823798-rebecca" target="_blank" rel="noopener noreferrer" title="Rebecca - Daphne du Maurier"><img src="images/books/rebecca.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -34,9 +35,6 @@
                     <td><a href="https://www.goodreads.com/book/show/54589752-out-of-thin-air" target="_blank" rel="noopener noreferrer" title="Out of Thin Air - Michael Crawley"><img src="images/books/outofthinair.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <!-- Recommended by Emer Reilly -->
-                    <!-- Recommended by Eanna Reilly -->
-                    <td><a href="https://www.goodreads.com/book/show/27823798-rebecca" target="_blank" rel="noopener noreferrer" title="Rebecca - Daphne du Maurier"><img src="images/books/rebecca.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/62900908-no-country-for-old-men" target="_blank" rel="noopener noreferrer" title="No Country for Old Men - Cormac McCarthy"><img src="images/books/nocountryforoldmen.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/kingrat.jpg" target="_blank" rel="noopener noreferrer" title="King Rat - James Clavell"><img src="images/books/kingrat.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/eattolive.jpg" target="_blank" rel="noopener noreferrer" title="Eat To Live - Joel Fuhrman"><img src="images/books/eattolive.jpg"/></a></td>
@@ -48,10 +46,10 @@
                     <!-- Recommended by Lorcan Conlon -->
                     <!-- Recommended by Chris Atkinson -->
                     <td><a href="https://www.goodreads.com/book/show/188543465-the-trading-game" target="_blank" rel="noopener noreferrer" title="The Trading Game - Gary Stevenson"><img src="images/books/tradinggame.jpg"/></a></td>
-                </tr>
-                <tr>
                     <!-- Recommended by Martin Deane -->
                     <td><a href="https://www.goodreads.com/book/show/48890486-breath" target="_blank" rel="noopener noreferrer" title="Breath - James Nestor"><img src="images/books/breath.jpg"/></a></td>
+                </tr>
+                <tr>
                     <td><a href="https://www.goodreads.com/book/show/17736403-the-gods-themselves" target="_blank" rel="noopener noreferrer" title="The Gods Themselves"><img src="images/books/godsthemselves.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/816.Cryptonomicon" target="_blank" rel="noopener noreferrer" title="Cryptonomicon - Neal Stephenson"><img src="images/books/cryptonomicon.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/25499718-children-of-time" target="_blank" rel="noopener noreferrer" title="Children of Time - Adrian Tchaikovsky"><img src="images/books/childrenoftime.jpg"/></a></td>
@@ -93,6 +91,8 @@
             <div class="content">
                 <table>
                     <tr>
+                    <!-- Recommended by Martin Deane -->
+                    <td><a href="https://www.goodreads.com/book/show/43848929-talking-to-strangers" target="_blank" rel="noopener noreferrer" title="Talking to Strangers - Malcolm Gladwell"><img src="images/books/talkingtostrangers.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/18144590-the-alchemist" target="_blank" rel="noopener noreferrer" title="The Alchemist - Paulo Coelho"><img src="images/books/alchemist.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/18883652-permutation-city" target="_blank" rel="noopener noreferrer" title="Permutation City - Greg Egan"><img src="images/books/permutationcity.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/18999.Smiley_s_People" target="_blank" rel="noopener noreferrer" title="Smiley's People - John Le Carre"><img src="images/books/smileyspeople.jpg"/></a></td>
