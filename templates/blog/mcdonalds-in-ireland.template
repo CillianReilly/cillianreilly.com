@@ -1,0 +1,25 @@
+    <div style="width:95%;margin:auto">
+        <h3>mcdonalds in ireland</h3>
+
+        <p>Following a flippant comment made by my girlfriend that she would "run off" her McDonald's lunch, this set me thinking about distances between McDonald's outlets in Ireland. (As it turns out, she would have needed to run a half marathon to run off her lunch!)</p>
+
+        <p>My first idea was to find how far in Ireland you could possibly get from a McDonald's, but I was beaten to the punch on that one by about 8 years: <a href="https://www.spatialoverlay.xyz/uncategorized/farthest-mcdonalds-ireland-part-ii/" target="_blank" rel="noopener noreferrer">spatialoverlay.xyz</a>. My next idea was to find the most remote outlet. (By chance, I had recently read an article about the most remote point in Ireland, it is in the Nephin Beg mountains in Mayo: <a href="https://threerockbooks.com/irelands-remote-point/" target="_blank" rel="noopener noreferrer">threerockbooks.com</a>.)</p>
+
+        <p>Using <a href="https://overpass-turbo.eu/" target="_blank" rel="noopener noreferrer">overpass-turbo.eu</a>, it's very easy to pull out all of the GIS data for McDonald's outlets on the island of Ireland, shown below. The data is also exportable to several file formats, for this I used json.</p>
+
+        <a href="/blog/images/mcdonalds/outlets.png" target="_blank" rel="noopener noreferrer"><img src="/blog/images/mcdonalds/outlets.png" height=600 width=500/></a>
+
+        <p>I'm a kdb+ programmer by trade, so naturally I reached for this first to analsye the data (the relevant data and code is available on <a href="https://github.com/CillianReilly/odds-and-ends/tree/master/mcdonalds" target="_blank" rel="noopener noreferrer">github.com</a>). Along the way, I learnt about the <a href="https://en.wikipedia.org/wiki/Haversine_formula" target="_blank" rel="noopener noreferrer">Haversine formula</a> for calculating great circle distances between pairs of coordinates (assuming a spherical Earth...) and implemented it in kdb+. Once I had the distances between each pair of outlets, it's straighforward to find the max/min distances etc.</p>
+
+        <p>Somewhat unsuprisingly, the most remote McDonalds outlet is the outlet closest to Ireland's most remote point, that is the <a href="https://www.openstreetmap.org/node/734514376" target="_blank" rel="noopener noreferrer">Castlebar outlet</a>, 66 kilometres away from the outlet at the Westside shopping centre in Galway city. Of course, this is the great circle distance, actual travel distance would be longer (in this case, ~78.5k).</p>
+
+        <a href="/blog/images/mcdonalds/mostRemote.png" target="_blank" rel="noopener noreferrer"><img src="/blog/images/mcdonalds/mostRemote.png" height=600 width=850/></a>
+
+        <p>The second most remote outlet is at Carraroe retail park in Sligo, which is 42.5k from the Carrick-on-Shannon outlet. Rounding out the top 3 is the Coleraine outlet, 38k away from the Ballymena outlet. As for the closest locations, the outlet on upper O'Connell Street is only 250m away from the Parnell Street outlet! The walking distance is 460m though, so I think that the real closest locations are... both of the McDonald's on O'Connell Street. Yes, there are two. These are only 270m apart walking distance. (<a href="https://www.openstreetmap.org/way/316971230#map=19/53.350246/-6.260928" target="_blank" rel="noopener noreferrer">Upper O'Connell Street</a> and <a href="https://www.openstreetmap.org/way/249210746#map=19/53.347871/-6.259994" target="_blank" rel="noopener noreferrer">Lower O'Connell Street</a>). Some notable contenders include the two outlets in Tallaght, Dublin (~350 metres) and the two outlets in Cork City centre (Saint Patrick's Street and Winthrop Street ~410 metres).</p>
+
+        <p>The two most distant outlets are the <a href="https://www.openstreetmap.org/way/244086911#map=19/52.060476/-9.499781" target="_blank" rel="noopener noreferrer">Killarney outlet</a> and the <a href="https://www.openstreetmap.org/way/1043593539#map=19/54.849291/-5.816885" target="_blank" rel="noopener noreferrer">Larne outlet</a>, at 394k apart, or a 505k drive! For reference, the average distance between an outlet and its nearest neighbour is 10k, while the median is only 3.5k.</p>
+
+        <a href="/blog/images/mcdonalds/furthest.png" target="_blank" rel="noopener noreferrer"><img src="/blog/images/mcdonalds/furthest.png" height=600 width=600/></a>
+
+        <p>Some future ideas I have include calculating the average distance in Ireland to a McDonald's outlet and calculating the pair of McDonald's you would need to run between in order to "run off" certain McDonald's meals. Part Two!</p>
+    </div>
