@@ -87,14 +87,14 @@
             <div class="content">
                 <table>
                     <tr>
-                    <!-- Recommended by Ruairi Conlon -->
-                    <td><a href="https://www.goodreads.com/book/show/54589752-out-of-thin-air" target="_blank" rel="noopener noreferrer" title="Out of Thin Air - Michael Crawley"><img src="images/books/outofthinair.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/150244705-ultrarunning-for-normal-people" target="_blank" rel="noopener noreferrer" title="Ultrarunning for Normal People - Sid Garza Hillman"><img src="images/books/ultrarunningfornormalpeople.jpg"/></a></td>
-                    <!-- Recommended by Emer Reilly -->
-                    <!-- Recommended by Eanna Reilly -->
-                    <td><a href="https://www.goodreads.com/book/show/27823798-rebecca" target="_blank" rel="noopener noreferrer" title="Rebecca - Daphne du Maurier"><img src="images/books/rebecca.jpg"/></a></td>
-                    <!-- Recommended by Martin Deane -->
-                    <td><a href="https://www.goodreads.com/book/show/43848929-talking-to-strangers" target="_blank" rel="noopener noreferrer" title="Talking to Strangers - Malcolm Gladwell"><img src="images/books/talkingtostrangers.jpg"/></a></td>
+                        <!-- Recommended by Ruairi Conlon -->
+                        <td><a href="https://www.goodreads.com/book/show/54589752-out-of-thin-air" target="_blank" rel="noopener noreferrer" title="Out of Thin Air - Michael Crawley"><img src="images/books/outofthinair.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/150244705-ultrarunning-for-normal-people" target="_blank" rel="noopener noreferrer" title="Ultrarunning for Normal People - Sid Garza Hillman"><img src="images/books/ultrarunningfornormalpeople.jpg"/></a></td>
+                        <!-- Recommended by Emer Reilly -->
+                        <!-- Recommended by Eanna Reilly -->
+                        <td><a href="https://www.goodreads.com/book/show/27823798-rebecca" target="_blank" rel="noopener noreferrer" title="Rebecca - Daphne du Maurier"><img src="images/books/rebecca.jpg"/></a></td>
+                        <!-- Recommended by Martin Deane -->
+                        <td><a href="https://www.goodreads.com/book/show/43848929-talking-to-strangers" target="_blank" rel="noopener noreferrer" title="Talking to Strangers - Malcolm Gladwell"><img src="images/books/talkingtostrangers.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/18144590-the-alchemist" target="_blank" rel="noopener noreferrer" title="The Alchemist - Paulo Coelho"><img src="images/books/alchemist.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/18883652-permutation-city" target="_blank" rel="noopener noreferrer" title="Permutation City - Greg Egan"><img src="images/books/permutationcity.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/18999.Smiley_s_People" target="_blank" rel="noopener noreferrer" title="Smiley's People - John Le Carre"><img src="images/books/smileyspeople.jpg"/></a></td>
