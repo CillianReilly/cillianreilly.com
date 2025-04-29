@@ -88,7 +88,7 @@
                 <table>
                     <tr>
                         <!-- Recommended by Ruairi Conlon -->
-                        <td><a href="https://www.goodreads.com/book/show/54589752-out-of-thin-air" target="_blank" rel="noopener noreferrer" title="Out of Thin Air - Michael Crawley"><img src="images/books/outofthinair.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/54589752-out-of-thin-air" target="_blank" rel="noopener noreferrer" title="Out of Thin Air - Michael Crawley"><img class="favourites" src="images/books/outofthinair.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/150244705-ultrarunning-for-normal-people" target="_blank" rel="noopener noreferrer" title="Ultrarunning for Normal People - Sid Garza Hillman"><img src="images/books/ultrarunningfornormalpeople.jpg"/></a></td>
                         <!-- Recommended by Emer Reilly -->
                         <!-- Recommended by Eanna Reilly -->
