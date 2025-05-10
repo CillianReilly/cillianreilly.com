@@ -86,7 +86,7 @@
                 <table>
                     <tr>
                         <!-- Recommended by Martin Deane -->
-                        <td><a href="https://www.goodreads.com/book/show/48890486-breath" target="_blank" rel="noopener noreferrer" title="Breath - James Nestor"><img src="images/books/breath.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/48890486-breath" target="_blank" rel="noopener noreferrer" title="Breath - James Nestor"><img class="favourites" src="images/books/breath.jpg"/></a></td>
                         <!-- Recommended by Ruairi Conlon -->
                         <td><a href="https://www.goodreads.com/book/show/54589752-out-of-thin-air" target="_blank" rel="noopener noreferrer" title="Out of Thin Air - Michael Crawley"><img class="favourites" src="images/books/outofthinair.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/150244705-ultrarunning-for-normal-people" target="_blank" rel="noopener noreferrer" title="Ultrarunning for Normal People - Sid Garza Hillman"><img src="images/books/ultrarunningfornormalpeople.jpg"/></a></td>
@@ -394,7 +394,7 @@
                     </tr>
                     <tr>
                         <td><a href="https://www.goodreads.com/book/show/13185350-minimalism" target="_blank" rel="noopener noreferrer" title="Minimalism - Joshua Fields Millburn & Ryan Nicodemus"><img src="images/books/minimalism.jpg"/></a></td>
-                        <td><a href="https://www.goodreads.com/book/show/32670670-the-complete-guide-to-fasting" target="_blank" rel="noopener noreferrer" title="The Complete Guide to Fasting - Jason Fung"><img src="images/books/completeguidetofasting.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/32670670-the-complete-guide-to-fasting" target="_blank" rel="noopener noreferrer" title="The Complete Guide to Fasting - Jason Fung"><img class="favourites" src="images/books/completeguidetofasting.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/36357433-straight-to-hell" target="_blank" rel="noopener noreferrer" title="Straight To Hell - John LeFevre"><img src="images/books/straighttohell.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/25894041-blockchain-revolution" target="_blank" rel="noopener noreferrer" title="Blockchain Revolution - Don & Alex Tapscott"><img src="images/books/blockchainrevolution.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/40541157-the-basics-of-bitcoins-and-blockchains" target="_blank" rel="noopener noreferrer" title="The Basics of Bitcoins and Blockchains - Antony Lewis"><img src="images/books/basicofbitcoinsandblockchain.jpg"/></a></td>
