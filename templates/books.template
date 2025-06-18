@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/4896787-animal-liberation" target="_blank" rel="noopener noreferrer" title="Animal Liberation - Peter Singer"><img src="images/books/animalliberation.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/11457054-the-secret-pilgrim" target="_blank" rel="noopener noreferrer" title="The Secret Pilgrim - John Le Carre"><img src="images/books/secretpilgrim.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -46,7 +46,6 @@
                     <td><a href="https://www.goodreads.com/book/show/8854502-when-money-dies" target="_blank" rel="noopener noreferrer" title="When Money Dies - Adam Fergusson"><img src="images/books/whenmoneydies.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/11457054-the-secret-pilgrim" target="_blank" rel="noopener noreferrer" title="The Secret Pilgrim - John Le Carre"><img src="images/books/secretpilgrim.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/75623468-love-triangle" target="_blank" rel="noopener noreferrer" title="Love Triangle - Matt Parker"><img src="images/books/lovetriangle.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/44439415-god-emperor-of-dune" target="_blank" rel="noopener noreferrer" title="God Emperor of Dune - Frank Herbert"><img src="images/books/godemperorofdune.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/6751.Consider_the_Lobster_and_Other_Essays" target="_blank" rel="noopener noreferrer" title="Consider the Lobster - David Foster Wallace"><img src="images/books/considerthelobster.jpg"/></a></td>
@@ -87,6 +86,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/4896787-animal-liberation" target="_blank" rel="noopener noreferrer" title="Animal Liberation - Peter Singer"><img src="images/books/animalliberation.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/44492286" target="_blank" rel="noopener noreferrer" title="Children of Dune - Frank Herbert"><img src="images/books/childrenofdune.jpg"/></a></td>
                     </tr>
                     <tr>
