@@ -1,0 +1,20 @@
+   <div style="width:95%;margin:auto">
+        <h3>voronoi art</h3>
+
+        <p>A <a href="https://en.wikipedia.org/wiki/Voronoi_diagram" target="_blank" rel="noopener noreferrer">Voronoi diagram</a> is a partition of a plane into regions close to a given set of points (tessellation). For my mother's birthday, I decided to make her some Voronoi art of a map of Ireland and where her siblings lived.</p>
+
+        <p>The first thing I needed was to plot an outline of the island of Ireland. I had never used <a href="https://www.r-project.org" target="_blank" rel="noopener noreferrer">R</a> before, but knew that it was well suited to graphical plotting. Installation to Windows was very straightforward. To plot a an outline in R, I needed a corresponding <a href="https://en.wikipedia.org/wiki/Shapefile target="_blank" rel="noopener noreferrer">shapefile</a>. This is easier said than done. Many of the shapefiles I found did not have a high enough level of detail, or contained additional unncessary information (for example the <a href="https://www.cso.ie/en/census/census2011boundaryfiles" target="_blank" rel="noopener noreferrer">CSO</a> site). In the end, I used the Republic of Ireland file from <a href="https://www.geoboundaries.org/countryDownloads.html" target="_blank" rel="noopener noreferrer">geoboundaries.org</a> and the Northern Island file from <a href="https://www.data.gov.uk/dataset/d3ca9d44-a7eb-4380-86cb-0cc28e1f1b27/osni-open-data-largescale-boundaries-ni-outline2" target="_blank" rel="noopener noreferrer">OSNI</a>. Once I had the correct shapefiles, plotting them together and cleaning up the output was relatively straight forward using the R documentation and cursory searches. I did use ChatGPT at one point to write a function to remove the holes in the output (e.g. lakes). I opted for a minimal R theme as I really just wanted the country border to stand out against a plain background. Adding the individual co-ordinates to represent her siblings is a simple matter of including a dataframe in the plot. The code I used is available on <a href="https://github.com/CillianReilly/odds-and-ends/blob/master/R/ireland_shapefile/Ireland.R" target="_blank" rel="noopener noreferrer">github.com</a>.</p>
+
+        <p>A local art print store printed it out for me on some good quality paper. The border came out a lot more detailed than the digital version in reality and looked very well.</p>
+
+        <a href="/blog/images/voronoi-art/1.jpeg" target="_blank" rel="noopener noreferrer"><img src="/blog/images/voronoi-art/1.jpeg" height=640 width=500/></a>
+
+        <p>The construction of the Voronoi cells for a small number of points is straightforward by bisecting the correct lines between the points. For 4 points, there are only 2 possible triangulations, it's just a matter of knowing in advance which one of them is the Delaunay triangulation.</p>
+
+        <a href="/blog/images/voronoi-art/2.jpeg" target="_blank" rel="noopener noreferrer"><img src="/blog/images/voronoi-art/2.jpeg" height=640 width=500/></a>
+
+        <p>All that was left was to find a suitable frame, of which a local craft store carried a wide range. The black frame made the country outline and the cell walls stand out against the background. A sign of a thoughtful present is that you're looking forward to giving it and I think my mother really enjoyed the finished product as something to display in her home.</p>
+
+        <a href="/blog/images/voronoi-art/3.jpeg" target="_blank" rel="noopener noreferrer"><img src="/blog/images/voronoi-art/3.jpeg" height=640 width=500/></a>
+
+    </div>
