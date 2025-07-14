@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/11457054-the-secret-pilgrim" target="_blank" rel="noopener noreferrer" title="The Secret Pilgrim - John Le Carre"><img src="images/books/secretpilgrim.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/6936019-the-story-of-stuff" target="_blank" rel="noopener noreferrer" title="The Story Of Stuff - Annie Leonard"><img src="images/books/storyofstuff.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -86,6 +86,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/11457054-the-secret-pilgrim" target="_blank" rel="noopener noreferrer" title="The Secret Pilgrim - John Le Carre"><img src="images/books/secretpilgrim.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/4896787-animal-liberation" target="_blank" rel="noopener noreferrer" title="Animal Liberation - Peter Singer"><img src="images/books/animalliberation.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/44492286" target="_blank" rel="noopener noreferrer" title="Children of Dune - Frank Herbert"><img src="images/books/childrenofdune.jpg"/></a></td>
                     </tr>
