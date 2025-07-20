@@ -5,6 +5,13 @@
         </br></br>
 
         <p>
+            <a href="/blog/aerobic-running.q"><b>2025.07.20: aerobic running</b></a>
+            <button type="submit" onclick="window.open('/blog/code/aerobic-running.q')">
+                <i class="fa-solid fa-download" style="color: #646464"></i>
+            </button></br>
+            <a href="/blog/kdb" style="font-size:12px;background-color:#E0E0E0"><b>&nbspkdb+&nbsp</b></a>
+        </p>
+        <p>
             <a href="/blog/repeated-application.q"><b>2025.03.09: repeated application</b></a>
             <button type="submit" onclick="window.open('/blog/code/repeated-application.q')">
                 <i class="fa-solid fa-download" style="color: #646464"></i>
