@@ -83,7 +83,7 @@
             <div class="content">
                 <table>
                     <tr>
-                        <td><a href="https://www.goodreads.com/book/show/24310258-american-psycho" target="_blank" rel="noopener noreferrer" title="American Psycho - Bret Easton Ellis"><img src="images/books/americanpsycho.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/24310258-american-psycho" target="_blank" rel="noopener noreferrer" title="American Psycho - Bret Easton Ellis"><img src="images/books/americanpsycho.jpg" class="favourites"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/75623468-love-triangle" target="_blank" rel="noopener noreferrer" title="Love Triangle - Matt Parker"><img src="images/books/lovetriangle.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/6936019-the-story-of-stuff" target="_blank" rel="noopener noreferrer" title="The Story Of Stuff - Annie Leonard"><img src="images/books/storyofstuff.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/11457054-the-secret-pilgrim" target="_blank" rel="noopener noreferrer" title="The Secret Pilgrim - John Le Carre"><img src="images/books/secretpilgrim.jpg"/></a></td>
