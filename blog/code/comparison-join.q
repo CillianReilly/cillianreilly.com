@@ -3,7 +3,7 @@
 show y:([]sym:`TSLA`IBM`MSFT;price:10f,2?100f)
 show z:([sym:`TSLA`IBM`MSFT`GOOG];price:10f,3?100f)
 
-// x is comparision operator
+// x is comparison operator
 // y is a table
 // z is a keyed table, whose key column(s) are columns of x
 // returns an entry for each record in table y
