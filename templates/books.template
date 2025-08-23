@@ -4,7 +4,6 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/8854502-when-money-dies" target="_blank" rel="noopener noreferrer" title="When Money Dies - Adam Fergusson"><img src="images/books/whenmoneydies.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express" target="_blank" rel="noopener noreferrer" title="Murder on the Orient Express - Agatha Christie"><img src="images/books/murderontheorientexpress.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -86,6 +85,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express" target="_blank" rel="noopener noreferrer" title="Murder on the Orient Express - Agatha Christie"><img src="images/books/murderontheorientexpress.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/24310258-american-psycho" target="_blank" rel="noopener noreferrer" title="American Psycho - Bret Easton Ellis"><img src="images/books/americanpsycho.jpg" class="favourites"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/75623468-love-triangle" target="_blank" rel="noopener noreferrer" title="Love Triangle - Matt Parker"><img src="images/books/lovetriangle.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/6936019-the-story-of-stuff" target="_blank" rel="noopener noreferrer" title="The Story Of Stuff - Annie Leonard"><img src="images/books/storyofstuff.jpg"/></a></td>
