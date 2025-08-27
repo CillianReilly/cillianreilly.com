@@ -3,7 +3,6 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/8854502-when-money-dies" target="_blank" rel="noopener noreferrer" title="When Money Dies - Adam Fergusson"><img src="images/books/whenmoneydies.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/25499718-children-of-time" target="_blank" rel="noopener noreferrer" title="Children of Time - Adrian Tchaikovsky"><img src="images/books/childrenoftime.jpg"/></a></td>
                 </tr>
             </table>
@@ -73,6 +72,7 @@
                     <!--<td><a href="https://www.goodreads.com/book/show/6519719-the-great-gatsby" target="_blank" rel="noopener noreferrer" title="The Great Gatsby - F. Scott Fitzgerald"><img src="images/books/greatgatsby.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/36510196-old-man-s-war" target="_blank" rel="noopener noreferrer" title="Old Man's War - John Scalzi"><img src="images/books/oldmanswar.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/45252.Pandora_s_Star" target="_blank" rel="noopener noreferrer" title="Pandora's Star - Peter F. Hamilton"><img src="images/books/pandorasstar.jpg"/></a></td>-->
+                    <!--<td><a href="https://www.goodreads.com/book/show/219977473-exhalation" target="_blank" rel="noopener noreferrer" title="Exhalation - Ted Chiang"><img src="images/books/exhalation.jpg"/></a></td>-->
             </table>
         </div>
 
@@ -83,6 +83,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/8854502-when-money-dies" target="_blank" rel="noopener noreferrer" title="When Money Dies - Adam Fergusson"><img src="images/books/whenmoneydies.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express" target="_blank" rel="noopener noreferrer" title="Murder on the Orient Express - Agatha Christie"><img src="images/books/murderontheorientexpress.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/24310258-american-psycho" target="_blank" rel="noopener noreferrer" title="American Psycho - Bret Easton Ellis"><img src="images/books/americanpsycho.jpg" class="favourites"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/75623468-love-triangle" target="_blank" rel="noopener noreferrer" title="Love Triangle - Matt Parker"><img src="images/books/lovetriangle.jpg"/></a></td>
