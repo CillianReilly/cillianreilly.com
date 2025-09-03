@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/25499718-children-of-time" target="_blank" rel="noopener noreferrer" title="Children of Time - Adrian Tchaikovsky"><img src="images/books/childrenoftime.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/28503870-stories-of-your-life-and-others" target="_blank" rel="noopener noreferrer" title="Stories of Your Life and Others - Ted Chiang"><img src="images/books/storiesofyourlifeandothers.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -23,17 +23,16 @@
                 </tr>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/53011383" target="_blank" rel="noopener noreferrer" title="Unix - Brian Kernighan"><img src="images/books/unix.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/28503870-stories-of-your-life-and-others" target="_blank" rel="noopener noreferrer" title="Stories of Your Life and Others - Ted Chiang"><img src="images/books/storiesofyourlifeandothers.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/127380244-dhalgren-s-f-masterworks-by-samuel-r-delany" target="_blank" rel="noopener noreferrer" title="Dhalgren - Samuel R. Delany"><img src="images/books/dhalgren.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/13202092-eat-run" target="_blank" rel="noopener noreferrer" title="Eat & Run - Scott Jurek"><img src="images/books/eatandrun.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/62900908-no-country-for-old-men" target="_blank" rel="noopener noreferrer" title="No Country for Old Men - Cormac McCarthy"><img src="images/books/nocountryforoldmen.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/kingrat.jpg" target="_blank" rel="noopener noreferrer" title="King Rat - James Clavell"><img src="images/books/kingrat.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/eattolive.jpg" target="_blank" rel="noopener noreferrer" title="Eat To Live - Joel Fuhrman"><img src="images/books/eattolive.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/18634812-the-making-of-the-atomic-bomb" target="_blank" rel="noopener noreferrer" title="The Making of the Atomic Bomb - Richard Rhodes"><img src="images/books/makingoftheatomicbomb.jpg"/></a></td>
-                </tr>
-                <tr>
                     <!-- Recommended by Martin Deane -->
                     <td><a href="https://www.goodreads.com/book/show/2051433.The_Shock_Doctrine" target="_blank" rel="noopener noreferrer" title="The Shock Doctrine - Naomi Klein"><img src="images/books/shockdoctrine.jpg"/></a></td>
+                </tr>
+                <tr>
                     <td><a href="https://www.goodreads.com/book/show/263466.Dragon_s_Egg" target="_blank" rel="noopener noreferrer" title="Dragon's Egg - Robert L. Forward"><img src="images/books/dragonsegg.jpg"/></a></td>
                     <!-- Recommended by Martin Deane -->
                     <!-- Recommended by Lorcan Conlon -->
@@ -44,6 +43,7 @@
                     <td><a href="https://www.goodreads.com/book/show/44439415-god-emperor-of-dune" target="_blank" rel="noopener noreferrer" title="God Emperor of Dune - Frank Herbert"><img src="images/books/godemperorofdune.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/6751.Consider_the_Lobster_and_Other_Essays" target="_blank" rel="noopener noreferrer" title="Consider the Lobster - David Foster Wallace"><img src="images/books/considerthelobster.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/99940735-money" target="_blank" rel="noopener noreferrer" title="Money - David McWilliams"><img src="images/books/money.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/40376072-children-of-ruin" target="_blank" rel="noopener noreferrer" title="Children of Ruin - Adrian Tchaikovsky"><img src="images/books/childrenofruin.jpg"/></a></td>
                 </tr>
                     <!--<td><a href="https://www.goodreads.com/book/show/80571.American_Prometheus" target="_blank" rel="noopener noreferrer" title="American Prometheus - Kai Bird, Martin J. Sherwin"><img src="images/books/americanprometheus.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/20821092-napoleon" target="_blank" rel="noopener noreferrer" title="Napoleon: A Life - Andrew Roberts"><img src="images/books/napoleonalife.jpg"/></a></td>-->
@@ -82,6 +82,9 @@
             <button class="collapsible"><b>2025</b></button>
             <div class="content">
                 <table>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/25499718-children-of-time" target="_blank" rel="noopener noreferrer" title="Children of Time - Adrian Tchaikovsky"><img src="images/books/childrenoftime.jpg"/></a></td>
+                    </tr>
                     <tr>
                         <td><a href="https://www.goodreads.com/book/show/8854502-when-money-dies" target="_blank" rel="noopener noreferrer" title="When Money Dies - Adam Fergusson"><img src="images/books/whenmoneydies.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express" target="_blank" rel="noopener noreferrer" title="Murder on the Orient Express - Agatha Christie"><img src="images/books/murderontheorientexpress.jpg"/></a></td>
