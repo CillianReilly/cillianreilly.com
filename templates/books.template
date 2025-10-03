@@ -3,7 +3,10 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/1001555.The_Hunt_for_Red_October" target="_blank" rel="noopener noreferrer" title="The Hunt for Red October - Tom Clancy"><img src="images/books/huntforredoctober.jpg"/></a></td>
+                    <!-- Recommended by Martin Deane -->
+                    <!-- Recommended by Lorcan Conlon -->
+                    <!-- Recommended by Chris Atkinson -->
+                    <td><a href="https://www.goodreads.com/book/show/188543465-the-trading-game" target="_blank" rel="noopener noreferrer" title="The Trading Game - Gary Stevenson"><img src="images/books/tradinggame.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -30,19 +33,18 @@
                     <!-- Recommended by Martin Deane -->
                     <td><a href="https://www.goodreads.com/book/show/2051433.The_Shock_Doctrine" target="_blank" rel="noopener noreferrer" title="The Shock Doctrine - Naomi Klein"><img src="images/books/shockdoctrine.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/263466.Dragon_s_Egg" target="_blank" rel="noopener noreferrer" title="Dragon's Egg - Robert L. Forward"><img src="images/books/dragonsegg.jpg"/></a></td>
-                    <!-- Recommended by Martin Deane -->
-                    <!-- Recommended by Lorcan Conlon -->
-                    <!-- Recommended by Chris Atkinson -->
-                    <td><a href="https://www.goodreads.com/book/show/188543465-the-trading-game" target="_blank" rel="noopener noreferrer" title="The Trading Game - Gary Stevenson"><img src="images/books/tradinggame.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/17736403-the-gods-themselves" target="_blank" rel="noopener noreferrer" title="The Gods Themselves - Isaac Asimov"><img src="images/books/godsthemselves.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/17736403-the-gods-themselves" target="_blank" rel="noopener noreferrer" title="The Gods Themselves"><img src="images/books/godsthemselves.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/816.Cryptonomicon" target="_blank" rel="noopener noreferrer" title="Cryptonomicon - Neal Stephenson"><img src="images/books/cryptonomicon.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/44439415-god-emperor-of-dune" target="_blank" rel="noopener noreferrer" title="God Emperor of Dune - Frank Herbert"><img src="images/books/godemperorofdune.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/6751.Consider_the_Lobster_and_Other_Essays" target="_blank" rel="noopener noreferrer" title="Consider the Lobster - David Foster Wallace"><img src="images/books/considerthelobster.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/99940735-money" target="_blank" rel="noopener noreferrer" title="Money - David McWilliams"><img src="images/books/money.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/40376072-children-of-ruin" target="_blank" rel="noopener noreferrer" title="Children of Ruin - Adrian Tchaikovsky"><img src="images/books/childrenofruin.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/219977473-exhalation" target="_blank" rel="noopener noreferrer" title="Exhalation - Ted Chiang"><img src="images/books/exhalation.jpg"/></a></td>
+                    <!-- Recommended by Martin Deane -->
+                    <td><a href="https://www.goodreads.com/book/show/61199348-the-climate-book" target="_blank" rel="noopener noreferrer" title="The Climate Book - Greta Thunberg"><img src="images/books/climatebook.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/75665931-the-maniac" target="_blank" rel="noopener noreferrer" title="The Maniac - Benjamin Labatut"><img src="images/books/maniac.jpg"/></a></td>
                 </tr>
                     <!--<td><a href="https://www.goodreads.com/book/show/80571.American_Prometheus" target="_blank" rel="noopener noreferrer" title="American Prometheus - Kai Bird, Martin J. Sherwin"><img src="images/books/americanprometheus.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/20821092-napoleon" target="_blank" rel="noopener noreferrer" title="Napoleon: A Life - Andrew Roberts"><img src="images/books/napoleonalife.jpg"/></a></td>-->
@@ -53,13 +55,10 @@
                     <!--<td><a href="https://www.goodreads.com/book/show/18883653-axiomatic" target="_blank" rel="noopener noreferrer" title="Axiomatic - Greg Egan"><img src="images/books/axiomatic.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/51880082-networking-for-systems-administrators" target="_blank" rel="noopener noreferrer" title="Networking for System Adminstrators - Michael W. Lucas"><img src="images/books/networkingforsystemsadminstrators.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division" target="_blank" rel="noopener noreferrer" title="There is No Antimemetics Division - qntm"><img src="images/books/thereisnoantimemeticsdivision.jpg"/></a></td>-->
-                    <!--<td><a href="https://www.goodreads.com/book/show/75665931-the-maniac" target="_blank" rel="noopener noreferrer" title="The Maniac - Benjamin Labatut"><img src="images/books/maniac.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/18297094-nightfall" target="_blank" rel="noopener noreferrer" title="Nightfall - Isaac Asimov"><img src="images/books/nightfall.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/31380515-foundation-s-edge" target="_blank" rel="noopener noreferrer" title="Foundation's Edge - Isaac Asimov"><img src="images/books/foundationsedge.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/31380528-foundation-and-earth" target="_blank" rel="noopener noreferrer" title="Foundation and Earth - Isaac Asimov"><img src="images/books/foundationandearth.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/50309218-longitude" target="_blank" rel="noopener noreferrer" title="Longitude - Dava Sobel"><img src="images/books/longitude.jpg"/></a></td>-->
-                    <!-- Recommended by Martin Deane -->
-                    <!--<td><a href="https://www.goodreads.com/book/show/61199348-the-climate-book" target="_blank" rel="noopener noreferrer" title="The Climate Book - Greta Thunberg"><img src="images/books/climatebook.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/6572270-bloodlands" target="_blank" rel="noopener noreferrer" title="Bloodlands - Timothy Snyder"><img src="images/books/bloodlands.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/63329951" target="_blank" rel="noopener noreferrer" title="Paved Paradise - Henry Grabar"><img src="images/books/pavedparadise.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine" target="_blank" rel="noopener noreferrer" title="The Soul of a New Machine - Tracy Kidder"><img src="images/books/soulofanewmachine.jpg"/></a></td>-->
@@ -71,6 +70,9 @@
                     <!--<td><a href="https://www.goodreads.com/book/show/6519719-the-great-gatsby" target="_blank" rel="noopener noreferrer" title="The Great Gatsby - F. Scott Fitzgerald"><img src="images/books/greatgatsby.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/36510196-old-man-s-war" target="_blank" rel="noopener noreferrer" title="Old Man's War - John Scalzi"><img src="images/books/oldmanswar.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/45252.Pandora_s_Star" target="_blank" rel="noopener noreferrer" title="Pandora's Star - Peter F. Hamilton"><img src="images/books/pandorasstar.jpg"/></a></td>-->
+                    <!--<td><a href="https://www.goodreads.com/book/show/112160.Lore_of_Running" target="_blank" rel="noopener noreferrer" title="Lore of Running - Tim Noakes"><img src="images/books/loreofrunning.jpg"/></a></td>-->
+                    <!--<td><a href="https://www.goodreads.com/book/show/63204063-ultramarathon" target="_blank" rel="noopener noreferrer" title="Ultramarathon - James E. Shapiro"><img src="images/books/ultramarathon.jpg"/></a></td>-->
+                    <!--<td><a href="https://www.goodreads.com/book/show/214899660-patriot-games" target="_blank" rel="noopener noreferrer" title="Patriot Games - Tom Clancy"><img src="images/books/patriotgames.jpg"/></a></td>-->
             </table>
         </div>
 
@@ -81,6 +83,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/1001555.The_Hunt_for_Red_October" target="_blank" rel="noopener noreferrer" title="The Hunt for Red October - Tom Clancy"><img src="images/books/huntforredoctober.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/13202092-eat-run" target="_blank" rel="noopener noreferrer" title="Eat & Run - Scott Jurek"><img class="favourites" src="images/books/eatandrun.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/28503870-stories-of-your-life-and-others" target="_blank" rel="noopener noreferrer" title="Stories of Your Life and Others - Ted Chiang"><img src="images/books/storiesofyourlifeandothers.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/25499718-children-of-time" target="_blank" rel="noopener noreferrer" title="Children of Time - Adrian Tchaikovsky"><img src="images/books/childrenoftime.jpg"/></a></td>
