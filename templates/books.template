@@ -3,10 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <!-- Recommended by Martin Deane -->
-                    <!-- Recommended by Lorcan Conlon -->
-                    <!-- Recommended by Chris Atkinson -->
-                    <td><a href="https://www.goodreads.com/book/show/188543465-the-trading-game" target="_blank" rel="noopener noreferrer" title="The Trading Game - Gary Stevenson"><img src="images/books/tradinggame.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/75665931-the-maniac" target="_blank" rel="noopener noreferrer" title="The Maniac - Benjamin Labatut"><img src="images/books/maniac.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -44,7 +41,6 @@
                     <td><a href="https://www.goodreads.com/book/show/219977473-exhalation" target="_blank" rel="noopener noreferrer" title="Exhalation - Ted Chiang"><img src="images/books/exhalation.jpg"/></a></td>
                     <!-- Recommended by Martin Deane -->
                     <td><a href="https://www.goodreads.com/book/show/61199348-the-climate-book" target="_blank" rel="noopener noreferrer" title="The Climate Book - Greta Thunberg"><img src="images/books/climatebook.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/75665931-the-maniac" target="_blank" rel="noopener noreferrer" title="The Maniac - Benjamin Labatut"><img src="images/books/maniac.jpg"/></a></td>
                 </tr>
                     <!--<td><a href="https://www.goodreads.com/book/show/80571.American_Prometheus" target="_blank" rel="noopener noreferrer" title="American Prometheus - Kai Bird, Martin J. Sherwin"><img src="images/books/americanprometheus.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/20821092-napoleon" target="_blank" rel="noopener noreferrer" title="Napoleon: A Life - Andrew Roberts"><img src="images/books/napoleonalife.jpg"/></a></td>-->
@@ -83,6 +79,10 @@
             <div class="content">
                 <table>
                     <tr>
+                        <!-- Recommended by Martin Deane -->
+                        <!-- Recommended by Lorcan Conlon -->
+                        <!-- Recommended by Chris Atkinson -->
+                        <td><a href="https://www.goodreads.com/book/show/188543465-the-trading-game" target="_blank" rel="noopener noreferrer" title="The Trading Game - Gary Stevenson"><img src="images/books/tradinggame.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/1001555.The_Hunt_for_Red_October" target="_blank" rel="noopener noreferrer" title="The Hunt for Red October - Tom Clancy"><img src="images/books/huntforredoctober.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/13202092-eat-run" target="_blank" rel="noopener noreferrer" title="Eat & Run - Scott Jurek"><img class="favourites" src="images/books/eatandrun.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/28503870-stories-of-your-life-and-others" target="_blank" rel="noopener noreferrer" title="Stories of Your Life and Others - Ted Chiang"><img src="images/books/storiesofyourlifeandothers.jpg"/></a></td>
