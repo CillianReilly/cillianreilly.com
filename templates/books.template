@@ -5,6 +5,7 @@
                 <tr>
                     <!-- Recommended by Martin Deane -->
                     <td><a href="https://www.goodreads.com/book/show/61199348-the-climate-book" target="_blank" rel="noopener noreferrer" title="The Climate Book - Greta Thunberg"><img src="images/books/climatebook.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/263466.Dragon_s_Egg" target="_blank" rel="noopener noreferrer" title="Dragon's Egg - Robert L. Forward"><img src="images/books/dragonsegg.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -30,11 +31,10 @@
                     <td><a href="https://www.goodreads.com/book/show/18634812-the-making-of-the-atomic-bomb" target="_blank" rel="noopener noreferrer" title="The Making of the Atomic Bomb - Richard Rhodes"><img src="images/books/makingoftheatomicbomb.jpg"/></a></td>
                     <!-- Recommended by Martin Deane -->
                     <td><a href="https://www.goodreads.com/book/show/2051433.The_Shock_Doctrine" target="_blank" rel="noopener noreferrer" title="The Shock Doctrine - Naomi Klein"><img src="images/books/shockdoctrine.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/263466.Dragon_s_Egg" target="_blank" rel="noopener noreferrer" title="Dragon's Egg - Robert L. Forward"><img src="images/books/dragonsegg.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/17736403-the-gods-themselves" target="_blank" rel="noopener noreferrer" title="The Gods Themselves - Isaac Asimov"><img src="images/books/godsthemselves.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/816.Cryptonomicon" target="_blank" rel="noopener noreferrer" title="Cryptonomicon - Neal Stephenson"><img src="images/books/cryptonomicon.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/816.Cryptonomicon" target="_blank" rel="noopener noreferrer" title="Cryptonomicon - Neal Stephenson"><img src="images/books/cryptonomicon.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/44439415-god-emperor-of-dune" target="_blank" rel="noopener noreferrer" title="God Emperor of Dune - Frank Herbert"><img src="images/books/godemperorofdune.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/6751.Consider_the_Lobster_and_Other_Essays" target="_blank" rel="noopener noreferrer" title="Consider the Lobster - David Foster Wallace"><img src="images/books/considerthelobster.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/99940735-money" target="_blank" rel="noopener noreferrer" title="Money - David McWilliams"><img src="images/books/money.jpg"/></a></td>
