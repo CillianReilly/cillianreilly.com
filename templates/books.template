@@ -3,8 +3,8 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <!-- Recommended by Martin Deane -->
-                    <td><a href="https://www.goodreads.com/book/show/61199348-the-climate-book" target="_blank" rel="noopener noreferrer" title="The Climate Book - Greta Thunberg"><img src="images/books/climatebook.jpg"/></a></td>
+                    <!-- Recommended by Andy Mulligan -->
+                    <td><a href="https://www.goodreads.com/book/show/28198094-forever-young" target="_blank" rel="noopener noreferrer" title="Forever Young - Oliver Kay"><img src="images/books/foreveryoung.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -69,10 +69,9 @@
                     <!--<td><a href="https://www.goodreads.com/book/show/112160.Lore_of_Running" target="_blank" rel="noopener noreferrer" title="Lore of Running - Tim Noakes"><img src="images/books/loreofrunning.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/63204063-ultramarathon" target="_blank" rel="noopener noreferrer" title="Ultramarathon - James E. Shapiro"><img src="images/books/ultramarathon.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/214899660-patriot-games" target="_blank" rel="noopener noreferrer" title="Patriot Games - Tom Clancy"><img src="images/books/patriotgames.jpg"/></a></td>-->
-                    <!-- Recommended by Andy Mulligan -->
-                    <!--<td><a href="https://www.goodreads.com/book/show/28198094-forever-young" target="_blank" rel="noopener noreferrer" title="Forever Young - Oliver Kay"><img src="images/books/foreveryoung.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/16117440-finite-and-infinite-games" target="_blank" rel="noopener noreferrer" title="Finite and Infinite Games - James P. Carse"><img src="images/books/finiteandinfinitegames.jpg"/></a></td>-->
-                    <!--<td><a href="https://www.goodreads.com/book/show/https://www.goodreads.com/book/show/27333.Silent_Spring" target="_blank" rel="noopener noreferrer" title="Silent Spring - Rachel Carson "><img src="images/books/silentspring.jpg"/></a></td>-->
+                    <!--<td><a href="https://www.goodreads.com/book/show/https://www.goodreads.com/book/show/27333.Silent_Spring" target="_blank" rel="noopener noreferrer" title="Silent Spring - Rachel Carson"><img src="images/books/silentspring.jpg"/></a></td>-->
+                    <!--<td><a href="https://www.goodreads.com/book/show/https://www.goodreads.com/book/show/37920247-whittled-away" target="_blank" rel="noopener noreferrer" title="Whittled Away - Padraic Fogarty"><img src="images/books/whittledaway.jpg"/></a></td>-->
             </table>
         </div>
 
@@ -83,6 +82,8 @@
             <div class="content">
                 <table>
                     <tr>
+                        <!-- Recommended by Martin Deane -->
+                        <td><a href="https://www.goodreads.com/book/show/61199348-the-climate-book" target="_blank" rel="noopener noreferrer" title="The Climate Book - Greta Thunberg"><img src="images/books/climatebook.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/263466.Dragon_s_Egg" target="_blank" rel="noopener noreferrer" title="Dragon's Egg - Robert L. Forward"><img src="images/books/dragonsegg.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/75665931-the-maniac" target="_blank" rel="noopener noreferrer" title="The Maniac - Benjamin Labatut"><img src="images/books/maniac.jpg"/></a></td>
                         <!-- Recommended by Martin Deane -->
