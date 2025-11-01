@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/833447.The_Colour_of_Magic" target="_blank" rel="noopener noreferrer" title="The Colour of Magic - Terry Pratchett"><img src="images/books/colourofmagic.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/833445.The_Light_Fantastic" target="_blank" rel="noopener noreferrer" title="The Light Fantastic - Terry Pratchett"><img src="images/books/lightfantastic.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -82,6 +82,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/833447.The_Colour_of_Magic" target="_blank" rel="noopener noreferrer" title="The Colour of Magic - Terry Pratchett"><img src="images/books/colourofmagic.jpg"/></a></td>
                         <!-- Recommended by Andy Mulligan -->
                         <td><a href="https://www.goodreads.com/book/show/28198094-forever-young" target="_blank" rel="noopener noreferrer" title="Forever Young - Oliver Kay"><img src="images/books/foreveryoung.jpg"/></a></td>
                     </tr>
