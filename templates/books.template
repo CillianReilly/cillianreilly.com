@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/63039516-the-bee-sting" target="_blank" rel="noopener noreferrer" title="The Bee Sting - Paul Murray"><img src="images/books/beesting.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/53019102-drink-the-new-science-of-alcohol-and-your-health" target="_blank" rel="noopener noreferrer" title="Drink? - David Nutt"><img src="images/books/drink.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -85,6 +85,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/63039516-the-bee-sting" target="_blank" rel="noopener noreferrer" title="The Bee Sting - Paul Murray"><img src="images/books/beesting.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/99940735-money" target="_blank" rel="noopener noreferrer" title="Money - David McWilliams"><img src="images/books/money.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/833445.The_Light_Fantastic" target="_blank" rel="noopener noreferrer" title="The Light Fantastic - Terry Pratchett"><img src="images/books/lightfantastic.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/833447.The_Colour_of_Magic" target="_blank" rel="noopener noreferrer" title="The Colour of Magic - Terry Pratchett"><img src="images/books/colourofmagic.jpg"/></a></td>
