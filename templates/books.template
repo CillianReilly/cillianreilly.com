@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/31380409-prelude-to-foundation" target="_blank" rel="noopener noreferrer" title="Prelude to Foundation - Isaac Asimov"><img src="images/books/preludetofoundation.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/123166638-forward-the-foundation" target="_blank" rel="noopener noreferrer" title="Forward the Foundation - Isaac Asimov"><img src="images/books/forwardthefoundation.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -48,7 +48,6 @@
                     <!--<td><a href="https://www.goodreads.com/book/show/51880082-networking-for-systems-administrators" target="_blank" rel="noopener noreferrer" title="Networking for System Adminstrators - Michael W. Lucas"><img src="images/books/networkingforsystemsadminstrators.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division" target="_blank" rel="noopener noreferrer" title="There is No Antimemetics Division - qntm"><img src="images/books/thereisnoantimemeticsdivision.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/18297094-nightfall" target="_blank" rel="noopener noreferrer" title="Nightfall - Isaac Asimov"><img src="images/books/nightfall.jpg"/></a></td>-->
-                    <!--<td><a href="https://www.goodreads.com/book/show/123166638-forward-the-foundation" target="_blank" rel="noopener noreferrer" title="Forward the Foundation - Isaac Asimov"><img src="images/books/forwardthefoundation.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/31380515-foundation-s-edge" target="_blank" rel="noopener noreferrer" title="Foundation's Edge - Isaac Asimov"><img src="images/books/foundationsedge.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/31380528-foundation-and-earth" target="_blank" rel="noopener noreferrer" title="Foundation and Earth - Isaac Asimov"><img src="images/books/foundationandearth.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/50309218-longitude" target="_blank" rel="noopener noreferrer" title="Longitude - Dava Sobel"><img src="images/books/longitude.jpg"/></a></td>-->
@@ -84,6 +83,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/31380409-prelude-to-foundation" target="_blank" rel="noopener noreferrer" title="Prelude to Foundation - Isaac Asimov"><img src="images/books/preludetofoundation.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/53019102-drink-the-new-science-of-alcohol-and-your-health" target="_blank" rel="noopener noreferrer" title="Drink? - David Nutt"><img src="images/books/drink.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/63039516-the-bee-sting" target="_blank" rel="noopener noreferrer" title="The Bee Sting - Paul Murray"><img src="images/books/beesting.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/99940735-money" target="_blank" rel="noopener noreferrer" title="Money - David McWilliams"><img src="images/books/money.jpg"/></a></td>
