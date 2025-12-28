@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/123166638-forward-the-foundation" target="_blank" rel="noopener noreferrer" title="Forward the Foundation - Isaac Asimov"><img src="images/books/forwardthefoundation.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/6751.Consider_the_Lobster_and_Other_Essays" target="_blank" rel="noopener noreferrer" title="Consider the Lobster - David Foster Wallace"><img src="images/books/considerthelobster.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -34,11 +34,14 @@
                 </tr>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/44439415-god-emperor-of-dune" target="_blank" rel="noopener noreferrer" title="God Emperor of Dune - Frank Herbert"><img src="images/books/godemperorofdune.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/6751.Consider_the_Lobster_and_Other_Essays" target="_blank" rel="noopener noreferrer" title="Consider the Lobster - David Foster Wallace"><img src="images/books/considerthelobster.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/40376072-children-of-ruin" target="_blank" rel="noopener noreferrer" title="Children of Ruin - Adrian Tchaikovsky"><img src="images/books/childrenofruin.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/219977473-exhalation" target="_blank" rel="noopener noreferrer" title="Exhalation - Ted Chiang"><img src="images/books/exhalation.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/80571.American_Prometheus" target="_blank" rel="noopener noreferrer" title="American Prometheus - Kai Bird, Martin J. Sherwin"><img src="images/books/americanprometheus.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/31380515-foundation-s-edge" target="_blank" rel="noopener noreferrer" title="Foundation's Edge - Isaac Asimov"><img src="images/books/foundationsedge.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/9732198-hyperion" target="_blank" rel="noopener noreferrer" title="Hyperion - Dan Simmons"><img src="images/books/hyperion.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/32758901-all-systems-red" target="_blank" rel="noopener noreferrer" title="All Systems Red - Martha Wells"><img src="images/books/allsystemsred.jpg"/></a></td>
                 </tr>
-                    <!--<td><a href="https://www.goodreads.com/book/show/80571.American_Prometheus" target="_blank" rel="noopener noreferrer" title="American Prometheus - Kai Bird, Martin J. Sherwin"><img src="images/books/americanprometheus.jpg"/></a></td>-->
+
                     <!--<td><a href="https://www.goodreads.com/book/show/20821092-napoleon" target="_blank" rel="noopener noreferrer" title="Napoleon: A Life - Andrew Roberts"><img src="images/books/napoleonalife.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/16902.Walden" target="_blank" rel="noopener noreferrer" title="Walden - Henry David Thoreau"><img src="images/books/walden.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/11933489-manufacturing-consent" target="_blank" rel="noopener noreferrer" title="Manufacturing Consent - Noam Chomsky"><img src="images/books/manufacturingconsent.jpg"/></a></td>-->
@@ -48,13 +51,11 @@
                     <!--<td><a href="https://www.goodreads.com/book/show/51880082-networking-for-systems-administrators" target="_blank" rel="noopener noreferrer" title="Networking for System Adminstrators - Michael W. Lucas"><img src="images/books/networkingforsystemsadminstrators.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division" target="_blank" rel="noopener noreferrer" title="There is No Antimemetics Division - qntm"><img src="images/books/thereisnoantimemeticsdivision.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/18297094-nightfall" target="_blank" rel="noopener noreferrer" title="Nightfall - Isaac Asimov"><img src="images/books/nightfall.jpg"/></a></td>-->
-                    <!--<td><a href="https://www.goodreads.com/book/show/31380515-foundation-s-edge" target="_blank" rel="noopener noreferrer" title="Foundation's Edge - Isaac Asimov"><img src="images/books/foundationsedge.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/31380528-foundation-and-earth" target="_blank" rel="noopener noreferrer" title="Foundation and Earth - Isaac Asimov"><img src="images/books/foundationandearth.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/50309218-longitude" target="_blank" rel="noopener noreferrer" title="Longitude - Dava Sobel"><img src="images/books/longitude.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/6572270-bloodlands" target="_blank" rel="noopener noreferrer" title="Bloodlands - Timothy Snyder"><img src="images/books/bloodlands.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/63329951" target="_blank" rel="noopener noreferrer" title="Paved Paradise - Henry Grabar"><img src="images/books/pavedparadise.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine" target="_blank" rel="noopener noreferrer" title="The Soul of a New Machine - Tracy Kidder"><img src="images/books/soulofanewmachine.jpg"/></a></td>-->
-                    <!--<td><a href="https://www.goodreads.com/book/show/9732198-hyperion" target="_blank" rel="noopener noreferrer" title="Hyperion - Dan Simmons"><img src="images/books/hyperion.jpg"/></a></td>-->
                     <!-- Recommended by Chris Atkinson -->
                     <!--<td><a href="https://www.goodreads.com/book/show/514313.Bringing_Down_the_House" target="_blank" rel="noopener noreferrer" title="Bringing Down the House - Ben Mezrich"><img src="images/books/bringingdownthehouse.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/20186.Seeing_Like_a_State" target="_blank" rel="noopener noreferrer" title="Seeing Like a State - James C. Scott"><img src="images/books/seeinglikeastate.jpg"/></a></td>-->
@@ -73,6 +74,7 @@
                     <!--<td><a href="https://www.goodreads.com/book/show/13624.The_Worm_Ouroboros" target="_blank" rel="noopener noreferrer" title="The Worm Ouroboros - E.R. Eddison"><img src="images/books/wormouroboros.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/243022200-the-nuclear-age" target="_blank" rel="noopener noreferrer" title="The Nuclear Age - Serhii Plokhy"><img src="images/books/nuclearage.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/40219210-the-rose-field" target="_blank" rel="noopener noreferrer" title="The Rose Field - Philip Pullman"><img src="images/books/rosefield.jpg"/></a></td>-->
+                    <!--<td><a href="https://www.goodreads.com/book/show/332126.The_Art_of_the_Checkmate" target="_blank" rel="noopener noreferrer" title="The Art of the Checkmate - Georges Renaud, Victor Kahn"><img src="images/books/artofcheckmate.jpg"/></a></td>-->
             </table>
         </div>
 
@@ -83,6 +85,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/123166638-forward-the-foundation" target="_blank" rel="noopener noreferrer" title="Forward the Foundation - Isaac Asimov"><img src="images/books/forwardthefoundation.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/31380409-prelude-to-foundation" target="_blank" rel="noopener noreferrer" title="Prelude to Foundation - Isaac Asimov"><img src="images/books/preludetofoundation.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/53019102-drink-the-new-science-of-alcohol-and-your-health" target="_blank" rel="noopener noreferrer" title="Drink? - David Nutt"><img src="images/books/drink.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/63039516-the-bee-sting" target="_blank" rel="noopener noreferrer" title="The Bee Sting - Paul Murray"><img src="images/books/beesting.jpg"/></a></td>
