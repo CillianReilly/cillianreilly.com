@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/kingrat.jpg" target="_blank" rel="noopener noreferrer" title="King Rat - James Clavell"><img src="images/books/kingrat.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/32758901-all-systems-red" target="_blank" rel="noopener noreferrer" title="All Systems Red - Martha Wells"><img src="images/books/allsystemsred.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -38,12 +38,12 @@
                     <td><a href="https://www.goodreads.com/book/show/80571.American_Prometheus" target="_blank" rel="noopener noreferrer" title="American Prometheus - Kai Bird, Martin J. Sherwin"><img src="images/books/americanprometheus.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/31380515-foundation-s-edge" target="_blank" rel="noopener noreferrer" title="Foundation's Edge - Isaac Asimov"><img src="images/books/foundationsedge.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/9732198-hyperion" target="_blank" rel="noopener noreferrer" title="Hyperion - Dan Simmons"><img src="images/books/hyperion.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/32758901-all-systems-red" target="_blank" rel="noopener noreferrer" title="All Systems Red - Martha Wells"><img src="images/books/allsystemsred.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/11933489-manufacturing-consent" target="_blank" rel="noopener noreferrer" title="Manufacturing Consent - Noam Chomsky"><img src="images/books/manufacturingconsent.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/16117440-finite-and-infinite-games" target="_blank" rel="noopener noreferrer" title="Finite and Infinite Games - James P. Carse"><img src="images/books/finiteandinfinitegames.jpg"/></a></td>
                 </tr>
 
                     <!--<td><a href="https://www.goodreads.com/book/show/20821092-napoleon" target="_blank" rel="noopener noreferrer" title="Napoleon: A Life - Andrew Roberts"><img src="images/books/napoleonalife.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/16902.Walden" target="_blank" rel="noopener noreferrer" title="Walden - Henry David Thoreau"><img src="images/books/walden.jpg"/></a></td>-->
-                    <!--<td><a href="https://www.goodreads.com/book/show/11933489-manufacturing-consent" target="_blank" rel="noopener noreferrer" title="Manufacturing Consent - Noam Chomsky"><img src="images/books/manufacturingconsent.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/301563.The_Recursive_Universe" target="_blank" rel="noopener noreferrer" title="Recursive Universe - William Poundstone"><img src="images/books/recursiveuniverse.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/430146.Guns_Germs_and_Steel" target="_blank" rel="noopener noreferrer" title="Guns, Germs and Steel - Jared Diamond"><img src="images/books/gunsgermsandsteel.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/18883653-axiomatic" target="_blank" rel="noopener noreferrer" title="Axiomatic - Greg Egan"><img src="images/books/axiomatic.jpg"/></a></td>-->
@@ -65,7 +65,6 @@
                     <!--<td><a href="https://www.goodreads.com/book/show/112160.Lore_of_Running" target="_blank" rel="noopener noreferrer" title="Lore of Running - Tim Noakes"><img src="images/books/loreofrunning.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/63204063-ultramarathon" target="_blank" rel="noopener noreferrer" title="Ultramarathon - James E. Shapiro"><img src="images/books/ultramarathon.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/214899660-patriot-games" target="_blank" rel="noopener noreferrer" title="Patriot Games - Tom Clancy"><img src="images/books/patriotgames.jpg"/></a></td>-->
-                    <!--<td><a href="https://www.goodreads.com/book/show/16117440-finite-and-infinite-games" target="_blank" rel="noopener noreferrer" title="Finite and Infinite Games - James P. Carse"><img src="images/books/finiteandinfinitegames.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/27333.Silent_Spring" target="_blank" rel="noopener noreferrer" title="Silent Spring - Rachel Carson"><img src="images/books/silentspring.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/37920247-whittled-away" target="_blank" rel="noopener noreferrer" title="Whittled Away - Padraic Fogarty"><img src="images/books/whittledaway.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/231148075-the-art-of-spending-money" target="_blank" rel="noopener noreferrer" title="The Art of Spending Money - Morgan Housel"><img src="images/books/artofspendingmoney.jpg"/></a></td>-->
@@ -85,6 +84,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/kingrat.jpg" target="_blank" rel="noopener noreferrer" title="King Rat - James Clavell"><img class="favourites" src="images/books/kingrat.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/6751.Consider_the_Lobster_and_Other_Essays" target="_blank" rel="noopener noreferrer" title="Consider the Lobster - David Foster Wallace"><img src="images/books/considerthelobster.jpg"/></a></td>
                     </tr>
                 </table>
