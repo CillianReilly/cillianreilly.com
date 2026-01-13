@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/32758901-all-systems-red" target="_blank" rel="noopener noreferrer" title="All Systems Red - Martha Wells"><img src="images/books/allsystemsred.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/25812847" target="_blank" rel="noopener noreferrer" title="Silk Roads - Peter Frankopan"><img src="images/books/silkroads.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -16,13 +16,12 @@
                     <td><a href="https://www.goodreads.com/en/book/show/66499.The_Creature_from_Jekyll_Island" target="_blank" rel="noopener noreferrer" title="The Creature from Jekyll Island - G. Edward Griffin"><img src="images/books/creaturefromjekyllisland.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/60625290-bitcoin-is-venice" target="_blank" rel="noopener noreferrer" title="Bitcoin is Venice - Allen Farrington, Sacha Meyers"><img src="images/books/bitcoinisvenice.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/6617037" target="_blank" rel="noopener noreferrer" title="Debt - David Graeber"><img src="images/books/debt.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/25812847" target="_blank" rel="noopener noreferrer" title="Silk Roads - Peter Frankopan"><img src="images/books/silkroads.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/54033555" target="_blank" rel="noopener noreferrer" title="Extreme Privacy - Michael Bazzell"><img src="images/books/extremeprivacy.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/197566578" target="_blank" rel="noopener noreferrer" title="Broken Money - Lyn Alden"><img src="images/books/brokenmoney.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/53011383" target="_blank" rel="noopener noreferrer" title="Unix - Brian Kernighan"><img src="images/books/unix.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/127380244-dhalgren-s-f-masterworks-by-samuel-r-delany" target="_blank" rel="noopener noreferrer" title="Dhalgren - Samuel R. Delany"><img src="images/books/dhalgren.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/127380244-dhalgren-s-f-masterworks-by-samuel-r-delany" target="_blank" rel="noopener noreferrer" title="Dhalgren - Samuel R. Delany"><img src="images/books/dhalgren.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/62900908-no-country-for-old-men" target="_blank" rel="noopener noreferrer" title="No Country for Old Men - Cormac McCarthy"><img src="images/books/nocountryforoldmen.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/eattolive.jpg" target="_blank" rel="noopener noreferrer" title="Eat To Live - Joel Fuhrman"><img src="images/books/eattolive.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/18634812-the-making-of-the-atomic-bomb" target="_blank" rel="noopener noreferrer" title="The Making of the Atomic Bomb - Richard Rhodes"><img src="images/books/makingoftheatomicbomb.jpg"/></a></td>
@@ -31,9 +30,9 @@
                     <td><a href="https://www.goodreads.com/book/show/17736403-the-gods-themselves" target="_blank" rel="noopener noreferrer" title="The Gods Themselves - Isaac Asimov"><img src="images/books/godsthemselves.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/816.Cryptonomicon" target="_blank" rel="noopener noreferrer" title="Cryptonomicon - Neal Stephenson"><img src="images/books/cryptonomicon.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/44439415-god-emperor-of-dune" target="_blank" rel="noopener noreferrer" title="God Emperor of Dune - Frank Herbert"><img src="images/books/godemperorofdune.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/40376072-children-of-ruin" target="_blank" rel="noopener noreferrer" title="Children of Ruin - Adrian Tchaikovsky"><img src="images/books/childrenofruin.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/40376072-children-of-ruin" target="_blank" rel="noopener noreferrer" title="Children of Ruin - Adrian Tchaikovsky"><img src="images/books/childrenofruin.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/219977473-exhalation" target="_blank" rel="noopener noreferrer" title="Exhalation - Ted Chiang"><img src="images/books/exhalation.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/80571.American_Prometheus" target="_blank" rel="noopener noreferrer" title="American Prometheus - Kai Bird, Martin J. Sherwin"><img src="images/books/americanprometheus.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/31380515-foundation-s-edge" target="_blank" rel="noopener noreferrer" title="Foundation's Edge - Isaac Asimov"><img src="images/books/foundationsedge.jpg"/></a></td>
@@ -84,6 +83,8 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/32758901-all-systems-red" target="_blank" rel="noopener noreferrer" title="All Systems Red - Martha Wells"><img src="images/books/allsystemsred.jpg"/></a></td>
+                        <!-- Recommended by Aaron Robinson -->
                         <td><a href="https://www.goodreads.com/book/show/kingrat.jpg" target="_blank" rel="noopener noreferrer" title="King Rat - James Clavell"><img class="favourites" src="images/books/kingrat.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/6751.Consider_the_Lobster_and_Other_Essays" target="_blank" rel="noopener noreferrer" title="Consider the Lobster - David Foster Wallace"><img src="images/books/considerthelobster.jpg"/></a></td>
                     </tr>
