@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/25812847" target="_blank" rel="noopener noreferrer" title="Silk Roads - Peter Frankopan"><img src="images/books/silkroads.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/315233.On_the_Road" target="_blank" rel="noopener noreferrer" title="On The Road - Jack Kerouac"><img src="images/books/ontheroad.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -87,6 +87,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/25812847" target="_blank" rel="noopener noreferrer" title="Silk Roads - Peter Frankopan"><img src="images/books/silkroads.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/32758901-all-systems-red" target="_blank" rel="noopener noreferrer" title="All Systems Red - Martha Wells"><img src="images/books/allsystemsred.jpg"/></a></td>
                         <!-- Recommended by Aaron Robinson -->
                         <td><a href="https://www.goodreads.com/book/show/kingrat.jpg" target="_blank" rel="noopener noreferrer" title="King Rat - James Clavell"><img class="favourites" src="images/books/kingrat.jpg"/></a></td>
