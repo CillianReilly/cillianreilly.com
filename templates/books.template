@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/129915654-pride-and-prejudice" target="_blank" rel="noopener noreferrer" title="Pride and Prejudice - Jane Austen"><img src="images/books/prideandprejudice.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/9732198-hyperion" target="_blank" rel="noopener noreferrer" title="Hyperion - Dan Simmons"><img src="images/books/hyperion.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -35,7 +35,6 @@
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/80571.American_Prometheus" target="_blank" rel="noopener noreferrer" title="American Prometheus - Kai Bird, Martin J. Sherwin"><img src="images/books/americanprometheus.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/31380515-foundation-s-edge" target="_blank" rel="noopener noreferrer" title="Foundation's Edge - Isaac Asimov"><img src="images/books/foundationsedge.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/9732198-hyperion" target="_blank" rel="noopener noreferrer" title="Hyperion - Dan Simmons"><img src="images/books/hyperion.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/11933489-manufacturing-consent" target="_blank" rel="noopener noreferrer" title="Manufacturing Consent - Noam Chomsky"><img src="images/books/manufacturingconsent.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/16117440-finite-and-infinite-games" target="_blank" rel="noopener noreferrer" title="Finite and Infinite Games - James P. Carse"><img src="images/books/finiteandinfinitegames.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/8181105-noble-house" target="_blank" rel="noopener noreferrer" title="Noble House - James Clavell"><img src="images/books/noblehouse.jpg"/></a></td>
@@ -78,6 +77,7 @@
                     <!--<td><a href="https://www.goodreads.com/book/show/214490408-house-of-huawei" target="_blank" rel="noopener noreferrer" title="House of Huawei - Eva Dou"><img src="images/books/houseofhuawei.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/68003672-of-cabbages-and-kimchi" target="_blank" rel="noopener noreferrer" title="Of Cabbages and Kimchi - James Read"><img src="images/books/ofcabbagesandkimchi.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/17665021-the-man-in-the-high-castle" target="_blank" rel="noopener noreferrer" title="The Man in the High Castle - Philip K. Dick"><img src="images/books/maninthehighcastle.jpg"/></a></td>-->
+                    <!--<td><a href="https://www.goodreads.com/book/show/" target="_blank" rel="noopener noreferrer" title="The High Cost of Free Parking - Donald Shoup"><img src="images/books/highcostoffreeparking.jpg"/></a></td>-->
             </table>
         </div>
 
@@ -88,6 +88,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/129915654-pride-and-prejudice" target="_blank" rel="noopener noreferrer" title="Pride and Prejudice - Jane Austen"><img src="images/books/prideandprejudice.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/30555572-the-salt-fix" target="_blank" rel="noopener noreferrer" title="The Salt Fix - James DiNicolantonio"><img src="images/books/saltfix.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/62900908-no-country-for-old-men" target="_blank" rel="noopener noreferrer" title="No Country for Old Men - Cormac McCarthy"><img src="images/books/nocountryforoldmen.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/315233.On_the_Road" target="_blank" rel="noopener noreferrer" title="On The Road - Jack Kerouac"><img src="images/books/ontheroad.jpg"/></a></td>
