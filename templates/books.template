@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/9732198-hyperion" target="_blank" rel="noopener noreferrer" title="Hyperion - Dan Simmons"><img src="images/books/hyperion.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/8295595-living-with-complexity" target="_blank" rel="noopener noreferrer" title="Living With Complexity - Don Norman"><img src="images/books/livingwithcomplexity.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -39,6 +39,7 @@
                     <td><a href="https://www.goodreads.com/book/show/16117440-finite-and-infinite-games" target="_blank" rel="noopener noreferrer" title="Finite and Infinite Games - James P. Carse"><img src="images/books/finiteandinfinitegames.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/8181105-noble-house" target="_blank" rel="noopener noreferrer" title="Noble House - James Clavell"><img src="images/books/noblehouse.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/40219210-the-rose-field" target="_blank" rel="noopener noreferrer" title="The Rose Field - Philip Pullman"><img src="images/books/rosefield.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/9732206-the-fall-of-hyperion" target="_blank" rel="noopener noreferrer" title="The Fall of Hyperion - Dan Simmons"><img src="images/books/fallofhyperion.jpg"/></a></td>
                 </tr>
 
                     <!--<td><a href="https://www.goodreads.com/book/show/20821092-napoleon" target="_blank" rel="noopener noreferrer" title="Napoleon: A Life - Andrew Roberts"><img src="images/books/napoleonalife.jpg"/></a></td>-->
@@ -87,6 +88,9 @@
             <button class="collapsible"><b>2026</b></button>
             <div class="content">
                 <table>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/9732198-hyperion" target="_blank" rel="noopener noreferrer" title="Hyperion - Dan Simmons"><img class="favourites" src="images/books/hyperion.jpg"/></a></td>
+                    </tr>
                     <tr>
                         <td><a href="https://www.goodreads.com/book/show/129915654-pride-and-prejudice" target="_blank" rel="noopener noreferrer" title="Pride and Prejudice - Jane Austen"><img src="images/books/prideandprejudice.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/30555572-the-salt-fix" target="_blank" rel="noopener noreferrer" title="The Salt Fix - James DiNicolantonio"><img src="images/books/saltfix.jpg"/></a></td>
