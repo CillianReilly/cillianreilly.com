@@ -3,7 +3,6 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/8295595-living-with-complexity" target="_blank" rel="noopener noreferrer" title="Living With Complexity - Don Norman"><img src="images/books/livingwithcomplexity.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/819.Cryptonomicon" target="_blank" rel="noopener noreferrer" title="Cryptonomicon - Neal Stephenson"><img src="images/books/cryptonomicon.jpg"/></a></td>
                 </tr>
             </table>
@@ -89,6 +88,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/8295595-living-with-complexity" target="_blank" rel="noopener noreferrer" title="Living With Complexity - Don Norman"><img src="images/books/livingwithcomplexity.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/9732198-hyperion" target="_blank" rel="noopener noreferrer" title="Hyperion - Dan Simmons"><img class="favourites" src="images/books/hyperion.jpg"/></a></td>
                     </tr>
                     <tr>
