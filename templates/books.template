@@ -4,8 +4,6 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/30659.Meditations" target="_blank" rel="noopener noreferrer" title="Meditations - Marcus Aurelius"><img src="images/books/meditations.jpg"/></a></td>
-                    <!-- Recommended by Martin Deane -->
-                    <td><a href="https://www.goodreads.com/book/show/2051433.The_Shock_Doctrine" target="_blank" rel="noopener noreferrer" title="The Shock Doctrine - Naomi Klein"><img src="images/books/shockdoctrine.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -91,6 +89,8 @@
             <div class="content">
                 <table>
                     <tr>
+                        <!-- Recommended by Martin Deane -->
+                        <td><a href="https://www.goodreads.com/book/show/2051433.The_Shock_Doctrine" target="_blank" rel="noopener noreferrer" title="The Shock Doctrine - Naomi Klein"><img src="images/books/shockdoctrine.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/819.Cryptonomicon" target="_blank" rel="noopener noreferrer" title="Cryptonomicon - Neal Stephenson"><img src="images/books/cryptonomicon.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/8295595-living-with-complexity" target="_blank" rel="noopener noreferrer" title="Living With Complexity - Don Norman"><img src="images/books/livingwithcomplexity.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/9732206-the-fall-of-hyperion" target="_blank" rel="noopener noreferrer" title="The Fall of Hyperion - Dan Simmons"><img class="favourites" src="images/books/fallofhyperion.jpg"/></a></td>
