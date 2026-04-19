@@ -4,7 +4,6 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/30659.Meditations" target="_blank" rel="noopener noreferrer" title="Meditations - Marcus Aurelius"><img src="images/books/meditations.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/44439415-god-emperor-of-dune" target="_blank" rel="noopener noreferrer" title="God Emperor of Dune - Frank Herbert"><img src="images/books/godemperorofdune.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -45,6 +44,7 @@
                 </tr>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/17665021-the-man-in-the-high-castle" target="_blank" rel="noopener noreferrer" title="The Man in the High Castle - Philip K. Dick"><img src="images/books/maninthehighcastle.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/44492287-heretics-of-dune" target="_blank" rel="noopener noreferrer" title="Heretics of Dune - Frank Herbert"><img src="images/books/hereticsofdune.jpg"/></a></td>
                 </tr>
 
                     <!--<td><a href="https://www.goodreads.com/en/book/show/66499.The_Creature_from_Jekyll_Island" target="_blank" rel="noopener noreferrer" title="The Creature from Jekyll Island - G. Edward Griffin"><img src="images/books/creaturefromjekyllisland.jpg"/></a></td>-->
@@ -78,7 +78,6 @@
                     <!--<td><a href="https://www.goodreads.com/book/show/11510733-make-the-bread-buy-the-butter" target="_blank" rel="noopener noreferrer" title="Make the Bread, Buy the Butter - Jennifer Reese"><img src="images/books/makethebreadbuythebutter.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/3931154-ratio" target="_blank" rel="noopener noreferrer" title="Ratio - Michael Ruhlman"><img src="images/books/ratio.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/36690518-utopia-for-realists" target="_blank" rel="noopener noreferrer" title="Utopia for Realists - Rutger Bregman"><img src="images/books/utopiaforrealists.jpg"/></a></td>-->
-                    <!--<td><a href="https://www.goodreads.com/book/show/44492287-heretics-of-dune" target="_blank" rel="noopener noreferrer" title="Heretics of Dune - Frank Herbert"><img src="images/books/hereticsofdune.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/44439416-chapterhouse" target="_blank" rel="noopener noreferrer" title="Chapterhouse: Dune - Frank Herbert"><img src="images/books/chapterhousedune.jpg"/></a></td>-->
             </table>
         </div>
@@ -90,6 +89,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/44439415-god-emperor-of-dune" target="_blank" rel="noopener noreferrer" title="God Emperor of Dune - Frank Herbert"><img src="images/books/godemperorofdune.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/219977473-exhalation" target="_blank" rel="noopener noreferrer" title="Exhalation - Ted Chiang"><img src="images/books/exhalation.jpg"/></a></td>
                         <!-- Recommended by Martin Deane -->
                         <td><a href="https://www.goodreads.com/book/show/2051433.The_Shock_Doctrine" target="_blank" rel="noopener noreferrer" title="The Shock Doctrine - Naomi Klein"><img src="images/books/shockdoctrine.jpg"/></a></td>
