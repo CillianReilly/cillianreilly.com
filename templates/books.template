@@ -3,8 +3,8 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/30659.Meditations" target="_blank" rel="noopener noreferrer" title="Meditations - Marcus Aurelius"><img src="images/books/meditations.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/16117440-finite-and-infinite-games" target="_blank" rel="noopener noreferrer" title="Finite and Infinite Games - James P. Carse"><img src="images/books/finiteandinfinitegames.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/40219210-the-rose-field" target="_blank" rel="noopener noreferrer" title="The Rose Field - Philip Pullman"><img src="images/books/rosefield.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -28,12 +28,11 @@
                     <td><a href="https://www.goodreads.com/book/show/31380515-foundation-s-edge" target="_blank" rel="noopener noreferrer" title="Foundation's Edge - Isaac Asimov"><img src="images/books/foundationsedge.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/11933489-manufacturing-consent" target="_blank" rel="noopener noreferrer" title="Manufacturing Consent - Noam Chomsky"><img src="images/books/manufacturingconsent.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/8181105-noble-house" target="_blank" rel="noopener noreferrer" title="Noble House - James Clavell"><img src="images/books/noblehouse.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/40219210-the-rose-field" target="_blank" rel="noopener noreferrer" title="The Rose Field - Philip Pullman"><img src="images/books/rosefield.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/70912.The_Dice_Man" target="_blank" rel="noopener noreferrer" title="The Dice Man - Luke Rhinehart"><img src="images/books/diceman.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/430146.Guns_Germs_and_Steel" target="_blank" rel="noopener noreferrer" title="Guns, Germs and Steel - Jared Diamond"><img src="images/books/gunsgermsandsteel.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/50309218-longitude" target="_blank" rel="noopener noreferrer" title="Longitude - Dava Sobel"><img src="images/books/longitude.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/50309218-longitude" target="_blank" rel="noopener noreferrer" title="Longitude - Dava Sobel"><img src="images/books/longitude.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/8460324-the-great-gatsby" target="_blank" rel="noopener noreferrer" title="The Great Gatsby - F. Scott Fitzgerald"><img src="images/books/greatgatsby.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/16902.Walden" target="_blank" rel="noopener noreferrer" title="Walden - Henry David Thoreau"><img src="images/books/walden.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division" target="_blank" rel="noopener noreferrer" title="There is No Antimemetics Division - qntm"><img src="images/books/thereisnoantimemeticsdivision.jpg"/></a></td>
@@ -42,8 +41,6 @@
                     <!-- Recommended by Andy Mulligan -->
                     <td><a href="https://www.goodreads.com/book/show/214490408-house-of-huawei" target="_blank" rel="noopener noreferrer" title="House of Huawei - Eva Dou"><img src="images/books/houseofhuawei.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/17665021-the-man-in-the-high-castle" target="_blank" rel="noopener noreferrer" title="The Man in the High Castle - Philip K. Dick"><img src="images/books/maninthehighcastle.jpg"/></a></td>
-                </tr>
-                <tr>
                     <td><a href="https://www.goodreads.com/book/show/44492287-heretics-of-dune" target="_blank" rel="noopener noreferrer" title="Heretics of Dune - Frank Herbert"><img src="images/books/hereticsofdune.jpg"/></a></td>
                 </tr>
 
@@ -89,6 +86,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/30659.Meditations" target="_blank" rel="noopener noreferrer" title="Meditations - Marcus Aurelius"><img src="images/books/meditations.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/44439415-god-emperor-of-dune" target="_blank" rel="noopener noreferrer" title="God Emperor of Dune - Frank Herbert"><img src="images/books/godemperorofdune.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/219977473-exhalation" target="_blank" rel="noopener noreferrer" title="Exhalation - Ted Chiang"><img src="images/books/exhalation.jpg"/></a></td>
                         <!-- Recommended by Martin Deane -->
