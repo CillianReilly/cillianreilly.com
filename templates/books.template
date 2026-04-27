@@ -3,7 +3,6 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/16117440-finite-and-infinite-games" target="_blank" rel="noopener noreferrer" title="Finite and Infinite Games - James P. Carse"><img src="images/books/finiteandinfinitegames.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/40219210-the-rose-field" target="_blank" rel="noopener noreferrer" title="The Rose Field - Philip Pullman"><img src="images/books/rosefield.jpg"/></a></td>
                 </tr>
             </table>
@@ -85,6 +84,9 @@
             <button class="collapsible"><b>2026</b></button>
             <div class="content">
                 <table>
+                    <tr>
+                        <td><a href="https://www.goodreads.com/book/show/16117440-finite-and-infinite-games" target="_blank" rel="noopener noreferrer" title="Finite and Infinite Games - James P. Carse"><img src="images/books/finiteandinfinitegames.jpg"/></a></td>
+                    </tr>
                     <tr>
                         <td><a href="https://www.goodreads.com/book/show/30659.Meditations" target="_blank" rel="noopener noreferrer" title="Meditations - Marcus Aurelius"><img src="images/books/meditations.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/44439415-god-emperor-of-dune" target="_blank" rel="noopener noreferrer" title="God Emperor of Dune - Frank Herbert"><img src="images/books/godemperorofdune.jpg"/></a></td>
