@@ -3,7 +3,8 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/40219210-the-rose-field" target="_blank" rel="noopener noreferrer" title="The Rose Field - Philip Pullman"><img src="images/books/rosefield.jpg"/></a></td>
+                    <!-- Recommended by Andy Mulligan -->
+                    <td><a href="https://www.goodreads.com/book/show/214490408-house-of-huawei" target="_blank" rel="noopener noreferrer" title="House of Huawei - Eva Dou"><img src="images/books/houseofhuawei.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -37,8 +38,6 @@
                     <td><a href="https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division" target="_blank" rel="noopener noreferrer" title="There is No Antimemetics Division - qntm"><img src="images/books/thereisnoantimemeticsdivision.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine" target="_blank" rel="noopener noreferrer" title="The Soul of a New Machine - Tracy Kidder"><img src="images/books/soulofanewmachine.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/214899660-patriot-games" target="_blank" rel="noopener noreferrer" title="Patriot Games - Tom Clancy"><img src="images/books/patriotgames.jpg"/></a></td>
-                    <!-- Recommended by Andy Mulligan -->
-                    <td><a href="https://www.goodreads.com/book/show/214490408-house-of-huawei" target="_blank" rel="noopener noreferrer" title="House of Huawei - Eva Dou"><img src="images/books/houseofhuawei.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/17665021-the-man-in-the-high-castle" target="_blank" rel="noopener noreferrer" title="The Man in the High Castle - Philip K. Dick"><img src="images/books/maninthehighcastle.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/44492287-heretics-of-dune" target="_blank" rel="noopener noreferrer" title="Heretics of Dune - Frank Herbert"><img src="images/books/hereticsofdune.jpg"/></a></td>
                 </tr>
@@ -85,6 +84,7 @@
             <div class="content">
                 <table>
                     <tr>
+                    <td><a href="https://www.goodreads.com/book/show/40219210-the-rose-field" target="_blank" rel="noopener noreferrer" title="The Rose Field - Philip Pullman"><img src="images/books/rosefield.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/16117440-finite-and-infinite-games" target="_blank" rel="noopener noreferrer" title="Finite and Infinite Games - James P. Carse"><img src="images/books/finiteandinfinitegames.jpg"/></a></td>
                     </tr>
                     <tr>
