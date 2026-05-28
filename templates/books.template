@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/70912.The_Dice_Man" target="_blank" rel="noopener noreferrer" title="The Dice Man - Luke Rhinehart"><img src="images/books/diceman.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/212343145-hands-of-time" target="_blank" rel="noopener noreferrer" title="Hands of Time - Rebecca Struthers"><img src="images/books/handsoftime.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -82,6 +82,8 @@
             <div class="content">
                 <table>
                     <tr>
+                        <!-- Recommended by Isabella Kristensen -->
+                        <td><a href="https://www.goodreads.com/book/show/70912.The_Dice_Man" target="_blank" rel="noopener noreferrer" title="The Dice Man - Luke Rhinehart"><img src="images/books/diceman.jpg"/></a></td>
                         <!-- Recommended by Andy Mulligan -->
                         <td><a href="https://www.goodreads.com/book/show/214490408-house-of-huawei" target="_blank" rel="noopener noreferrer" title="House of Huawei - Eva Dou"><img src="images/books/houseofhuawei.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/40219210-the-rose-field" target="_blank" rel="noopener noreferrer" title="The Rose Field - Philip Pullman"><img src="images/books/rosefield.jpg"/></a></td>
