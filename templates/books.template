@@ -41,6 +41,10 @@
                     <td><a href="https://www.goodreads.com/book/show/35718747-the-children-of-men" target="_blank" rel="noopener noreferrer" title="The Children of Men - P.D. James"><img src="images/books/childrenofmen.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/34941133-principles" target="_blank" rel="noopener noreferrer" title="Principles - Ray Dalio"><img src="images/books/principles.jpg"/></a></td>
                 </tr>
+                <tr>
+                    <!-- Recommended by Fergus Taylor -->
+                    <td><a href="https://www.goodreads.com/book/show/578489.Birdsong" target="_blank" rel="noopener noreferrer" title="Birdsong - Sebastian Faulks"><img src="images/books/birdsong.jpg"/></a></td>
+                </tr>
 
                     <!--<td><a href="https://www.goodreads.com/en/book/show/66499.The_Creature_from_Jekyll_Island" target="_blank" rel="noopener noreferrer" title="The Creature from Jekyll Island - G. Edward Griffin"><img src="images/books/creaturefromjekyllisland.jpg"/></a></td>-->
                     <!--<td><a href="https://www.goodreads.com/book/show/60625290-bitcoin-is-venice" target="_blank" rel="noopener noreferrer" title="Bitcoin is Venice - Allen Farrington, Sacha Meyers"><img src="images/books/bitcoinisvenice.jpg"/></a></td>-->
