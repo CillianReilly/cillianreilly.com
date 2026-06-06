@@ -1,7 +1,7 @@
    <div style="width:95%;margin:auto">
         <h3>sg ultra map</h3>
 
-        <p>Combining two of hobbies, programming and running for a long time, I decided to try and make a physical representation of the cross Singapore ultra I ran last year (<a href="/blog/cross-country-running-part-two-becoming-an-ultraunner.html" target="_blank" rel="noopener noreferrer">original post)</a>. Obviously, a map was the obvious candidate, and having done some map based work with R in the past, felt this was a pretty achievable target.</p>
+        <p>Combining two of my hobbies, programming and running for a long time, I decided to try and make a physical representation of the cross Singapore ultra I ran last year (<a href="/blog/cross-country-running-part-two-becoming-an-ultraunner.html" target="_blank" rel="noopener noreferrer">original post)</a>. Obviously, a map was the obvious candidate, and having done some map based work with R in the past, felt this was a pretty achievable target.</p>
 
         <p>The first step was to get a copy of the run GPX file from my garmin account. GPX stands for GPS Exchange Format and is an open xml standard, interopable across various different tools and applications. Each activity on garmin has a corresponding GPX file, that can we easily downloaded using the garmin connect website. The xml contains various pieces of metadata along with many datapoints taken frequently during the activity, including time, longitude, latitude and temperature. A sample of the GPX is shown below.</p>
 
