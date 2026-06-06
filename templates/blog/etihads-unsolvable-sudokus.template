@@ -1,0 +1,84 @@
+<style>
+    table.sudoku {
+        border-collapse: collapse;
+        border: 2px solid black;
+    }
+
+    table.sudoku td {
+        width: 40px;
+        height: 40px;
+        border: 1px solid #646464;
+        text-align: center;
+        vertical-align: middle;
+        font-size: 18px;
+    }
+
+    /* vertical borders */
+    table.sudoku td:nth-child(3),
+    table.sudoku td:nth-child(6) {
+        border-right: 2px solid black;
+    }
+
+    /* horizontal borders */
+    table.sudoku tr:nth-child(3) td,
+    table.sudoku tr:nth-child(6) td {
+        border-bottom: 2px solid black;
+    }
+</style>
+
+   <div style="width:95%;margin:auto">
+        <h3>etihad airways' unsolvable sudokus</h3>
+
+        <p>Recently on an Etihad Airways flight, I tried their onboard sudoku program and picked the hardest option available. This was the initial state of the puzzle:</p>
+
+        <table class="sudoku">
+            <tbody>
+                <tr><td> </td><td> </td><td> </td><td>5</td><td> </td><td>6</td><td> </td><td>8</td><td>7</td></tr>
+                <tr><td>9</td><td> </td><td>2</td><td> </td><td>1</td><td> </td><td>3</td><td>5</td><td>6</td></tr>
+                <tr><td> </td><td> </td><td> </td><td> </td><td> </td><td>3</td><td>1</td><td>4</td><td>9</td></tr>
+                <tr><td> </td><td> </td><td>9</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
+                <tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
+                <tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>7</td><td> </td><td> </td></tr>
+                <tr><td>5</td><td>9</td><td>8</td><td>4</td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
+                <tr><td>1</td><td>2</td><td>6</td><td> </td><td>5</td><td> </td><td>9</td><td> </td><td>4</td></tr>
+                <tr><td>3</td><td>4</td><td> </td><td>9</td><td> </td><td>1</td><td> </td><td> </td><td> </td></tr>
+            </tbody>
+        </table>
+
+        <p>By the end of the flight, I'd made little progress towards completing it. I took a picture of the partial solution to write down on paper and continue later.</p>
+
+        <table class="sudoku">
+            <tbody>
+                <tr><td>4</td><td> </td><td> </td><td>5</td><td>9</td><td>6</td><td>2</td><td>8</td><td>7</td></tr>
+                <tr><td>9</td><td> </td><td>2</td><td> </td><td>1</td><td>4</td><td>3</td><td>5</td><td>6</td></tr>
+                <tr><td> </td><td> </td><td> </td><td> </td><td> </td><td>3</td><td>1</td><td>4</td><td>9</td></tr>
+                <tr><td> </td><td> </td><td>9</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
+                <tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
+                <tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>7</td><td> </td><td> </td></tr>
+                <tr><td>5</td><td>9</td><td>8</td><td>4</td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
+                <tr><td>1</td><td>2</td><td>6</td><td> </td><td>5</td><td> </td><td>9</td><td> </td><td>4</td></tr>
+                <tr><td>3</td><td>4</td><td>7</td><td>9</td><td> </td><td>1</td><td> </td><td> </td><td> </td></tr>
+            </tbody>
+        </table>
+
+        <p>As it turns out, this was about as far I was going to get (there were a few more deterministic numbers but not many). After a few days of frustration and learning various new sudoku solving techniques, I gave in and put it into an online solver. This particular puzzle has 10 unique solutions (according to <a href="https://sudokuspoiler.com/sudoku/9" target="_blank" rel="noopener noreferrer">sudokuspoiler.com</a>), which means it's not a valid sudoku puzzle. Unsolvable is maybe not the correct word to describe a sudoku like this, as it's possible to brute force a solution, but it is certainly invalid.</p>
+
+        <p>On the return flight, I tried again on an easier setting hoping to avoid any guesswork, only to be faced with this state:</p>
+
+        <table class="sudoku">
+            <tbody>
+                <tr><td>4</td><td>3</td><td>1</td><td>5</td><td>9</td><td>6</td><td>2</td><td>8</td><td>7</td></tr>
+                <tr><td>9</td><td>7</td><td>2</td><td>8</td><td>1</td><td>4</td><td>3</td><td>5</td><td>6</td></tr>
+                <tr><td>6</td><td>8</td><td>5</td><td>2</td><td>7</td><td>3</td><td> </td><td> </td><td>9</td></tr>
+                <tr><td>2</td><td>6</td><td>9</td><td>7</td><td>8</td><td>5</td><td> </td><td> </td><td>3</td></tr>
+                <tr><td>7</td><td>5</td><td>4</td><td>1</td><td>3</td><td>9</td><td>8</td><td>6</td><td>2</td></tr>
+                <tr><td>8</td><td>1</td><td>3</td><td>6</td><td>4</td><td>2</td><td>7</td><td>9</td><td>5</td></tr>
+                <tr><td>5</td><td>9</td><td>8</td><td>4</td><td>2</td><td>7</td><td>6</td><td>3</td><td>1</td></tr>
+                <tr><td>1</td><td>2</td><td>6</td><td>3</td><td>5</td><td>8</td><td>9</td><td>7</td><td>4</td></tr>
+                <tr><td>3</td><td>4</td><td>7</td><td>9</td><td>6</td><td>1</td><td>5</td><td>2</td><td>8</td></tr>
+            </tbody>
+        </table>
+
+        <p>It was only on writing this blog did I realise that this puzzle is in fact just an easier version of the harder puzzle! Does this program just have a single sudoku and provides more or less clues depending on the difficulty setting? Etihad Airways neglected to comment on this, as I neglected to tell them about it.</p>
+
+    </div>
