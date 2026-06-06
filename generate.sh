@@ -64,11 +64,11 @@ for page in $(grep "[0-9]\{4\}.[0-9]\{2\}.[0-9]\{2\}" templates/blog.template | 
 	data=$(grep $page templates/blog.template)
 	if [[ $data == *"/blog/"* ]];then
 		#xargs trims leading and trailing spaces
-		title=$(echo $data | cut -d : -f 2 | cut -d "<" -f 1 | xargs)
+		title=$(echo $data | cut -d : -f 2 | cut -d "<" -f 1 | xargs -0)
 		link=$(echo "https://cillianreilly.com"$page)
 		pubDate=$(echo $data | cut -d ">" -f3 | cut -d : -f 1 | xargs)
 	else
-		title=$(echo $data | cut -d : -f 3 | cut -d "<" -f 1 | xargs)
+		title=$(echo $data | cut -d : -f 3 | cut -d "<" -f 1 | xargs -0)
 		link=$(echo $data | cut -d " " -f2 | cut -d = -f 2- | xargs)
 		pubDate=$(echo $data | cut -d ">" -f3 | cut -d : -f 1 | xargs)
 	fi
@@ -91,11 +91,11 @@ for page in $(grep "[0-9]\{4\}.[0-9]\{2\}.[0-9]\{2\}" templates/blog/kdb.templat
         data=$(grep $page templates/blog/kdb.template)
         if [[ $data == *"/blog/"* ]];then
                 #xargs trims leading and trailing spaces
-                title=$(echo $data | cut -d : -f 2 | cut -d "<" -f 1 | xargs)
+                title=$(echo $data | cut -d : -f 2 | cut -d "<" -f 1 | xargs -0)
                 link=$(echo "https://cillianreilly.com"$page)
                 pubDate=$(echo $data | cut -d ">" -f3 | cut -d : -f 1 | xargs)
         else
-                title=$(echo $data | cut -d : -f 3 | cut -d "<" -f 1 | xargs)
+                title=$(echo $data | cut -d : -f 3 | cut -d "<" -f 1 | xargs -0)
                 link=$(echo $data | cut -d = -f 2 | cut -d " " -f 1 | xargs)
                 pubDate=$(echo $data | cut -d ">" -f3 | cut -d : -f 1 | xargs)
         fi
