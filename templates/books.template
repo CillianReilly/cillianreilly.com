@@ -4,7 +4,7 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/31380515-foundation-s-edge" target="_blank" rel="noopener noreferrer" title="Foundation's Edge - Isaac Asimov"><img src="images/books/foundationsedge.jpg"/></a></td>
-
+                    <td><a href="https://www.goodreads.com/book/show/34941133-principles" target="_blank" rel="noopener noreferrer" title="Principles - Ray Dalio"><img src="images/books/principles.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -38,7 +38,6 @@
                     <td><a href="https://www.goodreads.com/book/show/214899660-patriot-games" target="_blank" rel="noopener noreferrer" title="Patriot Games - Tom Clancy"><img src="images/books/patriotgames.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/17665021-the-man-in-the-high-castle" target="_blank" rel="noopener noreferrer" title="The Man in the High Castle - Philip K. Dick"><img src="images/books/maninthehighcastle.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/44492287-heretics-of-dune" target="_blank" rel="noopener noreferrer" title="Heretics of Dune - Frank Herbert"><img src="images/books/hereticsofdune.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/34941133-principles" target="_blank" rel="noopener noreferrer" title="Principles - Ray Dalio"><img src="images/books/principles.jpg"/></a></td>
                     <!-- Recommended by Fergus Taylor -->
                     <td><a href="https://www.goodreads.com/book/show/578489.Birdsong" target="_blank" rel="noopener noreferrer" title="Birdsong - Sebastian Faulks"><img src="images/books/birdsong.jpg"/></a></td>
                 </tr>
