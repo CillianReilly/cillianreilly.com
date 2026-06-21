@@ -3,7 +3,6 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/31380515-foundation-s-edge" target="_blank" rel="noopener noreferrer" title="Foundation's Edge - Isaac Asimov"><img src="images/books/foundationsedge.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/34941133-principles" target="_blank" rel="noopener noreferrer" title="Principles - Ray Dalio"><img src="images/books/principles.jpg"/></a></td>
                 </tr>
             </table>
@@ -85,6 +84,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/31380515-foundation-s-edge" target="_blank" rel="noopener noreferrer" title="Foundation's Edge - Isaac Asimov"><img src="images/books/foundationsedge.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/35718747-the-children-of-men" target="_blank" rel="noopener noreferrer" title="The Children of Men - P.D. James"><img src="images/books/childrenofmen.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/212343145-hands-of-time" target="_blank" rel="noopener noreferrer" title="Hands of Time - Rebecca Struthers"><img src="images/books/handsoftime.jpg"/></a></td>
                         <!-- Recommended by Isabella Kristensen -->
