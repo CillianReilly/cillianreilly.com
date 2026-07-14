@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine" target="_blank" rel="noopener noreferrer" title="The Soul of a New Machine - Tracy Kidder"><img src="images/books/soulofanewmachine.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/31380528-foundation-and-earth" target="_blank" rel="noopener noreferrer" title="Foundation and Earth - Isaac Asimov"><img src="images/books/foundationandearth.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -37,7 +37,6 @@
                     <td><a href="https://www.goodreads.com/book/show/44492287-heretics-of-dune" target="_blank" rel="noopener noreferrer" title="Heretics of Dune - Frank Herbert"><img src="images/books/hereticsofdune.jpg"/></a></td>
                     <!-- Recommended by Fergus Taylor -->
                     <td><a href="https://www.goodreads.com/book/show/578489.Birdsong" target="_blank" rel="noopener noreferrer" title="Birdsong - Sebastian Faulks"><img src="images/books/birdsong.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/31380528-foundation-and-earth" target="_blank" rel="noopener noreferrer" title="Foundation and Earth - Isaac Asimov"><img src="images/books/foundationandearth.jpg"/></a></td>
                 </tr>
 
                     <!--<td><a href="https://www.goodreads.com/en/book/show/66499.The_Creature_from_Jekyll_Island" target="_blank" rel="noopener noreferrer" title="The Creature from Jekyll Island - G. Edward Griffin"><img src="images/books/creaturefromjekyllisland.jpg"/></a></td>-->
@@ -82,6 +81,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine" target="_blank" rel="noopener noreferrer" title="The Soul of a New Machine - Tracy Kidder"><img src="images/books/soulofanewmachine.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/197566578" target="_blank" rel="noopener noreferrer" title="Broken Money - Lyn Alden"><img src="images/books/brokenmoney.jpg"/></a></td>
                     <tr>
                     </tr>
