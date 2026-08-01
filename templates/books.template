@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/589812.Lake_Wobegon_Summer_1956" target="_blank" rel="noopener noreferrer" title="Lake Wobegon Summer 1956 - Garrison Keillor"><img src="images/books/lakewobegonsummer1956.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/8181105-noble-house" target="_blank" rel="noopener noreferrer" title="Noble House - James Clavell"><img src="images/books/noblehouse.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -24,15 +24,14 @@
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/80571.American_Prometheus" target="_blank" rel="noopener noreferrer" title="American Prometheus - Kai Bird, Martin J. Sherwin"><img src="images/books/americanprometheus.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/11933489-manufacturing-consent" target="_blank" rel="noopener noreferrer" title="Manufacturing Consent - Noam Chomsky"><img src="images/books/manufacturingconsent.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/8181105-noble-house" target="_blank" rel="noopener noreferrer" title="Noble House - James Clavell"><img src="images/books/noblehouse.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/430146.Guns_Germs_and_Steel" target="_blank" rel="noopener noreferrer" title="Guns, Germs and Steel - Jared Diamond"><img src="images/books/gunsgermsandsteel.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/50309218-longitude" target="_blank" rel="noopener noreferrer" title="Longitude - Dava Sobel"><img src="images/books/longitude.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/8460324-the-great-gatsby" target="_blank" rel="noopener noreferrer" title="The Great Gatsby - F. Scott Fitzgerald"><img src="images/books/greatgatsby.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/16902.Walden" target="_blank" rel="noopener noreferrer" title="Walden - Henry David Thoreau"><img src="images/books/walden.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division" target="_blank" rel="noopener noreferrer" title="There is No Antimemetics Division - qntm"><img src="images/books/thereisnoantimemeticsdivision.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/214899660-patriot-games" target="_blank" rel="noopener noreferrer" title="Patriot Games - Tom Clancy"><img src="images/books/patriotgames.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/214899660-patriot-games" target="_blank" rel="noopener noreferrer" title="Patriot Games - Tom Clancy"><img src="images/books/patriotgames.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/17665021-the-man-in-the-high-castle" target="_blank" rel="noopener noreferrer" title="The Man in the High Castle - Philip K. Dick"><img src="images/books/maninthehighcastle.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/44492287-heretics-of-dune" target="_blank" rel="noopener noreferrer" title="Heretics of Dune - Frank Herbert"><img src="images/books/hereticsofdune.jpg"/></a></td>
                     <!-- Recommended by Fergus Taylor -->
@@ -81,6 +80,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/589812.Lake_Wobegon_Summer_1956" target="_blank" rel="noopener noreferrer" title="Lake Wobegon Summer 1956 - Garrison Keillor"><img src="images/books/lakewobegonsummer1956.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/31380528-foundation-and-earth" target="_blank" rel="noopener noreferrer" title="Foundation and Earth - Isaac Asimov"><img src="images/books/foundationandearth.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine" target="_blank" rel="noopener noreferrer" title="The Soul of a New Machine - Tracy Kidder"><img src="images/books/soulofanewmachine.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/197566578" target="_blank" rel="noopener noreferrer" title="Broken Money - Lyn Alden"><img src="images/books/brokenmoney.jpg"/></a></td>
