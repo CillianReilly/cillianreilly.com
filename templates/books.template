@@ -4,7 +4,6 @@
             <table>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/11933489-manufacturing-consent" target="_blank" rel="noopener noreferrer" title="Manufacturing Consent - Noam Chomsky"><img src="images/books/manufacturingconsent.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/40376072-children-of-ruin" target="_blank" rel="noopener noreferrer" title="Children of Ruin - Adrian Tchaikovsky"><img src="images/books/childrenofruin.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -89,6 +88,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/40376072-children-of-ruin" target="_blank" rel="noopener noreferrer" title="Children of Ruin - Adrian Tchaikovsky"><img src="images/books/childrenofruin.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/8181105-noble-house" target="_blank" rel="noopener noreferrer" title="Noble House - James Clavell"><img src="images/books/noblehouse.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/589812.Lake_Wobegon_Summer_1956" target="_blank" rel="noopener noreferrer" title="Lake Wobegon Summer 1956 - Garrison Keillor"><img src="images/books/lakewobegonsummer1956.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/31380528-foundation-and-earth" target="_blank" rel="noopener noreferrer" title="Foundation and Earth - Isaac Asimov"><img src="images/books/foundationandearth.jpg"/></a></td>
