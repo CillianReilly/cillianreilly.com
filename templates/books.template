@@ -3,8 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/11933489-manufacturing-consent" target="_blank" rel="noopener noreferrer" title="Manufacturing Consent - Noam Chomsky"><img src="images/books/manufacturingconsent.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/127380244-dhalgren-s-f-masterworks-by-samuel-r-delany" target="_blank" rel="noopener noreferrer" title="Dhalgren - Samuel R. Delany"><img src="images/books/dhalgren.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/181133.And_Then_There_Were_None" target="_blank" rel="noopener noreferrer" title="And Then There Were None - Agatha Christie"><img src="images/books/andthentherewerenone.jpg"/></a></td>
 
                 </tr>
             </table>
@@ -83,6 +82,11 @@
                     <td><a href="https://www.goodreads.com/book/show/240617.Tau_Zero" target="_blank" rel="noopener noreferrer" title="Tau Zero - Poul Anderson"><img src="images/books/tauzero.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/28409581-a-fire-upon-the-deep" target="_blank" rel="noopener noreferrer" title="A Fire Upon the Deep - Vernor Vinge"><img src="images/books/afireuponthedeep.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/10035073-true-grit" target="_blank" rel="noopener noreferrer" title="True Grit - Charles Portis"><img src="images/books/truegrit.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/19378389-a-clockwork-orange" target="_blank" rel="noopener noreferrer" title="A Clockwork Orange - Anthony Burgess"><img src="images/books/aclockworkorange.jpg"/></a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://www.goodreads.com/book/show/588495.Dracula" target="_blank" rel="noopener noreferrer" title="Dracula - Bram Stoker"><img src="images/books/dracula.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/25397185-hard-to-be-a-god" target="_blank" rel="noopener noreferrer" title="Hard to Be a God - Arkady & Boris Strugatsky"><img src="images/books/hardtobeagod.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -94,6 +98,8 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/127380244-dhalgren-s-f-masterworks-by-samuel-r-delany" target="_blank" rel="noopener noreferrer" title="Dhalgren - Samuel R. Delany"><img src="images/books/dhalgren.jpg"/></a></td>
+                        <td><a href="https://www.goodreads.com/book/show/11933489-manufacturing-consent" target="_blank" rel="noopener noreferrer" title="Manufacturing Consent - Noam Chomsky"><img src="images/books/manufacturingconsent.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/40376072-children-of-ruin" target="_blank" rel="noopener noreferrer" title="Children of Ruin - Adrian Tchaikovsky"><img src="images/books/childrenofruin.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/8181105-noble-house" target="_blank" rel="noopener noreferrer" title="Noble House - James Clavell"><img src="images/books/noblehouse.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/589812.Lake_Wobegon_Summer_1956" target="_blank" rel="noopener noreferrer" title="Lake Wobegon Summer 1956 - Garrison Keillor"><img src="images/books/lakewobegonsummer1956.jpg"/></a></td>
