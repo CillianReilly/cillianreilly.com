@@ -3,8 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/181133.And_Then_There_Were_None" target="_blank" rel="noopener noreferrer" title="And Then There Were None - Agatha Christie"><img src="images/books/andthentherewerenone.jpg"/></a></td>
-
+                    <td><a href="https://www.goodreads.com/book/show/25397185-hard-to-be-a-god" target="_blank" rel="noopener noreferrer" title="Hard to Be a God - Arkady & Boris Strugatsky"><img src="images/books/hardtobeagod.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -86,7 +85,6 @@
                 </tr>
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/588495.Dracula" target="_blank" rel="noopener noreferrer" title="Dracula - Bram Stoker"><img src="images/books/dracula.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/25397185-hard-to-be-a-god" target="_blank" rel="noopener noreferrer" title="Hard to Be a God - Arkady & Boris Strugatsky"><img src="images/books/hardtobeagod.jpg"/></a></td>
                     <!-- Recommended by Sinead Gonley -->
                     <td><a href="https://www.goodreads.com/book/show/531764.The_Professor_and_the_Madman" target="_blank" rel="noopener noreferrer" title="The Professor and the Madman - Simon Winchester"><img src="images/books/professorandthemadman.jpg"/></a></td>
                 </tr>
@@ -100,6 +98,9 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/181133.And_Then_There_Were_None" target="_blank" rel="noopener noreferrer" title="And Then There Were None - Agatha Christie"><img src="images/books/andthentherewerenone.jpg"/></a></td>
+                    <tr>
+                    </tr>
                         <td><a href="https://www.goodreads.com/book/show/127380244-dhalgren-s-f-masterworks-by-samuel-r-delany" target="_blank" rel="noopener noreferrer" title="Dhalgren - Samuel R. Delany"><img src="images/books/dhalgren.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/11933489-manufacturing-consent" target="_blank" rel="noopener noreferrer" title="Manufacturing Consent - Noam Chomsky"><img src="images/books/manufacturingconsent.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/40376072-children-of-ruin" target="_blank" rel="noopener noreferrer" title="Children of Ruin - Adrian Tchaikovsky"><img src="images/books/childrenofruin.jpg"/></a></td>
