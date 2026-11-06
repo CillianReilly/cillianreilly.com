@@ -3,7 +3,7 @@
         <div class="content" style="max-height:170px">
             <table>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division" target="_blank" rel="noopener noreferrer" title="There is No Antimemetics Division - qntm"><img src="images/books/thereisnoantimemeticsdivision.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/24957036-the-butcher-boy" target="_blank" rel="noopener noreferrer" title="The Butcher Boy - Patrick McCabe"><img src="images/books/butcherboy.jpg"/></a></td>
                 </tr>
             </table>
         </div>
@@ -35,16 +35,15 @@
                 <tr>
                     <td><a href="https://www.goodreads.com/book/show/61153739-outlive" target="_blank" rel="noopener noreferrer" title="Outlive - Peter Attia"><img src="images/books/outlive.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/42932.Whirlwind" target="_blank" rel="noopener noreferrer" title="Whirlwind - James Clavell"><img src="images/books/whirlwind.jpg"/></a></td>
-                    <td><a href="https://www.goodreads.com/book/show/24957036-the-butcher-boy" target="_blank" rel="noopener noreferrer" title="The Butcher Boy - Patrick McCabe"><img src="images/books/butcherboy.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/301563.The_Recursive_Universe" target="_blank" rel="noopener noreferrer" title="Recursive Universe - William Poundstone"><img src="images/books/recursiveuniverse.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/18883653-axiomatic" target="_blank" rel="noopener noreferrer" title="Axiomatic - Greg Egan"><img src="images/books/axiomatic.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/6572270-bloodlands" target="_blank" rel="noopener noreferrer" title="Bloodlands - Timothy Snyder"><img src="images/books/bloodlands.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/63329951" target="_blank" rel="noopener noreferrer" title="Paved Paradise - Henry Grabar"><img src="images/books/pavedparadise.jpg"/></a></td>
                     <!-- Recommended by Chris Atkinson -->
                     <td><a href="https://www.goodreads.com/book/show/514313.Bringing_Down_the_House" target="_blank" rel="noopener noreferrer" title="Bringing Down the House - Ben Mezrich"><img src="images/books/bringingdownthehouse.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/20186.Seeing_Like_a_State" target="_blank" rel="noopener noreferrer" title="Seeing Like a State - James C. Scott"><img src="images/books/seeinglikeastate.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/20186.Seeing_Like_a_State" target="_blank" rel="noopener noreferrer" title="Seeing Like a State - James C. Scott"><img src="images/books/seeinglikeastate.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/58377454-blindsight" target="_blank" rel="noopener noreferrer" title="Blindsight - Peter Watts"><img src="images/books/blindsight.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/36510196-old-man-s-war" target="_blank" rel="noopener noreferrer" title="Old Man's War - John Scalzi"><img src="images/books/oldmanswar.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/45252.Pandora_s_Star" target="_blank" rel="noopener noreferrer" title="Pandora's Star - Peter F. Hamilton"><img src="images/books/pandorasstar.jpg"/></a></td>
@@ -52,9 +51,9 @@
                     <td><a href="https://www.goodreads.com/book/show/63204063-ultramarathon" target="_blank" rel="noopener noreferrer" title="Ultramarathon - James E. Shapiro"><img src="images/books/ultramarathon.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/27333.Silent_Spring" target="_blank" rel="noopener noreferrer" title="Silent Spring - Rachel Carson"><img src="images/books/silentspring.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/37920247-whittled-away" target="_blank" rel="noopener noreferrer" title="Whittled Away - Padraic Fogarty"><img src="images/books/whittledaway.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/231148075-the-art-of-spending-money" target="_blank" rel="noopener noreferrer" title="The Art of Spending Money - Morgan Housel"><img src="images/books/artofspendingmoney.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/231148075-the-art-of-spending-money" target="_blank" rel="noopener noreferrer" title="The Art of Spending Money - Morgan Housel"><img src="images/books/artofspendingmoney.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/18747125-solaris" target="_blank" rel="noopener noreferrer" title="Solaris - Stanislaw Lem"><img src="images/books/solaris.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/13624.The_Worm_Ouroboros" target="_blank" rel="noopener noreferrer" title="The Worm Ouroboros - E.R. Eddison"><img src="images/books/wormouroboros.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/243022200-the-nuclear-age" target="_blank" rel="noopener noreferrer" title="The Nuclear Age - Serhii Plokhy"><img src="images/books/nuclearage.jpg"/></a></td>
@@ -62,9 +61,9 @@
                     <td><a href="https://www.goodreads.com/book/show/2407059.Why_Flip_a_Coin_?" target="_blank" rel="noopener noreferrer" title="Why Flip a Coin - H.W. Lewis"><img src="images/books/whyflipacoin.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/68003672-of-cabbages-and-kimchi" target="_blank" rel="noopener noreferrer" title="Of Cabbages and Kimchi - James Read"><img src="images/books/ofcabbagesandkimchi.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/9830974.The_High_Cost_of_Free_Parking" target="_blank" rel="noopener noreferrer" title="The High Cost of Free Parking - Donald Shoup"><img src="images/books/highcostoffreeparking.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/11510733-make-the-bread-buy-the-butter" target="_blank" rel="noopener noreferrer" title="Make the Bread, Buy the Butter - Jennifer Reese"><img src="images/books/makethebreadbuythebutter.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/11510733-make-the-bread-buy-the-butter" target="_blank" rel="noopener noreferrer" title="Make the Bread, Buy the Butter - Jennifer Reese"><img src="images/books/makethebreadbuythebutter.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/3931154-ratio" target="_blank" rel="noopener noreferrer" title="Ratio - Michael Ruhlman"><img src="images/books/ratio.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/36690518-utopia-for-realists" target="_blank" rel="noopener noreferrer" title="Utopia for Realists - Rutger Bregman"><img src="images/books/utopiaforrealists.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/242438369-braver-new-world" target="_blank" rel="noopener noreferrer" title="Braver New World - John Kampfner"><img src="images/books/bravernewworld.jpg"/></a></td>
@@ -72,9 +71,9 @@
                     <td><a href="https://www.goodreads.com/book/show/20821092-napoleon" target="_blank" rel="noopener noreferrer" title="Napoleon: A Life - Andrew Roberts"><img src="images/books/napoleonalife.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/51880082-networking-for-systems-administrators" target="_blank" rel="noopener noreferrer" title="Networking for System Adminstrators - Michael W. Lucas"><img src="images/books/networkingforsystemsadminstrators.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/246857106-the-from-scratch-kitchen" target="_blank" rel="noopener noreferrer" title="The From Scratch Kitchen - Bob Dickinson"><img src="images/books/fromscratchkitchen.jpg"/></a></td>
+                    <td><a href="https://www.goodreads.com/book/show/883209.Master_and_Commander" target="_blank" rel="noopener noreferrer" title="Master and Commander - Patrick O'Brian"><img src="images/books/masterandcommander.jpg"/></a></td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.goodreads.com/book/show/883209.Master_and_Commander" target="_blank" rel="noopener noreferrer" title="Master and Commander - Patrick O'Brian"><img src="images/books/masterandcommander.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/105760.Zodiac" target="_blank" rel="noopener noreferrer" title="Zodiac - Robert Graysmith"><img src="images/books/zodiac.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/202757.First_Contact" target="_blank" rel="noopener noreferrer" title="First Contact - Bob Connolly, Robin Anderson"><img src="images/books/firstcontact.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/240617.Tau_Zero" target="_blank" rel="noopener noreferrer" title="Tau Zero - Poul Anderson"><img src="images/books/tauzero.jpg"/></a></td>
@@ -82,8 +81,6 @@
                     <td><a href="https://www.goodreads.com/book/show/10035073-true-grit" target="_blank" rel="noopener noreferrer" title="True Grit - Charles Portis"><img src="images/books/truegrit.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/19378389-a-clockwork-orange" target="_blank" rel="noopener noreferrer" title="A Clockwork Orange - Anthony Burgess"><img src="images/books/aclockworkorange.jpg"/></a></td>
                     <td><a href="https://www.goodreads.com/book/show/588495.Dracula" target="_blank" rel="noopener noreferrer" title="Dracula - Bram Stoker"><img src="images/books/dracula.jpg"/></a></td>
-                </tr>
-                <tr>
                     <!-- Recommended by Sinead Gonley -->
                     <td><a href="https://www.goodreads.com/book/show/531764.The_Professor_and_the_Madman" target="_blank" rel="noopener noreferrer" title="The Professor and the Madman - Simon Winchester"><img src="images/books/professorandthemadman.jpg"/></a></td>
                 </tr>
@@ -97,6 +94,7 @@
             <div class="content">
                 <table>
                     <tr>
+                        <td><a href="https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division" target="_blank" rel="noopener noreferrer" title="There is No Antimemetics Division - qntm"><img src="images/books/thereisnoantimemeticsdivision.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/25397185-hard-to-be-a-god" target="_blank" rel="noopener noreferrer" title="Hard to Be a God - Arkady & Boris Strugatsky"><img src="images/books/hardtobeagod.jpg"/></a></td>
                         <td><a href="https://www.goodreads.com/book/show/181133.And_Then_There_Were_None" target="_blank" rel="noopener noreferrer" title="And Then There Were None - Agatha Christie"><img src="images/books/andthentherewerenone.jpg"/></a></td>
                     <tr>
